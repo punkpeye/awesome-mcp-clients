@@ -35,6 +35,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 <tr><th align="left">Website</th><td>https://5ire.app/</td></tr>
 <tr><th align="left">License</th><td>GNU v3</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
 </table>
 
 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers.
@@ -53,6 +54,7 @@ https://github.com/user-attachments/assets/a27494c5-437d-481c-a25f-74cfa5a2bc45
 <tr><th align="left">Website</th><td>https://claude.ai/download</td></tr>
 <tr><th align="left">License</th><td>Proprietary</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
 </table>
 
 The Claude desktop app brings Claude's capabilities directly to your computer, allowing for seamless integration with your workflow.
@@ -71,6 +73,7 @@ The Claude desktop app brings Claude's capabilities directly to your computer, a
 <tr><th align="left">Website</th><td>https://claudemind.com/</td></tr>
 <tr><th align="left">License</th><td>Proprietary</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS, JetBrains Plugin</td></tr>
+<tr><th align="left">Pricing</th><td>Per seat (from $29)</td></tr>
 </table>
 
 Experience Claude AI without limits. Use our desktop app for everyday AI assistance, or boost your coding productivity with our JetBrains plugin.
@@ -91,6 +94,7 @@ Experience Claude AI without limits. Use our desktop app for everyday AI assista
 <tr><th align="left">Website</th><td>https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev</td></tr>
 <tr><th align="left">License</th><td>Apache 2.0</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS (VSCode extension)</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
 </table>
 
 Cline can handle complex software development tasks step-by-step. With tools that let him create & edit files, explore large projects, use the browser, and execute terminal commands (after you grant permission), he can assist you in ways that go beyond code completion or tech support. Cline can even use the Model Context Protocol (MCP) to create new tools and extend his own capabilities. While autonomous AI scripts traditionally run in sandboxed environments, this extension provides a human-in-the-loop GUI to approve every file change and terminal command, providing a safe and accessible way to explore the potential of agentic AI.
@@ -109,6 +113,7 @@ Cline can handle complex software development tasks step-by-step. With tools tha
 <tr><th align="left">Website</th><td>-</td></tr>
 <tr><th align="left">License</th><td>Apache 2.0<a href="https://github.com/BigSweetPotatoStudio/HyperChat/blob/main/LICENSE">*</a></td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
 </table>
 
 HyperChat is an open Chat client that can use various LLM APIs to provide the best Chat experience and implement productivity tools through the MCP protocol.
@@ -139,6 +144,7 @@ HyperChat is an open Chat client that can use various LLM APIs to provide the be
 <tr><th align="left">Website</th><td>https://www.librechat.ai/</td></tr>
 <tr><th align="left">License</th><td>MIT license</td></tr>
 <tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
 </table>
 
 Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting.
