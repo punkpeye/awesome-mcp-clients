@@ -22,6 +22,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 ## Clients
 
 * [5ire](#5ire)
+* [Cline](#cline)
 * [HyperChat](#hyperchat)
 * [LibreChat](#librechat)
 
@@ -43,12 +44,30 @@ https://github.com/user-attachments/assets/a27494c5-437d-481c-a25f-74cfa5a2bc45
 
 </details>
 
+### Cline
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/cline/cline</td></tr>
+<tr><th align="left">Website</th><td>https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS (VSCode extension)</td></tr>
+</table>
+
+Cline can handle complex software development tasks step-by-step. With tools that let him create & edit files, explore large projects, use the browser, and execute terminal commands (after you grant permission), he can assist you in ways that go beyond code completion or tech support. Cline can even use the Model Context Protocol (MCP) to create new tools and extend his own capabilities. While autonomous AI scripts traditionally run in sandboxed environments, this extension provides a human-in-the-loop GUI to approve every file change and terminal command, providing a safe and accessible way to explore the potential of agentic AI.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/cline/cline-demo.gif)
+
+</details>
+
 ### HyperChat
 
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/BigSweetPotatoStudio/HyperChat</td></tr>
 <tr><th align="left">Website</th><td>-</td></tr>
-<tr><th align="left">License</th><td>Apache License 2.0<a href="https://github.com/BigSweetPotatoStudio/HyperChat/blob/main/LICENSE">*</a></td></tr>
+<tr><th align="left">License</th><td>Apache 2.0<a href="https://github.com/BigSweetPotatoStudio/HyperChat/blob/main/LICENSE">*</a></td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
 </table>
 
