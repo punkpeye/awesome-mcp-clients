@@ -43,6 +43,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 <tr><th align="left">Type</th><td>Desktop app</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
 </table>
 
 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers.
@@ -63,6 +64,7 @@ https://github.com/user-attachments/assets/a27494c5-437d-481c-a25f-74cfa5a2bc45
 <tr><th align="left">Type</th><td>Desktop app</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Dart</td></tr>
 </table>
 
 ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
@@ -84,6 +86,7 @@ ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
 <tr><th align="left">Type</th><td>Desktop app</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>-</td></tr>
 </table>
 
 The Claude desktop app brings Claude's capabilities directly to your computer, allowing for seamless integration with your workflow.
@@ -104,6 +107,7 @@ The Claude desktop app brings Claude's capabilities directly to your computer, a
 <tr><th align="left">Type</th><td>Desktop app, JetBrains extension</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
 <tr><th align="left">Pricing</th><td>Per seat (from $29)</td></tr>
+<tr><th align="left">Programming Languages</th><td>-</td></tr>
 </table>
 
 Experience Claude AI without limits. Use our desktop app for everyday AI assistance, or boost your coding productivity with our JetBrains plugin.
@@ -126,6 +130,7 @@ Experience Claude AI without limits. Use our desktop app for everyday AI assista
 <tr><th align="left">Type</th><td>VSCode extension</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
 </table>
 
 Cline can handle complex software development tasks step-by-step. With tools that let him create & edit files, explore large projects, use the browser, and execute terminal commands (after you grant permission), he can assist you in ways that go beyond code completion or tech support. Cline can even use the Model Context Protocol (MCP) to create new tools and extend his own capabilities. While autonomous AI scripts traditionally run in sandboxed environments, this extension provides a human-in-the-loop GUI to approve every file change and terminal command, providing a safe and accessible way to explore the potential of agentic AI.
@@ -146,6 +151,7 @@ Cline can handle complex software development tasks step-by-step. With tools tha
 <tr><th align="left">Type</th><td>CLI</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
 </table>
 
 Enjoy seamless interactions with ChatGPT, MistralAI, Claude by Anthropic, Grok by xAI, Gemini by Google and DeepSeek directly from your command line. Elevate your chat experience with efficiency and ease.
@@ -168,6 +174,7 @@ Enjoy seamless interactions with ChatGPT, MistralAI, Claude by Anthropic, Grok b
 <tr><th align="left">Type</th><td>VSCode extension, JetBrains extension</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
 </table>
 
 Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains.
@@ -189,6 +196,7 @@ Continue is the leading open-source AI code assistant. You can connect any model
 <tr><th align="left">Type</th><td>Desktop app</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>JavaScript</td></tr>
 </table>
 
 HyperChat is an open Chat client that can use various LLM APIs to provide the best Chat experience and implement productivity tools through the MCP protocol.
@@ -221,6 +229,7 @@ HyperChat is an open Chat client that can use various LLM APIs to provide the be
 <tr><th align="left">Type</th><td>Web app</td></tr>
 <tr><th align="left">Platforms</th><td>-</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
 </table>
 
 Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting.
@@ -241,6 +250,7 @@ Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API,
 <tr><th align="left">Type</th><td>CLI</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
 </table>
 
 This chatbot example demonstrates how to integrate the Model Context Protocol (MCP) into a simple CLI chatbot. The implementation showcases MCP's flexibility by supporting multiple tools through MCP servers and is compatible with any LLM provider that follows OpenAI API standards.
@@ -254,6 +264,7 @@ This chatbot example demonstrates how to integrate the Model Context Protocol (M
 <tr><th align="left">Type</th><td>CLI</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
 </table>
 
 A simple CLI to run LLM prompt and implement MCP client.
@@ -274,6 +285,7 @@ A simple CLI to run LLM prompt and implement MCP client.
 <tr><th align="left">Type</th><td>Desktop app</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust</td></tr>
 </table>
 
 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
