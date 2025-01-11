@@ -23,6 +23,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 
 * [5ire](#5ire)
 * [HyperChat](#hyperchat)
+* [LibreChat](#librechat)
 
 ### 5ire
 
@@ -48,7 +49,7 @@ https://github.com/user-attachments/assets/a27494c5-437d-481c-a25f-74cfa5a2bc45
 <tr><th align="left">GitHub</th><td>https://github.com/BigSweetPotatoStudio/HyperChat</td></tr>
 <tr><th align="left">Website</th><td>-</td></tr>
 <tr><th align="left">License</th><td>Apache License 2.0<a href="https://github.com/BigSweetPotatoStudio/HyperChat/blob/main/LICENSE">*</a></td></tr>
-<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
 </table>
 
 HyperChat is an open Chat client that can use various LLM APIs to provide the best Chat experience and implement productivity tools through the MCP protocol.
@@ -71,6 +72,17 @@ HyperChat is an open Chat client that can use various LLM APIs to provide the be
 ![](./screenshots/hyperchat/image48.png)
 
 </details>
+
+### LibreChat
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/danny-avila/LibreChat</td></tr>
+<tr><th align="left">Website</th><td>https://www.librechat.ai/</td></tr>
+<tr><th align="left">License</th><td>MIT license</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+</table>
+
+LibreChat is a cross-platform desktop AI assistant, MCP client.
 
 ## Servers
 
