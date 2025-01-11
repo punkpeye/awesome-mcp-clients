@@ -172,6 +172,7 @@ Zed is a high-performance, multiplayer code editor from the creators of Atom and
 <details>
 <summary>Screenshots</summary>
 
+https://github.com/user-attachments/assets/95624731-5469-4b58-a21f-bbb31d9838fa
 
 </details>
 
