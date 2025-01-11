@@ -40,7 +40,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/BigSweetPotatoStudio/HyperChat</td></tr>
 <tr><th align="left">Website</th><td>-</td></tr>
-<tr><th align="left">License</th><td>Apache License 2.0[*](https://github.com/BigSweetPotatoStudio/HyperChat/blob/main/LICENSE)</td></tr>
+<tr><th align="left">License</th><td>Apache License 2.0<a href="https://github.com/BigSweetPotatoStudio/HyperChat/blob/main/LICENSE">*</a></td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
 </table>
 
@@ -49,19 +49,19 @@ HyperChat is an open Chat client that can use various LLM APIs to provide the be
 <details>
 <summary>Screenshots</summary>
 
-![](./screenshots/image13.png)
-![](./screenshots/image21.png)
-![](./screenshots/image22.png)
-![](./screenshots/image33.png)
-![](./screenshots/image34.png)
-![](./screenshots/image35.png)
-![](./screenshots/image36.png)
-![](./screenshots/image42.png)
-![](./screenshots/image43.png)
-![](./screenshots/image44.png)
-![](./screenshots/image45.png)
-![](./screenshots/image46.png)
-![](./screenshots/image48.png)
+![](./screenshots/hyperchat/image13.png)
+![](./screenshots/hyperchat/image21.png)
+![](./screenshots/hyperchat/image22.png)
+![](./screenshots/hyperchat/image33.png)
+![](./screenshots/hyperchat/image34.png)
+![](./screenshots/hyperchat/image35.png)
+![](./screenshots/hyperchat/image36.png)
+![](./screenshots/hyperchat/image42.png)
+![](./screenshots/hyperchat/image43.png)
+![](./screenshots/hyperchat/image44.png)
+![](./screenshots/hyperchat/image45.png)
+![](./screenshots/hyperchat/image46.png)
+![](./screenshots/hyperchat/image48.png)
 
 </details>
 
