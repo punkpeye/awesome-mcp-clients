@@ -26,6 +26,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 * [Claude Desktop](#claude-desktop)
 * [ClaudeMind](#claudemind)
 * [Cline](#cline)
+* [console-chat-gpt](#console-chat-gpt)
 * [Continue](#continue)
 * [HyperChat](#hyperchat)
 * [LibreChat](#librechat)
@@ -132,6 +133,28 @@ Cline can handle complex software development tasks step-by-step. With tools tha
 <summary>Screenshots</summary>
 
 ![](./screenshots/cline/cline-demo.gif)
+
+</details>
+
+### console-chat-gpt
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/amidabuddha/console-chat-gpt</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+</table>
+
+Enjoy seamless interactions with ChatGPT, MistralAI, Claude by Anthropic, Grok by xAI, Gemini by Google and DeepSeek directly from your command line. Elevate your chat experience with efficiency and ease.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/console-chat-gpt/markdown_preview.gif)
+![](./screenshots/console-chat-gpt/python_for_loop.gif)
+![](./screenshots/console-chat-gpt/settings_preview.gif)
 
 </details>
 
