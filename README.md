@@ -30,6 +30,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 * [Continue](#continue)
 * [HyperChat](#hyperchat)
 * [LibreChat](#librechat)
+* [MCP Chatbot](#mcp-chatbot)
 * [MCP CLI client](#mcp-cli-client)
 * [Zed](#zed)
 
@@ -230,6 +231,19 @@ Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API,
 ![](./screenshots/librechat/librechat.webp)
 
 </details>
+
+### MCP Chatbot
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/3choff/mcp-chatbot</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+</table>
+
+This chatbot example demonstrates how to integrate the Model Context Protocol (MCP) into a simple CLI chatbot. The implementation showcases MCP's flexibility by supporting multiple tools through MCP servers and is compatible with any LLM provider that follows OpenAI API standards.
 
 ### MCP CLI client
 
