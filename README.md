@@ -35,6 +35,13 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 
 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers.
 
+<details>
+<summary>Screenshots</summary>
+
+https://github.com/user-attachments/assets/a27494c5-437d-481c-a25f-74cfa5a2bc45
+
+</details>
+
 ### HyperChat
 
 <table>
