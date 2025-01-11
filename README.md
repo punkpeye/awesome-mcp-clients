@@ -27,6 +27,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 * [Cline](#cline)
 * [HyperChat](#hyperchat)
 * [LibreChat](#librechat)
+* [Zed](#zed)
 
 ### 5ire
 
@@ -153,6 +154,24 @@ Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API,
 <summary>Screenshots</summary>
 
 ![](./screenshots/librechat/librechat.webp)
+
+</details>
+
+### Zed
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/zed-industries/zed</td></tr>
+<tr><th align="left">Website</th><td>https://zed.dev/</td></tr>
+<tr><th align="left">License</th><td>GNU</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+</table>
+
+Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+<details>
+<summary>Screenshots</summary>
+
 
 </details>
 
