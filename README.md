@@ -82,7 +82,14 @@ HyperChat is an open Chat client that can use various LLM APIs to provide the be
 <tr><th align="left">Platforms</th><td>Web</td></tr>
 </table>
 
-LibreChat is a cross-platform desktop AI assistant, MCP client.
+Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/librechat/librechat.webp)
+
+</details>
 
 ## Servers
 
