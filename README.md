@@ -23,6 +23,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 
 * [5ire](#5ire)
 * [Claude Desktop](#claude-desktop)
+* [ClaudeMind](#claudemind)
 * [Cline](#cline)
 * [HyperChat](#hyperchat)
 * [LibreChat](#librechat)
@@ -60,6 +61,26 @@ The Claude desktop app brings Claude's capabilities directly to your computer, a
 <summary>Screenshots</summary>
 
 ![](./screenshots/claude-desktop/claude-desktop.png)
+
+</details>
+
+### ClaudeMind
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://claudemind.com/</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, JetBrains Plugin</td></tr>
+</table>
+
+Experience Claude AI without limits. Use our desktop app for everyday AI assistance, or boost your coding productivity with our JetBrains plugin.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/claudemind/ClaudeMind_Desktop_Chat_History.png)
+![](./screenshots/claudemind/ClaudeMind_Desktop_NewChatPage.png)
+![](./screenshots/claudemind/ClaudeMind_Desktop_Projects.png)
 
 </details>
 
