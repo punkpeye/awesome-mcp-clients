@@ -22,6 +22,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 ## Clients
 
 * [5ire](#5ire)
+* [HyperChat](#hyperchat)
 
 ### 5ire
 
@@ -32,7 +33,37 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 <tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
 </table>
 
-5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers .
+5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers.
+
+### HyperChat
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/BigSweetPotatoStudio/HyperChat</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>Apache License 2.0[*](https://github.com/BigSweetPotatoStudio/HyperChat/blob/main/LICENSE)</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+</table>
+
+HyperChat is an open Chat client that can use various LLM APIs to provide the best Chat experience and implement productivity tools through the MCP protocol.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/image13.png)
+![](./screenshots/image21.png)
+![](./screenshots/image22.png)
+![](./screenshots/image33.png)
+![](./screenshots/image34.png)
+![](./screenshots/image35.png)
+![](./screenshots/image36.png)
+![](./screenshots/image42.png)
+![](./screenshots/image43.png)
+![](./screenshots/image44.png)
+![](./screenshots/image45.png)
+![](./screenshots/image46.png)
+![](./screenshots/image48.png)
+
+</details>
 
 ## Servers
 
