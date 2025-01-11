@@ -26,6 +26,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 * [Claude Desktop](#claude-desktop)
 * [ClaudeMind](#claudemind)
 * [Cline](#cline)
+* [Continue](#continue)
 * [HyperChat](#hyperchat)
 * [LibreChat](#librechat)
 * [Zed](#zed)
@@ -36,6 +37,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 <tr><th align="left">GitHub</th><td>https://github.com/nanbingxyz/5ire</td></tr>
 <tr><th align="left">Website</th><td>https://5ire.app/</td></tr>
 <tr><th align="left">License</th><td>GNU v3</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
 </table>
@@ -55,6 +57,7 @@ https://github.com/user-attachments/assets/a27494c5-437d-481c-a25f-74cfa5a2bc45
 <tr><th align="left">GitHub</th><td>https://github.com/daodao97/chatmcp</td></tr>
 <tr><th align="left">Website</th><td>-</td></tr>
 <tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
 </table>
@@ -75,6 +78,7 @@ ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
 <tr><th align="left">GitHub</th><td>-</td></tr>
 <tr><th align="left">Website</th><td>https://claude.ai/download</td></tr>
 <tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
 </table>
@@ -94,7 +98,8 @@ The Claude desktop app brings Claude's capabilities directly to your computer, a
 <tr><th align="left">GitHub</th><td>-</td></tr>
 <tr><th align="left">Website</th><td>https://claudemind.com/</td></tr>
 <tr><th align="left">License</th><td>Proprietary</td></tr>
-<tr><th align="left">Platforms</th><td>Windows, MacOS, JetBrains Plugin</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, JetBrains extension</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
 <tr><th align="left">Pricing</th><td>Per seat (from $29)</td></tr>
 </table>
 
@@ -115,7 +120,8 @@ Experience Claude AI without limits. Use our desktop app for everyday AI assista
 <tr><th align="left">GitHub</th><td>https://github.com/cline/cline</td></tr>
 <tr><th align="left">Website</th><td>https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev</td></tr>
 <tr><th align="left">License</th><td>Apache 2.0</td></tr>
-<tr><th align="left">Platforms</th><td>Windows, MacOS (VSCode extension)</td></tr>
+<tr><th align="left">Type</th><td>VSCode extension</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
 </table>
 
@@ -128,12 +134,34 @@ Cline can handle complex software development tasks step-by-step. With tools tha
 
 </details>
 
+### Continue
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/continuedev/continue</td></tr>
+<tr><th align="left">Website</th><td>https://continue.dev/</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>VSCode extension, JetBrains extension</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+</table>
+
+Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/continue/continue-demo.gif)
+
+</details>
+
+
 ### HyperChat
 
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/BigSweetPotatoStudio/HyperChat</td></tr>
 <tr><th align="left">Website</th><td>-</td></tr>
 <tr><th align="left">License</th><td>Apache 2.0<a href="https://github.com/BigSweetPotatoStudio/HyperChat/blob/main/LICENSE">*</a></td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
 </table>
@@ -165,7 +193,8 @@ HyperChat is an open Chat client that can use various LLM APIs to provide the be
 <tr><th align="left">GitHub</th><td>https://github.com/danny-avila/LibreChat</td></tr>
 <tr><th align="left">Website</th><td>https://www.librechat.ai/</td></tr>
 <tr><th align="left">License</th><td>MIT license</td></tr>
-<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>-</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
 </table>
 
@@ -184,6 +213,7 @@ Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API,
 <tr><th align="left">GitHub</th><td>https://github.com/zed-industries/zed</td></tr>
 <tr><th align="left">Website</th><td>https://zed.dev/</td></tr>
 <tr><th align="left">License</th><td>GNU</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
 </table>
