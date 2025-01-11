@@ -21,6 +21,17 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 
 ## Clients
 
+* [5ire](#5ire)
+
+### 5ire
+
+GitHub: https://github.com/nanbingxyz/5ire
+Website: https://5ire.app/
+License: GNU v3
+Platforms: Windows, MacOS
+
+5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers .
+
 ## Servers
 
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
