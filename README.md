@@ -22,6 +22,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 ## Clients
 
 * [5ire](#5ire)
+* [Claude Desktop](#claude-desktop)
 * [Cline](#cline)
 * [HyperChat](#hyperchat)
 * [LibreChat](#librechat)
@@ -41,6 +42,24 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 <summary>Screenshots</summary>
 
 https://github.com/user-attachments/assets/a27494c5-437d-481c-a25f-74cfa5a2bc45
+
+</details>
+
+### Claude Desktop
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://claude.ai/download</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
+</table>
+
+The Claude desktop app brings Claude's capabilities directly to your computer, allowing for seamless integration with your workflow.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/claude-desktop/claude-desktop.png)
 
 </details>
 
