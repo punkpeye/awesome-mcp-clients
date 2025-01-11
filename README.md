@@ -29,6 +29,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 * [Continue](#continue)
 * [HyperChat](#hyperchat)
 * [LibreChat](#librechat)
+* [MCP CLI client](#mcp-cli-client)
 * [Zed](#zed)
 
 ### 5ire
@@ -204,6 +205,26 @@ Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API,
 <summary>Screenshots</summary>
 
 ![](./screenshots/librechat/librechat.webp)
+
+</details>
+
+### MCP CLI client
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/adhikasp/mcp-client-cli</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+</table>
+
+A simple CLI to run LLM prompt and implement MCP client.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/mcp-cli-client/usage.png)
 
 </details>
 
