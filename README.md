@@ -22,6 +22,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 ## Clients
 
 * [5ire](#5ire)
+* [ChatMCP](#chatmcp)
 * [Claude Desktop](#claude-desktop)
 * [ClaudeMind](#claudemind)
 * [Cline](#cline)
@@ -45,6 +46,26 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 <summary>Screenshots</summary>
 
 https://github.com/user-attachments/assets/a27494c5-437d-481c-a25f-74cfa5a2bc45
+
+</details>
+
+### ChatMCP
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/daodao97/chatmcp</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+</table>
+
+ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/chatmcp/preview.png)
+![](./screenshots/chatmcp/settings.png)
 
 </details>
 
