@@ -21,18 +21,24 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 
 ## Clients
 
-* [5ire](#5ire)
-* [ChatMCP](#chatmcp)
-* [Claude Desktop](#claude-desktop)
-* [ClaudeMind](#claudemind)
-* [Cline](#cline)
-* [console-chat-gpt](#console-chat-gpt)
-* [Continue](#continue)
-* [HyperChat](#hyperchat)
-* [LibreChat](#librechat)
-* [MCP Chatbot](#mcp-chatbot)
-* [MCP CLI client](#mcp-cli-client)
-* [Zed](#zed)
+- [Awesome MCP Clients ](#awesome-mcp-clients-)
+  - [What is MCP?](#what-is-mcp)
+  - [Community](#community)
+  - [Clients](#clients)
+    - [5ire](#5ire)
+    - [ChatMCP](#chatmcp)
+    - [Claude Desktop](#claude-desktop)
+    - [ClaudeMind](#claudemind)
+    - [Cline](#cline)
+    - [console-chat-gpt](#console-chat-gpt)
+    - [Continue](#continue)
+    - [HyperChat](#hyperchat)
+    - [LibreChat](#librechat)
+    - [MCP Chatbot](#mcp-chatbot)
+    - [MCP CLI client](#mcp-cli-client)
+    - [oterm](#oterm)
+    - [Zed](#zed)
+  - [Servers](#servers)
 
 ### 5ire
 
@@ -273,6 +279,28 @@ A simple CLI to run LLM prompt and implement MCP client.
 <summary>Screenshots</summary>
 
 ![](./screenshots/mcp-cli-client/usage.png)
+
+</details>
+
+### oterm
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/ggozad/oterm</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+A terminal client for Ollama, with support for MCP servers.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/oterm/chat.png)
+![](./screenshots/oterm/mcp.svg)
 
 </details>
 
