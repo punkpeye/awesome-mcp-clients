@@ -304,6 +304,37 @@ A terminal client for Ollama, with support for MCP servers.
 
 </details>
 
+### Superinterface
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/supercorp-ai/superinterface</td></tr>
+<tr><th align="left">Website</th><td>https://superinterface.ai</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Superinterface is AI infrastructure and a developer platform to build in-app AI assistants with support for MCP, interactive components, client-side function calling and more.
+
+Key features:
+
+- Use tools from MCP servers in assistants embedded via React components or script tags
+- SSE transport support
+- Use any AI model from any AI provider (OpenAI, Anthropic, Ollama, others)
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/superinterface/mcp-chat.png)
+![](./screenshots/superinterface/interfaces.png)
+![](./screenshots/superinterface/seutp-1.png)
+![](./screenshots/superinterface/seutp-2.png)
+![](./screenshots/superinterface/seutp-3.png)
+
+</details>
+
 ### Zed
 
 <table>
