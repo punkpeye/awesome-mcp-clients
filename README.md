@@ -37,6 +37,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
     - [oterm](#oterm)
+    - [Superinterface](#superinterface)
     - [Zed](#zed)
   - [Servers](#servers)
 
@@ -329,9 +330,9 @@ Key features:
 
 ![](./screenshots/superinterface/mcp-chat.png)
 ![](./screenshots/superinterface/interfaces.png)
-![](./screenshots/superinterface/seutp-1.png)
-![](./screenshots/superinterface/seutp-2.png)
-![](./screenshots/superinterface/seutp-3.png)
+![](./screenshots/superinterface/setup-1.png)
+![](./screenshots/superinterface/setup-2.png)
+![](./screenshots/superinterface/setup-3.png)
 
 </details>
 
