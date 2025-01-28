@@ -32,6 +32,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Cline](#cline)
     - [console-chat-gpt](#console-chat-gpt)
     - [Continue](#continue)
+    - [Goose](#goose)
     - [HyperChat](#hyperchat)
     - [LibreChat](#librechat)
     - [MCP Chatbot](#mcp-chatbot)
@@ -193,6 +194,30 @@ Continue is the leading open-source AI code assistant. You can connect any model
 
 </details>
 
+### Goose
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/block/goose</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>AI Agent</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust</td></tr>
+</table>
+
+Goose is a general-purpose AI agent that can dynamically plug into new extensions and learn how to use them. It solves higher-level problems using tools from multiple extensions and can interact with multiple extensions at once.
+
+<details>
+<summary>Screenshots</summary>
+
+![Goose Logo](./screenshots/goose/goose.png)
+![Custom Extension Chat](./screenshots/goose/custom-extension-chat.png)
+![Custom Extension Tools](./screenshots/goose/custom-extension-tools-9d440447ae99b18ae92819e652148abe.png)
+![Extension Settings](./screenshots/goose/extension%20settings.png)
+![List Tools](./screenshots/goose/list%20tools.png)
+
+</details>
 
 ### HyperChat
 
