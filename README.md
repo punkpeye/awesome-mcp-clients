@@ -208,6 +208,17 @@ Continue is the leading open-source AI code assistant. You can connect any model
 
 Goose is a general-purpose AI agent that can dynamically plug into new extensions and learn how to use them. It solves higher-level problems using tools from multiple extensions and can interact with multiple extensions at once.
 
+<details>
+<summary>Screenshots</summary>
+
+![Goose Logo](./screenshots/goose/goose.png)
+![Custom Extension Chat](./screenshots/goose/custom-extension-chat.png)
+![Custom Extension Tools](./screenshots/goose/custom-extension-tools-9d440447ae99b18ae92819e652148abe.png)
+![Extension Settings](./screenshots/goose/extension%20settings.png)
+![List Tools](./screenshots/goose/list%20tools.png)
+
+</details>
+
 ### HyperChat
 
 <table>
