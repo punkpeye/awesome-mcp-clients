@@ -206,7 +206,7 @@ Continue is the leading open-source AI code assistant. You can connect any model
 <tr><th align="left">Programming Languages</th><td>Kotlin</td></tr>
 </table>
 
-Goose is a JetBrains IDE extension that integrates with MCP to provide AI-powered development assistance. It offers seamless integration with your development workflow and supports various AI models through the Model Context Protocol.
+Goose is a general-purpose AI agent that can dynamically plug into new extensions and learn how to use them. It solves higher-level problems using tools from multiple extensions and can interact with multiple extensions at once.
 
 ### HyperChat
 
