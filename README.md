@@ -32,6 +32,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Cline](#cline)
     - [console-chat-gpt](#console-chat-gpt)
     - [Continue](#continue)
+    - [Goose](#goose)
     - [HyperChat](#hyperchat)
     - [LibreChat](#librechat)
     - [MCP Chatbot](#mcp-chatbot)
@@ -193,6 +194,19 @@ Continue is the leading open-source AI code assistant. You can connect any model
 
 </details>
 
+### Goose
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/block/goose</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>JetBrains extension</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Kotlin</td></tr>
+</table>
+
+Goose is a JetBrains IDE extension that integrates with MCP to provide AI-powered development assistance. It offers seamless integration with your development workflow and supports various AI models through the Model Context Protocol.
 
 ### HyperChat
 
