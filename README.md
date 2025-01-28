@@ -199,7 +199,7 @@ Continue is the leading open-source AI code assistant. You can connect any model
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/block/goose</td></tr>
 <tr><th align="left">Website</th><td>-</td></tr>
-<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
 <tr><th align="left">Type</th><td>AI Agent</td></tr>
 <tr><th align="left">Platforms</th><td>MacOS, Linux</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
