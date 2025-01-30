@@ -31,6 +31,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [ClaudeMind](#claudemind)
     - [Cline](#cline)
     - [console-chat-gpt](#console-chat-gpt)
+    - [Cursor](#cursor)
     - [Continue](#continue)
     - [Goose](#goose)
     - [HyperChat](#hyperchat)
@@ -170,6 +171,31 @@ Enjoy seamless interactions with ChatGPT, MistralAI, Claude by Anthropic, Grok b
 ![](./screenshots/console-chat-gpt/markdown_preview.gif)
 ![](./screenshots/console-chat-gpt/python_for_loop.gif)
 ![](./screenshots/console-chat-gpt/settings_preview.gif)
+
+</details>
+
+### Cursor
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/getcursor/cursor</td></tr>
+<tr><th align="left">Website</th><td>https://cursor.com</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Cursor is an AI-first code editor fork of VS Code that helps you code faster with built-in chat, edit, and debugging AI features. It supports MCP for enhanced AI capabilities and tool integration.
+
+<details>
+<summary>Screenshots</summary>
+
+![Main Interface](./screenshots/cursor/cursor.png)
+![Adding New MCP Server](./screenshots/cursor/new-server.png)
+![Settings Interface](./screenshots/cursor/settings.png)
+![Calling MCP Server](./screenshots/cursor/calling.png)
+![MCP Server Response](./screenshots/cursor/called.png)
 
 </details>
 
