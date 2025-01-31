@@ -400,13 +400,13 @@ Key features:
 <tr><th align="left">Programming Languages</th><td>JavaScript</td></tr>
 </table>
 
-A client that connects to an MCP server using Server-Sent Events (SSE) and displays the conversation in a chat-like UI. 
+A client that connects to any MCP server using Server-Sent Events (SSE) and displays the conversation in a chat-like UI. 
 It is a standalone Apify Actor designed for testing MCP servers over SSE (with Authorization headers support).
 It uses plain JavaScript (think old school) and is hosted on Apify, so you can run it without any setup.
 
 Key features:
 
-- Connects to an MCP server using Server-Sent Events (SSE) 
+- Connects to any MCP server using Server-Sent Events (SSE) 
 - Connects to the [Apify MCP Server](https://apify.com/apify/actors-mcp-server) for interacting with one or more Apify Actors
 - Dynamically uses tools based on context and user queries (if supported by a server)
 - Open source, so you can review it, suggest improvements, or modify it
