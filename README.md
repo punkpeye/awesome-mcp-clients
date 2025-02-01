@@ -35,6 +35,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Continue](#continue)
     - [Goose](#goose)
     - [HyperChat](#hyperchat)
+    - [kibitz](#kibitz)
     - [LibreChat](#librechat)
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
@@ -275,6 +276,27 @@ HyperChat is an open Chat client that can use various LLM APIs to provide the be
 ![](./screenshots/hyperchat/image45.png)
 ![](./screenshots/hyperchat/image46.png)
 ![](./screenshots/hyperchat/image48.png)
+
+</details>
+
+### kibitz
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/nick1udwig/kibitz</td></tr>
+<tr><th align="left">Website</th><td>https://kibi.tz</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Mobile app, Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Mobile, Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+kibitiz is the free and open-source Replit. Minimally, it is a lightweight chat interface to the popular LLM APIs (Anthropic and OpenAI API formats supported). Experience automated tool loops: try asking your agent to use [wcgw](https://github.com/rusiaaman/wcgw) to make a change to a local repository, then fix linter and compiler errors, make a commit, and push to remote, all without user intervention! Even better, code on-the-go by setting up MCP servers on your laptop, then connecting from your mobile through [Kinode](https://github.com/kinode-dao/kinode).
+
+<details>
+<summary>Screenshots</summary>
+  
+https://github.com/user-attachments/assets/3f8df448-1c81-4ff2-8598-c48283a4dc00
 
 </details>
 
