@@ -41,6 +41,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP CLI client](#mcp-cli-client)
     - [oterm](#oterm)
     - [Superinterface](#superinterface)
+    - [Tester MCP Client](#tester-mcp-client)
     - [Zed](#zed)
   - [Servers](#servers)
 
@@ -406,6 +407,37 @@ Key features:
 ![](./screenshots/superinterface/setup-1.png)
 ![](./screenshots/superinterface/setup-2.png)
 ![](./screenshots/superinterface/setup-3.png)
+
+</details>
+
+### Tester MCP Client
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/apify/tester-mcp-client</td></tr>
+<tr><th align="left">Website</th><td>https://apify.com/jiri.spilka/tester-mcp-client</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>JavaScript</td></tr>
+</table>
+
+A client that connects to any MCP server using Server-Sent Events (SSE) and displays conversations in a chat-like UI.  
+It is a standalone Apify Actor for testing MCP servers over SSE, with support for Authorization headers.  
+Built with plain JavaScript (old-school style) and hosted on Apify, it requires no setup to run.  
+
+Key features:
+
+- Connects to any MCP server via Server-Sent Events (SSE).  
+- Works with the [Apify MCP Server](https://apify.com/apify/actors-mcp-server) to interact with one or more Apify [Actors](https://apify.com/store).  
+- Dynamically utilizes tools based on context and user queries (if supported by the server).  
+- Open-source—review, suggest improvements, or modify as needed.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/tester-mcp-client/setup.png)
+![](./screenshots/tester-mcp-client/chat-ui.png)
 
 </details>
 
