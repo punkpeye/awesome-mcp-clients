@@ -44,6 +44,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tester MCP Client](#tester-mcp-client)
     - [Witsy](#witsy)
     - [Enconvo](#enconvo)
+    - [y-cli](#y-cli)
     - [Zed](#zed)
   - [Servers](#servers)
 
@@ -484,6 +485,29 @@ Enconvo is your AI Agent Launcher that revolutionizes productivity. With instant
 
 ![](./screenshots/enconvo/agent_use_mcp.png)
 ![](./screenshots/enconvo/mcp_config.png)
+
+</details>
+
+### y-cli
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/luohy15/y-cli</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+A tiny command-line interface chat application that brings AI conversations to your terminal. Features include chat data storage in JSONL files, interactive chat interface, support for multiple bot configurations compatible with OpenAI chat completion streaming format, Deepseek-r1 reasoning content support, and MCP client support with multiple server configurations.
+
+<details>
+<summary>Screenshots</summary>
+
+![Interactive Chat](./screenshots/y-cli/interactive-chat.png)
+![MCP Server Configurations](./screenshots/y-cli/multi-mcp-server.png)
+![MCP Demo](./screenshots/y-cli/mcp.gif)
 
 </details>
 
