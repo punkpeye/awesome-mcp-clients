@@ -42,6 +42,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [oterm](#oterm)
     - [Superinterface](#superinterface)
     - [Tester MCP Client](#tester-mcp-client)
+    - [Witsy](#witsy)
     - [Zed](#zed)
   - [Servers](#servers)
 
@@ -438,6 +439,28 @@ Key features:
 
 ![](./screenshots/tester-mcp-client/setup.png)
 ![](./screenshots/tester-mcp-client/chat-ui.png)
+
+</details>
+
+### Witsy
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/nbonamy/witsy</td></tr>
+<tr><th align="left">Website</th><td>https://witsyai.com</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Typescript, Vue</td></tr>
+</table>
+
+Witsy is an AI desktop assistant supporting models from all major providers and one keyboard shortcut away!
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/witsy/main.jpg)
+![](./screenshots/witsy/mcp.jpg)
 
 </details>
 
