@@ -43,6 +43,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Superinterface](#superinterface)
     - [Tester MCP Client](#tester-mcp-client)
     - [Witsy](#witsy)
+    - [Enconvo](#enconvo)
     - [Zed](#zed)
   - [Servers](#servers)
 
@@ -461,6 +462,28 @@ Witsy is an AI desktop assistant supporting models from all major providers and 
 
 ![](./screenshots/witsy/main.jpg)
 ![](./screenshots/witsy/mcp.jpg)
+
+</details>
+
+### Enconvo
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Enconvo</td></tr>
+<tr><th align="left">Website</th><td>https://enconvo.com</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td> MacOS </td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>Typescript, Python , Swift</td></tr>
+</table>
+
+Enconvo is your AI Agent Launcher that revolutionizes productivity. With instant access, automate your daily tasks effortlessly. Our intelligent AI Agent system, powered by 150+ built-in tools and MCP support, learns and adapts to your workflow. Experience seamless automation and enhanced productivity with the most versatile AI assistant for macOS.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/enconvo/agent_use_mcp.png)
+![](./screenshots/enconvo/mcp_config.png)
 
 </details>
 
