@@ -39,6 +39,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [LibreChat](#librechat)
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
+    - [MCP Simple Slackbot](#mcp-simple-slackbot)
     - [oterm](#oterm)
     - [Superinterface](#superinterface)
     - [Tester MCP Client](#tester-mcp-client)
@@ -357,6 +358,27 @@ A simple CLI to run LLM prompt and implement MCP client.
 <summary>Screenshots</summary>
 
 ![](./screenshots/mcp-cli-client/usage.png)
+
+</details>
+
+### MCP Simple Slackbot
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/sooperset/mcp-client-slackbot</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Slack Bot</td></tr>
+<tr><th align="left">Platforms</th><td>Slack</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+A simple Slack bot that uses LLMs and the Model Context Protocol (MCP) tools.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/mcp-simple-slackbot/demo.gif)
 
 </details>
 
