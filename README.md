@@ -192,7 +192,7 @@ Enjoy seamless interactions with ChatGPT, MistralAI, Claude by Anthropic, Grok b
 <tr><th align="left">Programming Languages</th><td>Any</td></tr>
 </table>
 
-Enjoy seamless interactions with ChatGPT, MistralAI, Claude by Anthropic, Grok by xAI, Gemini by Google and DeepSeek directly from your command line. Elevate your chat experience with efficiency and ease.
+VSCode extension that acts as a Model Context Protocol (MCP) client, enabling integration between MCP servers and GitHub Copilot Chat
 
 <details>
 <summary>Screenshots</summary>
