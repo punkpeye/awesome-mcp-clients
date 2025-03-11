@@ -31,6 +31,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [ClaudeMind](#claudemind)
     - [Cline](#cline)
     - [console-chat-gpt](#console-chat-gpt)
+    - [Copilot-MCP](#copilot-mcp)
     - [Cursor](#cursor)
     - [Continue](#continue)
     - [Goose](#goose)
@@ -176,6 +177,27 @@ Enjoy seamless interactions with ChatGPT, MistralAI, Claude by Anthropic, Grok b
 ![](./screenshots/console-chat-gpt/markdown_preview.gif)
 ![](./screenshots/console-chat-gpt/python_for_loop.gif)
 ![](./screenshots/console-chat-gpt/settings_preview.gif)
+
+</details>
+
+### Copilot-MCP
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/VikashLoomba/copilot-mcp</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>GPL-v3</td></tr>
+<tr><th align="left">Type</th><td>VSCode Extension</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Any</td></tr>
+</table>
+
+VSCode extension that acts as a Model Context Protocol (MCP) client, enabling integration between MCP servers and GitHub Copilot Chat
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/copilot-mcp/preview.png)
 
 </details>
 
