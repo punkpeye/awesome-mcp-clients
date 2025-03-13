@@ -253,6 +253,7 @@ Continue is the leading open-source AI code assistant. You can connect any model
 
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/cognitivecomputations/dolphin-mcp</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
 <tr><th align="left">License</th><td>MIT</td></tr>
 <tr><th align="left">Type</th><td>CLI, Python library</td></tr>
 <tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
@@ -262,10 +263,12 @@ Continue is the leading open-source AI code assistant. You can connect any model
 
 **Dolphin-MCP** is an open-source multi-server bridging client for MCP. It allows you to connect any MCP-compatible server any LLM (local or remote), enabling flexible tool usage and resource access in real-time.
 
+`pip install dolphin-mcp`
+
 <details>
 <summary>Screenshots</summary>
 
-![](./screenshots/dolphin_mcp/dolphin-mcp.png)
+![](./screenshots/dolphin-mcp/dolphin-mcp.png)
 
 </details>
 
