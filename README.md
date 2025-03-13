@@ -34,6 +34,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Copilot-MCP](#copilot-mcp)
     - [Cursor](#cursor)
     - [Continue](#continue)
+    - [Dolphin-MCP](#dolphin-mcp)
     - [Goose](#goose)
     - [HyperChat](#hyperchat)
     - [kibitz](#kibitz)
@@ -245,6 +246,26 @@ Continue is the leading open-source AI code assistant. You can connect any model
 <summary>Screenshots</summary>
 
 ![](./screenshots/continue/continue-demo.gif)
+
+</details>
+
+### Dolphin-MCP
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/cognitivecomputations/dolphin-mcp</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI, Python library</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+**Dolphin-MCP** is an open-source multi-server bridging client for MCP. It allows you to connect any MCP-compatible server any LLM (local or remote), enabling flexible tool usage and resource access in real-time.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/dolphin_mcp/dolphin-mcp.png)
 
 </details>
 
