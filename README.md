@@ -41,6 +41,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
+    - [NextChat](#nextchat)
     - [oterm](#oterm)
     - [Superinterface](#superinterface)
     - [Tester MCP Client](#tester-mcp-client)
@@ -401,6 +402,27 @@ A simple Slack bot that uses LLMs and the Model Context Protocol (MCP) tools.
 <summary>Screenshots</summary>
 
 ![](./screenshots/mcp-simple-slackbot/demo.gif)
+
+</details>
+
+### NextChat
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/ChatGPTNextWeb/NextChat</td></tr>
+<tr><th align="left">Website</th><td>https://nextchat.club/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+NextChat: Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP support.
+
+<details>
+<summary>Screenshots</summary>
+
+![](https://github.com/ChatGPTNextWeb/NextChat/blob/main/docs/images/cover.png)
 
 </details>
 
