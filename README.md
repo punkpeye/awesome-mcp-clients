@@ -35,6 +35,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Cursor](#cursor)
     - [Continue](#continue)
     - [Goose](#goose)
+    - [http4k MCP Desktop](#http4k-mcp-desktop)
     - [HyperChat](#hyperchat)
     - [kibitz](#kibitz)
     - [LibreChat](#librechat)
@@ -272,6 +273,25 @@ Goose is a general-purpose AI agent that can dynamically plug into new extension
 ![List Tools](./screenshots/goose/list%20tools.png)
 
 </details>
+
+### http4k MCP Desktop
+
+<table>
+<tr><th align="left">GitHub</th><td>-https://github.com/http4k/mcp-desktop</td></tr>
+<tr><th align="left">Website</th><td>https://mcp.http4k.org</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>StdIO -> Remote MCP proxy</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Per seat, see site. Free for non-commercial/non-profit/research</td></tr>
+<tr><th align="left">Programming Languages</th><td>Native binary, written in Kotlin</td></tr>
+</table>
+
+The http4k MCP Desktop Client serves as a proxy that enables communication between desktop applications and MCP servers. While it works with any MCP-compliant server, it's specially optimized for servers built using the http4k MCP SDK.
+
+**Features**
+- Multiple remote transport options: SSE (Server-Sent Events), JSON-RPC (stateless) and WebSocket.
+- Various standard authentication methods: API Key, Bearer Token, Basic Auth, and OAuth
+- Customizable reconnection logic
 
 ### HyperChat
 
