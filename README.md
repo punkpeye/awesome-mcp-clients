@@ -277,7 +277,7 @@ Goose is a general-purpose AI agent that can dynamically plug into new extension
 ### http4k MCP Desktop
 
 <table>
-<tr><th align="left">GitHub</th><td>-https://github.com/http4k/mcp-desktop</td></tr>
+<tr><th align="left">GitHub</th><td>https://github.com/http4k/mcp-desktop</td></tr>
 <tr><th align="left">Website</th><td>https://mcp.http4k.org</td></tr>
 <tr><th align="left">License</th><td>Proprietary</td></tr>
 <tr><th align="left">Type</th><td>StdIO -> Remote MCP proxy</td></tr>
