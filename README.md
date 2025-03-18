@@ -43,6 +43,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
     - [oterm](#oterm)
     - [Superinterface](#superinterface)
+    - [SeekChat](#seekchat)
     - [Tester MCP Client](#tester-mcp-client)
     - [Witsy](#witsy)
     - [Enconvo](#enconvo)
@@ -455,6 +456,29 @@ Key features:
 ![](./screenshots/superinterface/setup-2.png)
 ![](./screenshots/superinterface/setup-3.png)
 
+</details>
+
+### SeekChat
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/seekrays/seekchat</td></tr>
+<tr><th align="left">Website</th><td>https://seekrays.com/chat/</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Javascript</td></tr>
+</table>
+
+✨ A Sleek and Powerful AI Chat Desktop Application ✨
+
+SeekChat supports MCP tool execution, enabling AI to directly control your computer and perform various tasks. Easily automate file management, data analysis, code development, and more, turning AI into a truly intelligent assistant.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/seekchat/screenshot-chat.png)
+![](./screenshots/seekchat/screenshot-setting-mcp.png)
 </details>
 
 ### Tester MCP Client
