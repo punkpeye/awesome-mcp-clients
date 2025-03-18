@@ -57,7 +57,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 <tr><th align="left">Website</th><td>https://5ire.app/</td></tr>
 <tr><th align="left">License</th><td>GNU v3</td></tr>
 <tr><th align="left">Type</th><td>Desktop app</td></tr>
-<tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
 <tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
 </table>
