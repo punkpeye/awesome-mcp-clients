@@ -43,6 +43,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
+    - [MCPOmni Connect](#mcpomni-connect)
     - [NextChat](#nextchat)
     - [oterm](#oterm)
     - [Superinterface](#superinterface)
@@ -447,6 +448,27 @@ A simple Slack bot that uses LLMs and the Model Context Protocol (MCP) tools.
 <summary>Screenshots</summary>
 
 ![](./screenshots/mcp-simple-slackbot/demo.gif)
+
+</details>
+
+### MCPOmni Connect
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Abiorh001/mcp_omni_connect</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+A powerful universal CLI client for MCP featuring stdio/SSE transport protocols, OpenAI model integration, dynamic prompt management with flexible argument formats (JSON/key-value), intelligent tool orchestration, and cross-server resource handling. Supports advanced features like context-aware execution, automatic tool selection, and real-time response handling.
+
+<details>
+<summary>Screenshots</summary>
+
+![mcp_client_new1](https://github.com/user-attachments/assets/9c4eb3df-d0d5-464c-8815-8f7415a47fce)
 
 </details>
 
