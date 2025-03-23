@@ -35,6 +35,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Cursor](#cursor)
     - [Continue](#continue)
     - [Dolphin-MCP](#dolphin-mcp)
+    - [FLUJO](#flujo)
     - [Goose](#goose)
     - [http4k MCP Desktop](#http4k-mcp-desktop)
     - [HyperChat](#hyperchat)
@@ -274,6 +275,26 @@ Continue is the leading open-source AI code assistant. You can connect any model
 ![](./screenshots/dolphin-mcp/dolphin-mcp.png)
 
 </details>
+
+### FLUJO
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/mario-andreschak/FLUJO</td></tr>
+<tr><th align="left">Website</th><td>flujo.orchestraight.co</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Next.js/Node Application</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Typescript</td></tr>
+</table>
+
+Think n8n + ChatGPT. **FLUJO** is an Electron-based desktop application that integrates with MCP to provide a flowbuilder interface for AI interactions. Built with Next.js and React, it features both online and offline capabilities, allowing users to create and manage AI workflows through a visual interface. The application supports network mode for access from other devices and includes features like chat experiences and flow building with customizable components.
+
+<details>
+- Environment & API Key Management
+- Model Management
+- MCP Server Integration
+- Workflow Orchestration
+- Chat Interface
 
 ### Goose
 
