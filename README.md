@@ -289,19 +289,19 @@ Continue is the leading open-source AI code assistant. You can connect any model
 
 Think n8n + ChatGPT. **FLUJO** is an desktop application that integrates with MCP to provide a workflow-builder interface for AI interactions. Built with Next.js and React, it supports both online and offline (ollama) models, it manages API Keys and environment variables centrally and can install MCP Servers from GitHub. FLUJO has an ChatCompletions endpoint and flows can be executed from other AI applications like Cline, Roo or Claude. 
 
-
-
-<details>
 - Environment & API Key Management
 - Model Management
 - MCP Server Integration
 - Workflow Orchestration
 - Chat Interface
 
+<details>
+  
 <summary>Screenshots</summary>
-![image](https://github.com/user-attachments/assets/7cb93912-f39c-40b5-9b8c-f485df2d3b69)
 
 ![image](https://github.com/user-attachments/assets/24e23174-4f1d-46e6-bf67-d40bec7135af)
+
+![image](https://github.com/user-attachments/assets/7cb93912-f39c-40b5-9b8c-f485df2d3b69)
 
 ![image](https://github.com/user-attachments/assets/b27481b6-7c94-4ce6-aeba-211c9b9cdd4c)
 
@@ -316,8 +316,6 @@ Think n8n + ChatGPT. **FLUJO** is an desktop application that integrates with MC
 ![image](https://github.com/user-attachments/assets/076a5d0c-bb35-4765-a2dc-8423d103eeb0)
 
 ![image](https://github.com/user-attachments/assets/91cd4525-9b13-4a5a-8f88-72efc11a913d)
-
-
 
 </details>
 
