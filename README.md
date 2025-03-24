@@ -35,6 +35,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Cursor](#cursor)
     - [Continue](#continue)
     - [Dolphin-MCP](#dolphin-mcp)
+    - [FLUJO](#flujo)
     - [Goose](#goose)
     - [http4k MCP Desktop](#http4k-mcp-desktop)
     - [HyperChat](#hyperchat)
@@ -272,6 +273,49 @@ Continue is the leading open-source AI code assistant. You can connect any model
 <summary>Screenshots</summary>
 
 ![](./screenshots/dolphin-mcp/dolphin-mcp.png)
+
+</details>
+
+### FLUJO
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/mario-andreschak/FLUJO</td></tr>
+<tr><th align="left">Website</th><td>flujo.orchestraight.co</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Next.js/Node Application</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Typescript</td></tr>
+</table>
+
+Think n8n + ChatGPT. **FLUJO** is an desktop application that integrates with MCP to provide a workflow-builder interface for AI interactions. Built with Next.js and React, it supports both online and offline (ollama) models, it manages API Keys and environment variables centrally and can install MCP Servers from GitHub. FLUJO has an ChatCompletions endpoint and flows can be executed from other AI applications like Cline, Roo or Claude. 
+
+- Environment & API Key Management
+- Model Management
+- MCP Server Integration
+- Workflow Orchestration
+- Chat Interface
+
+<details>
+  
+<summary>Screenshots</summary>
+
+![image](https://github.com/user-attachments/assets/24e23174-4f1d-46e6-bf67-d40bec7135af)
+
+![image](https://github.com/user-attachments/assets/7cb93912-f39c-40b5-9b8c-f485df2d3b69)
+
+![image](https://github.com/user-attachments/assets/b27481b6-7c94-4ce6-aeba-211c9b9cdd4c)
+
+![image](https://github.com/user-attachments/assets/eb9ff7ce-9083-44c1-9643-78acee50a66d)
+
+![image](https://github.com/user-attachments/assets/c8910046-b642-4278-b48e-61083740c7a4)
+
+![image](https://github.com/user-attachments/assets/ea381dda-1b0a-44d7-8a91-7ab48189ecad)
+
+![image](https://github.com/user-attachments/assets/9e122dc8-d40d-45ce-a9fe-6eebf8759c91)
+
+![image](https://github.com/user-attachments/assets/076a5d0c-bb35-4765-a2dc-8423d103eeb0)
+
+![image](https://github.com/user-attachments/assets/91cd4525-9b13-4a5a-8f88-72efc11a913d)
 
 </details>
 
