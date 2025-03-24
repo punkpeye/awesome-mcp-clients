@@ -60,7 +60,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/nanbingxyz/5ire</td></tr>
 <tr><th align="left">Website</th><td>https://5ire.app/</td></tr>
-<tr><th align="left">License</th><td>GNU v3</td></tr>
+<tr><th align="left">License</th><td>Modified Apache 2.0 (non-commercial)</td></tr>
 <tr><th align="left">Type</th><td>Desktop app</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
