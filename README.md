@@ -40,6 +40,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [http4k MCP Desktop](#http4k-mcp-desktop)
     - [HyperChat](#hyperchat)
     - [kibitz](#kibitz)
+    - [LangBot](#LangBot)
     - [LibreChat](#librechat)
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
@@ -415,6 +416,27 @@ kibitiz is the free and open-source Replit. Minimally, it is a lightweight chat 
 <summary>Screenshots</summary>
   
 https://github.com/user-attachments/assets/3f8df448-1c81-4ff2-8598-c48283a4dc00
+
+</details>
+
+### LangBot
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/RockChinQ/LangBot</td></tr>
+<tr><th align="left">Website</th><td>https://langbot.app</td></tr>
+<tr><th align="left">License</th><td>AGPL-3.0 license</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>-</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+LangBot is an open-source platform for creating LLM based instant messaging bots. It supports multi platforms like Discord, Telegram, WeChat, QQ. Currently supports LLMs from OpenAI, Anthropic, DeepSeek, Ollama, and more. And easy for users to create agents with MCP or plugins. Users can also customize their experience through WebUI, or create plugins to extend the functionality of the bot.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/langbot/langbot.png)
 
 </details>
 
