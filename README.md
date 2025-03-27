@@ -54,6 +54,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Enconvo](#enconvo)
     - [y-cli](#y-cli)
     - [Zed](#zed)
+    - [MindPal](#mindpal)
   - [Servers](#servers)
 
 ### 5ire
@@ -730,6 +731,36 @@ Zed is a high-performance, multiplayer code editor from the creators of Atom and
 <summary>Screenshots</summary>
 
 https://github.com/user-attachments/assets/95624731-5469-4b58-a21f-bbb31d9838fa
+
+</details>
+
+### MindPal
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/mindpal-ai/mindpal</td></tr>
+<tr><th align="left">Website</th><td>https://mindpal.io</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+MindPal is a no-code platform for building and deploying AI agents and multi-agent workflows. It enables anyone without technical skills to create powerful AI automation solutions by connecting any AI model with any tool. Build complex workflows where multiple AI agents work together to accomplish tasks, with built-in support for MCP servers and tools.
+
+Key features:
+- No-code AI agent builder
+- Multi-agent workflow orchestration
+- Support for any AI model provider
+- MCP server integration
+- Visual workflow designer
+- Built-in tool marketplace
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/mindpal/agent-config.jpg)
+![](./screenshots/mindpal/mcp-integration.jpg)
 
 </details>
 
