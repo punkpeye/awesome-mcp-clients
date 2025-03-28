@@ -34,6 +34,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Copilot-MCP](#copilot-mcp)
     - [Cursor](#cursor)
     - [Continue](#continue)
+    - [DeepChat](#deepchat)
     - [Dolphin-MCP](#dolphin-mcp)
     - [FLUJO](#flujo)
     - [Goose](#goose)
@@ -252,6 +253,28 @@ Continue is the leading open-source AI code assistant. You can connect any model
 <summary>Screenshots</summary>
 
 ![](./screenshots/continue/continue-demo.gif)
+
+</details>
+
+### DeepChat
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/thinkinaixyz/deepchat</td></tr>
+<tr><th align="left">Website</th><td>https://deepchat.thinkinai.xyz/</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+DeepChat is a cross-platform desktop AI assistant, MCP client. DeepChat brings the power of AI to your desktop with privacy and efficiency, making it your ideal companion for productive work.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/deepchat/deepchat.png)
+![](./screenshots/deepchat/setting.png)
 
 </details>
 
