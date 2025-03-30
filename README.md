@@ -28,6 +28,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [5ire](#5ire)
     - [AIaW](#aiaw)
     - [ChatMCP](#chatmcp)
+    - [Cherry Studio](#cherry-studio)
     - [Claude Desktop](#claude-desktop)
     - [ClaudeMind](#claudemind)
     - [Cline](#cline)
@@ -125,6 +126,37 @@ ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
 ![](./screenshots/chatmcp/settings.png)
 
 </details>
+
+### Cherry Studio
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/CherryHQ/cherry-studio</td></tr>
+<tr><th align="left">Website</th><td>https://cherry-ai.com</td></tr>
+<tr><th align="left">License</th><td><a href="https://github.com/CherryHQ/cherry-studio/blob/main/LICENSE">Apache 2.0 + Addendum Terms*</a></td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+**Cherry Studio** is a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.
+
+**Feature:**
+
+- **Multi-Model Support**: Integrates cloud (OpenAI, Gemini, Anthropic), web AI (Claude, Perplexity), and local models (Ollama, LM Studio).
+- **AI Assistants**: 300+ presets, custom creation, and multi-model parallel chats.
+- **Doc Processing**: Handles text/images/Office/PDF, WebDAV, Mermaid, and code highlighting.
+- **Productivity**: Global search, topic management, AI translation, drag-drop, mini-programs, and **MCP server**.
+- **UX**: Cross-platform (Win/Mac/Linux), plug-and-play, light/dark themes, transparent UI, full Markdown, and easy sharing.
+
+<details>
+<summary>Screenshots</summary>
+
+![preview](./screenshots/cherry-studio/preview.png)
+![settings](./screenshots/cherry-studio/settings.png)
+
+</details>
+
+
 
 ### Claude Desktop
 
