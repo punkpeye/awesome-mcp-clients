@@ -53,6 +53,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Tester MCP Client](#tester-mcp-client)
+    - [Windsurf](#windsurf)
     - [Witsy](#witsy)
     - [Enconvo](#enconvo)
     - [y-cli](#y-cli)
@@ -724,6 +725,28 @@ Key features:
 ![](./screenshots/tester-mcp-client/setup.png)
 ![](./screenshots/tester-mcp-client/chat-ui.png)
 
+</details>
+
+### Windsurf
+
+<table>
+<tr><th align="left">GitHub</th><td>N/A</td></tr>
+<tr><th align="left">Website</th><td>https://codeium.com/windsurf</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic.
+
+<details>
+<summary>Screenshots</summary>
+
+![Main Interface](./screenshots/windsurf/windsurf.png)
+![Adding New MCP Server](./screenshots/windsurf/easy-add-mcp-servers.png)
+![Settings Interface](./screenshots/windsurf/settings-cascade-mcp.png)
 </details>
 
 ### Witsy
