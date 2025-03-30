@@ -99,7 +99,7 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 ![](./screenshots/aiaw/plugins.png)
 ![](./screenshots/aiaw/dialog.png)
 ![](./screenshots/aiaw/dark.png)
-![](./screenshots/aiaw/mobile.png)
+<img src="./screenshots/aiaw/mobile.png" width="400">
 
 </details>
 
