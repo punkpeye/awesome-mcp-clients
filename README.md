@@ -26,6 +26,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
   - [Community](#community)
   - [Clients](#clients)
     - [5ire](#5ire)
+    - [AIaW](#aiaw)
     - [ChatMCP](#chatmcp)
     - [Claude Desktop](#claude-desktop)
     - [ClaudeMind](#claudemind)
@@ -75,6 +76,30 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 <summary>Screenshots</summary>
 
 https://github.com/user-attachments/assets/a27494c5-437d-481c-a25f-74cfa5a2bc45
+
+</details>
+
+### AIaW
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/NitroRCr/AIaW</td></tr>
+<tr><th align="left">Website</th><td>https://aiaw.app/</td></tr>
+<tr><th align="left">License</th><td>BSD 3-Clause</td></tr>
+<tr><th align="left">Type</th><td>Cross-platform app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux, Android, Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Vue, TypeScript</td></tr>
+</table>
+
+AIaW is a cross-platform, full-featured and lightweight AI Chat client with full support for MCP.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/aiaw/plugins.png)
+![](./screenshots/aiaw/dialog.png)
+![](./screenshots/aiaw/dark.png)
+![](./screenshots/aiaw/mobile.png)
 
 </details>
 
