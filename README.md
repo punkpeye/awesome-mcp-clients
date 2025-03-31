@@ -27,6 +27,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
   - [Clients](#clients)
     - [5ire](#5ire)
     - [AIaW](#aiaw)
+    - [Chainlit](#chainlit)
     - [ChatMCP](#chatmcp)
     - [Cherry Studio](#cherry-studio)
     - [Claude Desktop](#claude-desktop)
@@ -103,6 +104,29 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 ![](./screenshots/aiaw/dialog.png)
 ![](./screenshots/aiaw/dark.png)
 <img src="./screenshots/aiaw/mobile.png" width="400">
+
+</details>
+
+### Chainlit
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/chainlit/chainlit</td></tr>
+<tr><th align="left">Website</th><td>https://chainlit.io/</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+Chainlit is a python framework to build conversational AI apps with support for MCP.
+
+<details>
+<summary>Screenshots</summary>
+
+![example](./screenshots/chainlit/example.png)
+![add-mcp](./screenshots/chainlit/add-mcp.png)
+![manage-mcps](./screenshots/chainlit/manage-mcps.png)
 
 </details>
 
