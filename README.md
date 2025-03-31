@@ -49,6 +49,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP CLI client](#mcp-cli-client)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
     - [MCPOmni Connect](#mcpomni-connect)
+    - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [oterm](#oterm)
     - [Superinterface](#superinterface)
@@ -648,6 +649,27 @@ A powerful universal CLI client for MCP featuring stdio/SSE transport protocols,
 <summary>Screenshots</summary>
 
 ![mcp_client_new1](https://github.com/user-attachments/assets/9c4eb3df-d0d5-464c-8815-8f7415a47fce)
+
+</details>
+
+### Nerve
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/evilsocket/nerve</td></tr>
+<tr><th align="left">Website</th><td>https://github.com/evilsocket/nerve</td></tr>
+<tr><th align="left">License</th><td>GPL3</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+Nerve is an ADK ( Agent Development Kit ) and CLI designed to be a simple yet powerful platform for creating and executing LLM-based agents fully integrated with MCP.
+
+<details>
+<summary>Screenshots</summary>
+
+[![asciicast](https://asciinema.org/a/710433.svg)](https://asciinema.org/a/710433)
 
 </details>
 
