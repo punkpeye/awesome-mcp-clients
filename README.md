@@ -402,6 +402,34 @@ Think n8n + ChatGPT. **FLUJO** is an desktop application that integrates with MC
 
 </details>
 
+### GitHub Copilot with VSCode Insight
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/github/copilot</td></tr>
+<tr><th align="left">Website</th><td>https://github.com/features/copilot</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>VSCode Extension</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Subscription-based</td></tr>
+<tr><th align="left">Programming Languages</th><td>Any</td></tr>
+</table>
+
+GitHub Copilot with VSCode Insight now supports MCP server integration in agent mode. This enables developers to leverage MCP tools directly within their coding environment, enhancing productivity and enabling seamless AI-driven workflows.
+
+**Preview Features:**
+- **Agent Mode:** Use MCP server tools directly from GitHub Copilot in agent mode.
+- **Enhanced AI Assistance:** Context-aware suggestions and tool integration.
+- **Cross-Platform Support:** Available on Windows, MacOS, and Linux.
+
+<details>
+<summary>Screenshots</summary>
+
+![VSCode Settings & Version](./screenshots/github-copilot-mcp/mcp_config_vscode.png
+![Use in copilot](./screenshots/github-copilot-mcp/mcp_use_in_copilot.png)
+![Live usage](https://www.linkedin.com/posts/tugdualgrall_github-copilot-agent-mode-with-mcp-activity-7309612273235296258-Bj7-/)
+
+</details>
+
 ### Goose
 
 <table>
