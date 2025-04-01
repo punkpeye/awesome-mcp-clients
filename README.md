@@ -61,6 +61,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [y-cli](#y-cli)
     - [Zed](#zed)
     - [MindPal](#mindpal)
+    - [WhatsMCP](#whatsmcp)
   - [Servers](#servers)
 
 ### 5ire
@@ -938,6 +939,29 @@ Key features:
 
 ![](./screenshots/mindpal/agent-config.jpg)
 ![](./screenshots/mindpal/mcp-integration.jpg)
+
+</details>
+
+
+### WhatsMCP
+
+<table>
+<tr><th align="left">GitHub</th><td>N/A</td></tr>
+<tr><th align="left">Website</th><td>https://wassist.app/mcp/</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Mobile app</td></tr>
+<tr><th align="left">Platforms</th><td>WhatsApp</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>N/A</td></tr>
+</table>
+
+WhatsMCP is a WhatsApp agent that allows you to interact with MCP servers. It is a simple and easy to use tool that allows you to interact with your AI stack from WhatsApp.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/whatsmcp/main.png)
+![](./screenshots/whatsmcp/whatsmcp.gif)
 
 </details>
 
