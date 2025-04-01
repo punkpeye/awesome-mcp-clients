@@ -27,6 +27,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
   - [Clients](#clients)
     - [5ire](#5ire)
     - [AIaW](#aiaw)
+    - [AstrBot](#AstrBot)
     - [Chainlit](#chainlit)
     - [ChatMCP](#chatmcp)
     - [Cherry Studio](#cherry-studio)
@@ -105,6 +106,28 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 ![](./screenshots/aiaw/dialog.png)
 ![](./screenshots/aiaw/dark.png)
 <img src="./screenshots/aiaw/mobile.png" width="400">
+
+</details>
+
+### AstrBot
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/AstrBotDevs/AstrBot</td></tr>
+<tr><th align="left">Website</th><td>https://astrbot.app/</td></tr>
+<tr><th align="left">License</th><td>AGPL-3.0 license</td></tr>
+<tr><th align="left">Type</th><td>LLM chatbot and development framework</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux, Android</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Vue, Python</td></tr>
+</table>
+
+AstrBot is an Easy-to-use multi-platform LLM chatbot and development framework Platform supports QQ, QQ channel, Telegram, WeChat, Qiwei, Lark | MCP server, OpenAI, DeepSeek, Gemini, Silicon Flow, Dark Side of the Moon, Ollama, OneAPI, Dify, etc. Comes with WebUI.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/astrbot/plugins.png)
+![](./screenshots/astrbot/chat_example.png)
+![](./screenshots/astrbot/chat_qq_example_without_avater.png)
 
 </details>
 
