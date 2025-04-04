@@ -55,6 +55,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Tester MCP Client](#tester-mcp-client)
+    - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
     - [Witsy](#witsy)
     - [Enconvo](#enconvo)
@@ -798,6 +799,36 @@ Key features:
 
 ![](./screenshots/tester-mcp-client/setup.png)
 ![](./screenshots/tester-mcp-client/chat-ui.png)
+
+</details>
+
+### VS Code GitHub Copilot
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/microsoft/vscode</td></tr>
+<tr><th align="left">Website</th><td>https://code.visualstudio.com/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux, Web</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium (GitHub Copilot subscription)</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+VS Code integrates MCP with GitHub Copilot through [agent mode](https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode), allowing direct interaction with MCP-provided tools within your agentic coding workflow. Configure servers in Claude Desktop, workspace or user settings, with guided MCP installation and secure handling of keys in input variables to avoid leaking hard-coded keys.
+
+**Key Features:**
+- Support for stdio and server-sent events (SSE) transport
+- Per-session selection of tools per agent session for optimal performance
+- Easy server debugging with restart commands and output logging
+- Tool calls with editable inputs and always-allow toggle
+- Integration with existing VS Code extension system to register MCP servers from extensions
+
+<details>
+<summary>Screenshots</summary>
+
+![Guided MCP server configuration in VS Code](screenshots/vscode/add-mcp-server.png)
+![Tool selection per agent session](screenshots/vscode/agent-tools.png)
+![Easily debug errors during MCP development](screenshots/vscode/debugging-output.png)
 
 </details>
 
