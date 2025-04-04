@@ -26,7 +26,10 @@ A curated list of awesome Model Context Protocol (MCP) clients.
   - [Community](#community)
   - [Clients](#clients)
     - [5ire](#5ire)
+    - [AIaW](#aiaw)
+    - [Chainlit](#chainlit)
     - [ChatMCP](#chatmcp)
+    - [Cherry Studio](#cherry-studio)
     - [Claude Desktop](#claude-desktop)
     - [ClaudeMind](#claudemind)
     - [Cline](#cline)
@@ -34,6 +37,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Copilot-MCP](#copilot-mcp)
     - [Cursor](#cursor)
     - [Continue](#continue)
+    - [DeepChat](#deepchat)
     - [Dolphin-MCP](#dolphin-mcp)
     - [FLUJO](#flujo)
     - [Goose](#goose)
@@ -45,16 +49,21 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP CLI client](#mcp-cli-client)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
     - [MCPOmni Connect](#mcpomni-connect)
+    - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [oterm](#oterm)
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Tester MCP Client](#tester-mcp-client)
+    - [VS Code GitHub Copilot](#vs-code-github-copilot)
+    - [Windsurf](#windsurf)
     - [Witsy](#witsy)
     - [Enconvo](#enconvo)
     - [y-cli](#y-cli)
     - [Zed](#zed)
     - [HighlightAI](#highlightai)
+    - [MindPal](#mindpal)
+    - [WhatsMCP](#whatsmcp)
   - [Servers](#servers)
 
 ### 5ire
@@ -75,6 +84,53 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 <summary>Screenshots</summary>
 
 https://github.com/user-attachments/assets/a27494c5-437d-481c-a25f-74cfa5a2bc45
+
+</details>
+
+### AIaW
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/NitroRCr/AIaW</td></tr>
+<tr><th align="left">Website</th><td>https://aiaw.app/</td></tr>
+<tr><th align="left">License</th><td>BSD 3-Clause</td></tr>
+<tr><th align="left">Type</th><td>Cross-platform app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux, Android, Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Vue, TypeScript</td></tr>
+</table>
+
+AIaW is a cross-platform, full-featured and lightweight AI Chat client with full support for MCP.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/aiaw/plugins.png)
+![](./screenshots/aiaw/dialog.png)
+![](./screenshots/aiaw/dark.png)
+<img src="./screenshots/aiaw/mobile.png" width="400">
+
+</details>
+
+### Chainlit
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/chainlit/chainlit</td></tr>
+<tr><th align="left">Website</th><td>https://chainlit.io/</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+Chainlit is a python framework to build conversational AI apps with support for MCP.
+
+<details>
+<summary>Screenshots</summary>
+
+![example](./screenshots/chainlit/example.png)
+![add-mcp](./screenshots/chainlit/add-mcp.png)
+![manage-mcps](./screenshots/chainlit/manage-mcps.png)
 
 </details>
 
@@ -99,6 +155,37 @@ ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
 ![](./screenshots/chatmcp/settings.png)
 
 </details>
+
+### Cherry Studio
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/CherryHQ/cherry-studio</td></tr>
+<tr><th align="left">Website</th><td>https://cherry-ai.com</td></tr>
+<tr><th align="left">License</th><td><a href="https://github.com/CherryHQ/cherry-studio/blob/main/LICENSE">Apache 2.0 + Addendum Terms*</a></td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+**Cherry Studio** is a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.
+
+**Feature:**
+
+- **Multi-Model Support**: Integrates cloud (OpenAI, Gemini, Anthropic), web AI (Claude, Perplexity), and local models (Ollama, LM Studio).
+- **AI Assistants**: 300+ presets, custom creation, and multi-model parallel chats.
+- **Doc Processing**: Handles text/images/Office/PDF, WebDAV, Mermaid, and code highlighting.
+- **Productivity**: Global search, topic management, AI translation, drag-drop, mini-programs, and **MCP server**.
+- **UX**: Cross-platform (Win/Mac/Linux), plug-and-play, light/dark themes, transparent UI, full Markdown, and easy sharing.
+
+<details>
+<summary>Screenshots</summary>
+
+![preview](./screenshots/cherry-studio/preview.png)
+![settings](./screenshots/cherry-studio/settings.png)
+
+</details>
+
+
 
 ### Claude Desktop
 
@@ -255,6 +342,28 @@ Continue is the leading open-source AI code assistant. You can connect any model
 
 </details>
 
+### DeepChat
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/thinkinaixyz/deepchat</td></tr>
+<tr><th align="left">Website</th><td>https://deepchat.thinkinai.xyz/</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+DeepChat is a cross-platform desktop AI assistant, MCP client. DeepChat brings the power of AI to your desktop with privacy and efficiency, making it your ideal companion for productive work.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/deepchat/deepchat.png)
+![](./screenshots/deepchat/setting.png)
+
+</details>
+
 ### Dolphin-MCP
 
 <table>
@@ -318,6 +427,34 @@ Think n8n + ChatGPT. **FLUJO** is an desktop application that integrates with MC
 ![image](https://github.com/user-attachments/assets/076a5d0c-bb35-4765-a2dc-8423d103eeb0)
 
 ![image](https://github.com/user-attachments/assets/91cd4525-9b13-4a5a-8f88-72efc11a913d)
+
+</details>
+
+### GitHub Copilot with Visual Studio Code Insiders
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/github/copilot</td></tr>
+<tr><th align="left">Website</th><td>https://github.com/features/copilot</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>VSCode Extension</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Subscription-based</td></tr>
+<tr><th align="left">Programming Languages</th><td>Any</td></tr>
+</table>
+
+GitHub Copilot with Visual Studio Code Insiders now supports MCP server integration in agent mode. This enables developers to leverage MCP tools directly within their coding environment, enhancing productivity and enabling seamless AI-driven workflows.
+
+**Preview Features:**
+- **Agent Mode:** Use MCP server tools directly from GitHub Copilot in agent mode.
+- **Enhanced AI Assistance:** Context-aware suggestions and tool integration.
+- **Cross-Platform Support:** Available on Windows, MacOS, and Linux.
+
+<details>
+<summary>Screenshots</summary>
+
+![VSCode Settings & Version](./screenshots/github-copilot-mcp/mcp_config_vscode.png
+![Use in copilot](./screenshots/github-copilot-mcp/mcp_use_in_copilot.png)
+![Live usage](https://www.linkedin.com/posts/tugdualgrall_github-copilot-agent-mode-with-mcp-activity-7309612273235296258-Bj7-/)
 
 </details>
 
@@ -503,18 +640,40 @@ A simple Slack bot that uses LLMs and the Model Context Protocol (MCP) tools.
 <tr><th align="left">Website</th><td>-</td></tr>
 <tr><th align="left">License</th><td>MIT</td></tr>
 <tr><th align="left">Type</th><td>CLI</td></tr>
-<tr><th align="left">Platforms</th><td>Linux</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
 <tr><th align="left">Programming Languages</th><td>Python</td></tr>
 </table>
 
-A powerful universal CLI client for MCP featuring stdio/SSE transport protocols, OpenAI model integration, dynamic prompt management with flexible argument formats (JSON/key-value), intelligent tool orchestration, and cross-server resource handling. Supports advanced features like context-aware execution, automatic tool selection, and real-time response handling.
+A powerful universal CLI client for MCP Servers that provides seamless integration with multiple protocols, AI models, and tools through an intelligent interface.
+
 `uv add mcpomni-connect` or `pip install mcpomni-connect`
 
 <details>
 <summary>Screenshots</summary>
 
 ![mcp_client_new1](https://github.com/user-attachments/assets/9c4eb3df-d0d5-464c-8815-8f7415a47fce)
+
+</details>
+
+### Nerve
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/evilsocket/nerve</td></tr>
+<tr><th align="left">Website</th><td>https://github.com/evilsocket/nerve</td></tr>
+<tr><th align="left">License</th><td>GPL3</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+Nerve is an ADK ( Agent Development Kit ) and CLI designed to be a simple yet powerful platform for creating and executing LLM-based agents fully integrated with MCP.
+
+<details>
+<summary>Screenshots</summary>
+
+[![asciicast](https://asciinema.org/a/710433.svg)](https://asciinema.org/a/710433)
 
 </details>
 
@@ -646,6 +805,58 @@ Key features:
 
 </details>
 
+### VS Code GitHub Copilot
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/microsoft/vscode</td></tr>
+<tr><th align="left">Website</th><td>https://code.visualstudio.com/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux, Web</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium (GitHub Copilot subscription)</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+VS Code integrates MCP with GitHub Copilot through [agent mode](https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode), allowing direct interaction with MCP-provided tools within your agentic coding workflow. Configure servers in Claude Desktop, workspace or user settings, with guided MCP installation and secure handling of keys in input variables to avoid leaking hard-coded keys.
+
+**Key Features:**
+- Support for stdio and server-sent events (SSE) transport
+- Per-session selection of tools per agent session for optimal performance
+- Easy server debugging with restart commands and output logging
+- Tool calls with editable inputs and always-allow toggle
+- Integration with existing VS Code extension system to register MCP servers from extensions
+
+<details>
+<summary>Screenshots</summary>
+
+![Guided MCP server configuration in VS Code](screenshots/vscode/add-mcp-server.png)
+![Tool selection per agent session](screenshots/vscode/agent-tools.png)
+![Easily debug errors during MCP development](screenshots/vscode/debugging-output.png)
+
+</details>
+
+### Windsurf
+
+<table>
+<tr><th align="left">GitHub</th><td>N/A</td></tr>
+<tr><th align="left">Website</th><td>https://codeium.com/windsurf</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic.
+
+<details>
+<summary>Screenshots</summary>
+
+![Main Interface](./screenshots/windsurf/windsurf.png)
+![Adding New MCP Server](./screenshots/windsurf/easy-add-mcp-servers.png)
+![Settings Interface](./screenshots/windsurf/settings-cascade-mcp.png)
+</details>
+
 ### Witsy
 
 <table>
@@ -734,9 +945,8 @@ https://github.com/user-attachments/assets/95624731-5469-4b58-a21f-bbb31d9838fa
 
 </details>
 
-
 ### HighlightAI
-
+ 
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/highlight-ing/</td></tr>
 <tr><th align="left">Website</th><td>https://highlightai.com/</td></tr>
@@ -746,9 +956,9 @@ https://github.com/user-attachments/assets/95624731-5469-4b58-a21f-bbb31d9838fa
 <tr><th align="left">Pricing</th><td>Freemium</td></tr>
 <tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
 </table>
-
+ 
 [HighlightAI](https://highlightai.com) lets you get instant answers about anything you've seen, heard or said. HighlightAI is an desktop app that runs on macOS and Windows. Check out our [docs](https://docs.highlightai.com/learn/developers/plugins) for more info.
-
+ 
 **Key features:**
 - Local audio and mic transcription: Automatically capture and share meeting notes, saving hours of manual work
 - Hold command anywhere to talk: Control apps, dictate content, and ask questions completely hands-free
@@ -757,14 +967,66 @@ https://github.com/user-attachments/assets/95624731-5469-4b58-a21f-bbb31d9838fa
 - One-Click MCP Server: We take care of the MCP setup, you can set your environment variables and start using it in seconds
 - [Open source bundler](https://github.com/highlight-ing/mcp-bundler): We open sourced our bundler so any client can use it to add MCP support to their app
 - [Public registry](https://mcpservers.com/): We maintain a public registry of MCP servers that you can use in Highlight or your own MCP clients
-
+ 
 <details>
 <summary>Screenshots</summary>
-
+ 
 ![](./screenshots/highlightai/highlight-plugin-browse.png)
 ![](./screenshots/highlightai/highlight-plugin-installed.png)
 </details>
 
+### MindPal
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/mindpal-ai/mindpal</td></tr>
+<tr><th align="left">Website</th><td>https://mindpal.io</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+MindPal is a no-code platform for building and deploying AI agents and multi-agent workflows. It enables anyone without technical skills to create powerful AI automation solutions by connecting any AI model with any tool. Build complex workflows where multiple AI agents work together to accomplish tasks, with built-in support for MCP servers and tools.
+
+Key features:
+- No-code AI agent builder
+- Multi-agent workflow orchestration
+- Support for any AI model provider
+- MCP server integration
+- Visual workflow designer
+- Built-in tool marketplace
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/mindpal/agent-config.jpg)
+![](./screenshots/mindpal/mcp-integration.jpg)
+
+</details>
+
+
+### WhatsMCP
+
+<table>
+<tr><th align="left">GitHub</th><td>N/A</td></tr>
+<tr><th align="left">Website</th><td>https://wassist.app/mcp/</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Mobile app</td></tr>
+<tr><th align="left">Platforms</th><td>WhatsApp</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>N/A</td></tr>
+</table>
+
+WhatsMCP is a WhatsApp agent that allows you to interact with MCP servers. It is a simple and easy to use tool that allows you to interact with your AI stack from WhatsApp.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/whatsmcp/main.png)
+![](./screenshots/whatsmcp/whatsmcp.gif)
+
+</details>
 
 ## Servers
 
