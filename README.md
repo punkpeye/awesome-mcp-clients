@@ -55,12 +55,14 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Tester MCP Client](#tester-mcp-client)
+    - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
     - [Witsy](#witsy)
     - [Enconvo](#enconvo)
     - [y-cli](#y-cli)
     - [Zed](#zed)
     - [MindPal](#mindpal)
+    - [WhatsMCP](#whatsmcp)
     - [ToolRegistry](#toolregistry)
   - [Servers](#servers)
 
@@ -428,7 +430,7 @@ Think n8n + ChatGPT. **FLUJO** is an desktop application that integrates with MC
 
 </details>
 
-### GitHub Copilot with VSCode Insight
+### GitHub Copilot with Visual Studio Code Insiders
 
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/github/copilot</td></tr>
@@ -440,7 +442,7 @@ Think n8n + ChatGPT. **FLUJO** is an desktop application that integrates with MC
 <tr><th align="left">Programming Languages</th><td>Any</td></tr>
 </table>
 
-GitHub Copilot with VSCode Insight now supports MCP server integration in agent mode. This enables developers to leverage MCP tools directly within their coding environment, enhancing productivity and enabling seamless AI-driven workflows.
+GitHub Copilot with Visual Studio Code Insiders now supports MCP server integration in agent mode. This enables developers to leverage MCP tools directly within their coding environment, enhancing productivity and enabling seamless AI-driven workflows.
 
 **Preview Features:**
 - **Agent Mode:** Use MCP server tools directly from GitHub Copilot in agent mode.
@@ -638,12 +640,13 @@ A simple Slack bot that uses LLMs and the Model Context Protocol (MCP) tools.
 <tr><th align="left">Website</th><td>-</td></tr>
 <tr><th align="left">License</th><td>MIT</td></tr>
 <tr><th align="left">Type</th><td>CLI</td></tr>
-<tr><th align="left">Platforms</th><td>Linux</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
 <tr><th align="left">Programming Languages</th><td>Python</td></tr>
 </table>
 
-A powerful universal CLI client for MCP featuring stdio/SSE transport protocols, OpenAI model integration, dynamic prompt management with flexible argument formats (JSON/key-value), intelligent tool orchestration, and cross-server resource handling. Supports advanced features like context-aware execution, automatic tool selection, and real-time response handling.
+A powerful universal CLI client for MCP Servers that provides seamless integration with multiple protocols, AI models, and tools through an intelligent interface.
+
 `uv add mcpomni-connect` or `pip install mcpomni-connect`
 
 <details>
@@ -802,6 +805,36 @@ Key features:
 
 </details>
 
+### VS Code GitHub Copilot
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/microsoft/vscode</td></tr>
+<tr><th align="left">Website</th><td>https://code.visualstudio.com/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux, Web</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium (GitHub Copilot subscription)</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+VS Code integrates MCP with GitHub Copilot through [agent mode](https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode), allowing direct interaction with MCP-provided tools within your agentic coding workflow. Configure servers in Claude Desktop, workspace or user settings, with guided MCP installation and secure handling of keys in input variables to avoid leaking hard-coded keys.
+
+**Key Features:**
+- Support for stdio and server-sent events (SSE) transport
+- Per-session selection of tools per agent session for optimal performance
+- Easy server debugging with restart commands and output logging
+- Tool calls with editable inputs and always-allow toggle
+- Integration with existing VS Code extension system to register MCP servers from extensions
+
+<details>
+<summary>Screenshots</summary>
+
+![Guided MCP server configuration in VS Code](screenshots/vscode/add-mcp-server.png)
+![Tool selection per agent session](screenshots/vscode/agent-tools.png)
+![Easily debug errors during MCP development](screenshots/vscode/debugging-output.png)
+
+</details>
+
 ### Windsurf
 
 <table>
@@ -939,6 +972,28 @@ Key features:
 
 ![](./screenshots/mindpal/agent-config.jpg)
 ![](./screenshots/mindpal/mcp-integration.jpg)
+
+</details>
+
+### WhatsMCP
+
+<table>
+<tr><th align="left">GitHub</th><td>N/A</td></tr>
+<tr><th align="left">Website</th><td>https://wassist.app/mcp/</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Mobile app</td></tr>
+<tr><th align="left">Platforms</th><td>WhatsApp</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>N/A</td></tr>
+</table>
+
+WhatsMCP is a WhatsApp agent that allows you to interact with MCP servers. It is a simple and easy to use tool that allows you to interact with your AI stack from WhatsApp.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/whatsmcp/main.png)
+![](./screenshots/whatsmcp/whatsmcp.gif)
 
 </details>
 
