@@ -429,7 +429,7 @@ Think n8n + ChatGPT. **FLUJO** is an desktop application that integrates with MC
 
 </details>
 
-### GitHub Copilot with VSCode Insight
+### GitHub Copilot with Visual Studio Code Insiders
 
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/github/copilot</td></tr>
@@ -441,7 +441,7 @@ Think n8n + ChatGPT. **FLUJO** is an desktop application that integrates with MC
 <tr><th align="left">Programming Languages</th><td>Any</td></tr>
 </table>
 
-GitHub Copilot with VSCode Insight now supports MCP server integration in agent mode. This enables developers to leverage MCP tools directly within their coding environment, enhancing productivity and enabling seamless AI-driven workflows.
+GitHub Copilot with Visual Studio Code Insiders now supports MCP server integration in agent mode. This enables developers to leverage MCP tools directly within their coding environment, enhancing productivity and enabling seamless AI-driven workflows.
 
 **Preview Features:**
 - **Agent Mode:** Use MCP server tools directly from GitHub Copilot in agent mode.
