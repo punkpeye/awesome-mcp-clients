@@ -638,12 +638,13 @@ A simple Slack bot that uses LLMs and the Model Context Protocol (MCP) tools.
 <tr><th align="left">Website</th><td>-</td></tr>
 <tr><th align="left">License</th><td>MIT</td></tr>
 <tr><th align="left">Type</th><td>CLI</td></tr>
-<tr><th align="left">Platforms</th><td>Linux</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
 <tr><th align="left">Programming Languages</th><td>Python</td></tr>
 </table>
 
-A powerful universal CLI client for MCP featuring stdio/SSE transport protocols, OpenAI model integration, dynamic prompt management with flexible argument formats (JSON/key-value), intelligent tool orchestration, and cross-server resource handling. Supports advanced features like context-aware execution, automatic tool selection, and real-time response handling.
+A powerful universal CLI client for MCP Servers that provides seamless integration with multiple protocols, AI models, and tools through an intelligent interface.
+
 `uv add mcpomni-connect` or `pip install mcpomni-connect`
 
 <details>
