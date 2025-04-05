@@ -54,6 +54,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [oterm](#oterm)
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
+    - [Simple Nodejs MCP Client](#simple-nodejs-mcp-client)
     - [Tester MCP Client](#tester-mcp-client)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
@@ -772,6 +773,20 @@ SeekChat supports MCP tool execution, enabling AI to directly control your compu
 ![](./screenshots/seekchat/screenshot-chat.png)
 ![](./screenshots/seekchat/screenshot-setting-mcp.png)
 </details>
+
+### Simple Nodejs MCP Client
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/sawa-zen/simple-nodejs-mcp-client</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Node.js</td></tr>
+</table>
+
+This is a study repository for implementing a Model Context Protocol (MCP) client. It features a simple interactive MCP client implemented in Node.js.
 
 ### Tester MCP Client
 
