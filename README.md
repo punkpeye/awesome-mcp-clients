@@ -41,7 +41,6 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Dolphin-MCP](#dolphin-mcp)
     - [FLUJO](#flujo)
     - [Goose](#goose)
-    - [http4k MCP Desktop](#http4k-mcp-desktop)
     - [HyperChat](#hyperchat)
     - [kibitz](#kibitz)
     - [LibreChat](#librechat)
@@ -92,8 +91,8 @@ https://github.com/user-attachments/assets/a27494c5-437d-481c-a25f-74cfa5a2bc45
 <tr><th align="left">GitHub</th><td>https://github.com/NitroRCr/AIaW</td></tr>
 <tr><th align="left">Website</th><td>https://aiaw.app/</td></tr>
 <tr><th align="left">License</th><td>BSD 3-Clause</td></tr>
-<tr><th align="left">Type</th><td>Cross-platform app</td></tr>
-<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux, Android, Web</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
 <tr><th align="left">Programming Languages</th><td>Vue, TypeScript</td></tr>
 </table>
@@ -387,14 +386,15 @@ DeepChat is a cross-platform desktop AI assistant, MCP client. DeepChat brings t
 </details>
 
 ### FLUJO
+
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/mario-andreschak/FLUJO</td></tr>
 <tr><th align="left">Website</th><td>flujo.orchestraight.co</td></tr>
 <tr><th align="left">License</th><td>MIT</td></tr>
-<tr><th align="left">Type</th><td>Next.js/Node Application</td></tr>
-<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
-<tr><th align="left">Programming Languages</th><td>Typescript</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
 </table>
 
 Think n8n + ChatGPT. **FLUJO** is an desktop application that integrates with MCP to provide a workflow-builder interface for AI interactions. Built with Next.js and React, it supports both online and offline (ollama) models, it manages API Keys and environment variables centrally and can install MCP Servers from GitHub. FLUJO has an ChatCompletions endpoint and flows can be executed from other AI applications like Cline, Roo or Claude. 
@@ -429,34 +429,6 @@ Think n8n + ChatGPT. **FLUJO** is an desktop application that integrates with MC
 
 </details>
 
-### GitHub Copilot with Visual Studio Code Insiders
-
-<table>
-<tr><th align="left">GitHub</th><td>https://github.com/github/copilot</td></tr>
-<tr><th align="left">Website</th><td>https://github.com/features/copilot</td></tr>
-<tr><th align="left">License</th><td>Proprietary</td></tr>
-<tr><th align="left">Type</th><td>VSCode Extension</td></tr>
-<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
-<tr><th align="left">Pricing</th><td>Subscription-based</td></tr>
-<tr><th align="left">Programming Languages</th><td>Any</td></tr>
-</table>
-
-GitHub Copilot with Visual Studio Code Insiders now supports MCP server integration in agent mode. This enables developers to leverage MCP tools directly within their coding environment, enhancing productivity and enabling seamless AI-driven workflows.
-
-**Preview Features:**
-- **Agent Mode:** Use MCP server tools directly from GitHub Copilot in agent mode.
-- **Enhanced AI Assistance:** Context-aware suggestions and tool integration.
-- **Cross-Platform Support:** Available on Windows, MacOS, and Linux.
-
-<details>
-<summary>Screenshots</summary>
-
-![VSCode Settings & Version](./screenshots/github-copilot-mcp/mcp_config_vscode.png)
-![Use in copilot](./screenshots/github-copilot-mcp/mcp_use_in_copilot.png)
-![Live usage](https://www.linkedin.com/posts/tugdualgrall_github-copilot-agent-mode-with-mcp-activity-7309612273235296258-Bj7-/)
-
-</details>
-
 ### Goose
 
 <table>
@@ -481,25 +453,6 @@ Goose is a general-purpose AI agent that can dynamically plug into new extension
 ![List Tools](./screenshots/goose/list%20tools.png)
 
 </details>
-
-### http4k MCP Desktop
-
-<table>
-<tr><th align="left">GitHub</th><td>https://github.com/http4k/mcp-desktop</td></tr>
-<tr><th align="left">Website</th><td>https://mcp.http4k.org</td></tr>
-<tr><th align="left">License</th><td>Proprietary</td></tr>
-<tr><th align="left">Type</th><td>StdIO -> Remote MCP proxy</td></tr>
-<tr><th align="left">Platforms</th><td>MacOS, Windows, Linux</td></tr>
-<tr><th align="left">Pricing</th><td>Per seat (see site). Free for non-commercial/non-profit/research</td></tr>
-<tr><th align="left">Programming Languages</th><td>Native binary, written in Kotlin</td></tr>
-</table>
-
-The http4k MCP Desktop Client serves as a proxy that enables communication between desktop applications and MCP servers. While it works with any MCP-compliant server, it's specially optimized for servers built using the [http4k MCP SDK](https://mcp.http4k.org).
-
-**Features**
-- Multiple remote transport options: SSE (Server-Sent Events), JSON-RPC (stateless) and WebSocket.
-- Various standard authentication methods: API Key, Bearer Token, Basic Auth, and OAuth
-- Customizable reconnection logic
 
 ### HyperChat
 
@@ -688,7 +641,7 @@ Nerve is an ADK ( Agent Development Kit ) and CLI designed to be a simple yet po
 <tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
 </table>
 
-NextChat: Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP support.
+Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP support.
 
 <details>
 <summary>Screenshots</summary>
@@ -759,7 +712,7 @@ Key features:
 <tr><th align="left">Type</th><td>Desktop app</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
-<tr><th align="left">Programming Languages</th><td>Javascript</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
 </table>
 
 ✨ A Sleek and Powerful AI Chat Desktop Application ✨
@@ -819,6 +772,7 @@ Key features:
 VS Code integrates MCP with GitHub Copilot through [agent mode](https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode), allowing direct interaction with MCP-provided tools within your agentic coding workflow. Configure servers in Claude Desktop, workspace or user settings, with guided MCP installation and secure handling of keys in input variables to avoid leaking hard-coded keys.
 
 **Key Features:**
+
 - Support for stdio and server-sent events (SSE) transport
 - Per-session selection of tools per agent session for optimal performance
 - Easy server debugging with restart commands and output logging
@@ -973,7 +927,6 @@ Key features:
 ![](./screenshots/mindpal/mcp-integration.jpg)
 
 </details>
-
 
 ### WhatsMCP
 
