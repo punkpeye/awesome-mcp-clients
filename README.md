@@ -451,7 +451,7 @@ GitHub Copilot with Visual Studio Code Insiders now supports MCP server integrat
 <details>
 <summary>Screenshots</summary>
 
-![VSCode Settings & Version](./screenshots/github-copilot-mcp/mcp_config_vscode.png
+![VSCode Settings & Version](./screenshots/github-copilot-mcp/mcp_config_vscode.png)
 ![Use in copilot](./screenshots/github-copilot-mcp/mcp_use_in_copilot.png)
 ![Live usage](https://www.linkedin.com/posts/tugdualgrall_github-copilot-agent-mode-with-mcp-activity-7309612273235296258-Bj7-/)
 
