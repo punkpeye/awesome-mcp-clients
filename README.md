@@ -779,15 +779,6 @@ VS Code integrates MCP with GitHub Copilot through [agent mode](https://code.vis
 - Tool calls with editable inputs and always-allow toggle
 - Integration with existing VS Code extension system to register MCP servers from extensions
 
-<details>
-<summary>Screenshots</summary>
-
-![Guided MCP server configuration in VS Code](screenshots/vscode/add-mcp-server.png)
-![Tool selection per agent session](screenshots/vscode/agent-tools.png)
-![Easily debug errors during MCP development](screenshots/vscode/debugging-output.png)
-
-</details>
-
 ### Windsurf
 
 <table>
