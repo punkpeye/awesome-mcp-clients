@@ -62,6 +62,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zed](#zed)
     - [MindPal](#mindpal)
     - [WhatsMCP](#whatsmcp)
+    - [ChaTTY](#chatty)
   - [Servers](#servers)
 
 ### 5ire
@@ -938,6 +939,28 @@ WhatsMCP is a WhatsApp agent that allows you to interact with MCP servers. It is
 
 ![](./screenshots/whatsmcp/main.png)
 ![](./screenshots/whatsmcp/whatsmcp.gif)
+
+</details>
+
+### ChaTTY
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/vietanhduong/chatty</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust</td></tr>
+</table>
+
+ChaTTY is a Terminal User Interface (TUI) for chatting with AI models (OpenAI, Gemini), written in Rust.
+It brings the power of ChatGPT and Gemini to your terminal, with features like conversation management,
+multiple model support, and intelligent context compression.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/chatty/preview.png)
 
 </details>
 
