@@ -62,6 +62,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zed](#zed)
     - [MindPal](#mindpal)
     - [WhatsMCP](#whatsmcp)
+    - [ToolRegistry](#toolregistry)
   - [Servers](#servers)
 
 ### 5ire
@@ -940,6 +941,26 @@ WhatsMCP is a WhatsApp agent that allows you to interact with MCP servers. It is
 ![](./screenshots/whatsmcp/whatsmcp.gif)
 
 </details>
+
+### ToolRegistry
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Oaklight/ToolRegistry</td></tr>
+<tr><th align="left">Website</th><td>https://toolregistry.lab.oaklight.cn</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Python package</td></tr>
+<tr><th align="left">Platforms</th><td>Cross-platform</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+**Features:**
+- Streamlines the invocation of OpenAI client tools.
+- Supports MCP tools in SSE mode.
+- Enables versatile registry merging with native Python functions and multiple MCP servers.
+- Provides both asynchronous and synchronous interfaces for MCP server tools.
+- Flexible tool registration for custom integrations.
+- Continuously updated with best practices for tool management.
 
 ## Servers
 
