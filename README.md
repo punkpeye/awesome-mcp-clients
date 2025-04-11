@@ -50,6 +50,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCPOmni Connect](#mcpomni-connect)
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
+    - [Open MCP Client](#open-mcp-client)
     - [oterm](#oterm)
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
@@ -647,6 +648,28 @@ Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP suppo
 <summary>Screenshots</summary>
 
 ![](https://github.com/ChatGPTNextWeb/NextChat/blob/main/docs/images/cover.png)
+
+</details>
+
+### Open MCP Client
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/CopilotKit/open-mcp-client</td></tr>
+<tr><th align="left">Website</th><td>https://open-mcp-client.vercel.app</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Python</td></tr>
+</table>
+
+A web-based, open-source client that enables seamless interaction with any MCP server directly within your application. Simply use a URL from Composio to get started.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/open-mcp-client/ui-1.png)
+![](./screenshots/open-mcp-client/ui-2.png)
 
 </details>
 
