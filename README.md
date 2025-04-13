@@ -397,7 +397,7 @@ DeepChat is a cross-platform desktop AI assistant, MCP client. DeepChat brings t
 <tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
 </table>
 
-Think n8n + ChatGPT. **FLUJO** is an desktop application that integrates with MCP to provide a workflow-builder interface for AI interactions. Built with Next.js and React, it supports both online and offline (ollama) models, it manages API Keys and environment variables centrally and can install MCP Servers from GitHub. FLUJO has an ChatCompletions endpoint and flows can be executed from other AI applications like Cline, Roo or Claude. 
+Think n8n + ChatGPT. **FLUJO** is a desktop application that integrates with MCP to provide a workflow-builder interface for AI interactions. Built with Next.js and React, it supports both online and offline (ollama) models, it manages API Keys and environment variables centrally and can install MCP Servers from GitHub. FLUJO has a ChatCompletions endpoint and flows can be executed from other AI applications like Cline, Roo or Claude. 
 
 - Environment & API Key Management
 - Model Management
