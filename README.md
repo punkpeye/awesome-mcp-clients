@@ -50,6 +50,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCPOmni Connect](#mcpomni-connect)
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
+    - [OmniMind](#omnimind)
     - [oterm](#oterm)
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
@@ -647,6 +648,27 @@ Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP suppo
 <summary>Screenshots</summary>
 
 ![](https://github.com/ChatGPTNextWeb/NextChat/blob/main/docs/images/cover.png)
+
+</details>
+
+### OmniMind
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Techiral/OmniMind</td></tr>
+<tr><th align="left">Website</th><td> - </td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI/Web App, Python Library</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+An open-source Python library for effortless MCP (Model Context Protocol) integration, AI Agents, AI workflows, and AI Automations. Plug & Play AI Tools for MCP Servers and Clients, powered by Google Gemini.
+
+<details>
+<summary>Screenshots</summary>
+
+![](https://github.com/Techiral/OmniMind/blob/main/demo/OmniMind.gif?raw=true)
 
 </details>
 
