@@ -43,6 +43,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Goose](#goose)
     - [HyperChat](#hyperchat)
     - [kibitz](#kibitz)
+    - [Klavis AI](#klavis-ai)
     - [LibreChat](#librechat)
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
@@ -505,6 +506,36 @@ kibitiz is the free and open-source Replit. Minimally, it is a lightweight chat 
 <summary>Screenshots</summary>
   
 https://github.com/user-attachments/assets/3f8df448-1c81-4ff2-8598-c48283a4dc00
+
+</details>
+
+### Klavis AI
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Klavis-AI/klavis</td></tr>
+<tr><th align="left">Website</th><td>https://www.klavis.ai</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Slack/Discord bots, Web UI, Hosted Service</td></tr>
+<tr><th align="left">Platforms</th><td>Slack, Discord, Web</td></tr>
+<tr><th align="left">Pricing</th><td>Open Source: Free. Hosted: Freemium </td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, Typescript</td></tr>
+</table>
+
+Klavis AI is building open-source infrastructure to make Model Context Protocols (MCPs) easy for everyone. We provide:
+
+- 💬 Slack & Discord Clients: Run MCPs directly from your favorite messaging platforms
+- ☁️ Hosted MCP Servers: Access powerful tools without infrastructure management
+- 🎛️ Simple Web UI: Configure and manage everything with no coding required
+
+Whether you're a non-technical user wanting to leverage AI workflows or a developer looking to build and scale MCPs, Klavis makes it simple.
+
+<details>
+<summary>Screenshots</summary>
+  
+![](./screenshots/klavis-ai/home.png)
+![](./screenshots/klavis-ai/dashboard.png)
+![](./screenshots/klavis-ai/slack.png)
+![](./screenshots/klavis-ai/discord.png)
 
 </details>
 
