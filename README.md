@@ -51,7 +51,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [oterm](#oterm)
-    - [Refact.ai](#refact.ai)
+    - [Refact.ai](#refactai)
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Tester MCP Client](#tester-mcp-client)
