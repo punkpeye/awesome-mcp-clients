@@ -25,6 +25,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
   - [What is MCP?](#what-is-mcp)
   - [Community](#community)
   - [Clients](#clients)
+    - [eechat](#eechat)
     - [5ire](#5ire)
     - [AIaW](#aiaw)
     - [Chainlit](#chainlit)
@@ -63,6 +64,30 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MindPal](#mindpal)
     - [WhatsMCP](#whatsmcp)
   - [Servers](#servers)
+
+
+### eechat
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Lucassssss/eechat</td></tr>
+<tr><th align="left">Website</th><td>https://www.ee.chat/</td></tr>
+<tr><th align="left">License</th><td>Modified Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+An open-source, cross-platform desktop application that seamlessly connects with full support for MCP, across Linux, macOS, and Windows.
+
+<details>
+<summary>Screenshots</summary>
+
+![example](./screenshots/eechat/mcp_main.png)
+![add-mcp](./screenshots/eechat/mcp_add.png)
+![mcp-env](./screenshots/eechat/mcp_bin.png)
+
+</details>
 
 ### 5ire
 
