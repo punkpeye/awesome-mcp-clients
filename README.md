@@ -51,6 +51,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [oterm](#oterm)
+    - [Refact.ai](#refact)
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Tester MCP Client](#tester-mcp-client)
@@ -671,6 +672,26 @@ A terminal client for Ollama, with support for MCP servers.
 ![](./screenshots/oterm/mcp.svg)
 
 </details>
+
+### Refact.ai
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/smallcloudai/refact</td></tr>
+<tr><th align="left">Website</th><td>https://refact.ai/</td></tr>
+<tr><th align="left">License</th><td>BSD-3 Clause</td></tr>
+<tr><th align="left">Type</th><td>AI Coding Agent</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>25+ languages including Python, JavaScript, Java, Rust, TypeScript, PHP, C++, C#, Go</td></tr>
+</table>
+
+An autonomous AI agent for software development that integrates with IDEs, understands codebases, and can be deployed on-premise. It can integrate with any MCP server and interact with external tools, databases, and APIs. This allows AI Agent to retrieve and process data, execute deployment, and complete programming tasks — all autonomously with minimal manual input.
+
+<details>
+<summary>Screenshots</summary>
+
+![](https://github.com/user-attachments/assets/f658ed81-8b5f-415d-bf6f-b1891f1c10eb)
+<img width="705" alt="Image" src="https://github.com/user-attachments/assets/84b62dc0-5022-43c4-b274-4da6e84bacaf" />
 
 ### Superinterface
 
