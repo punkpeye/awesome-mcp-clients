@@ -689,9 +689,9 @@ An autonomous AI agent for software development that integrates with IDEs, under
 
 <details>
 <summary>Screenshots</summary>
-
 ![](https://github.com/user-attachments/assets/f658ed81-8b5f-415d-bf6f-b1891f1c10eb)
 ![](https://github.com/user-attachments/assets/84b62dc0-5022-43c4-b274-4da6e84bacaf)
+</details>
 
 ### Superinterface
 
