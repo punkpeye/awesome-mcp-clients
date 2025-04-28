@@ -782,6 +782,33 @@ Key features:
 
 </details>
 
+### Tome
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/runebookai/tome</td></tr>
+<tr><th align="left">Website</th><td>https://runebook.ai</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, Typescript</td></tr>
+</table>
+
+Tome is an open source cross-platform desktop app designed for working with local LLMs and MCP servers. Tome manages your MCP servers so there's no fiddling with uv/npm or json files - connect it to Ollama, copy/paste some MCP servers, and chat with an MCP-powered model in seconds.
+
+**Key features:**
+
+- MCP servers are managed by Tome so there is no need to install uv or npm or configure JSON
+- Users can quickly add or remove MCP servers via UI
+- Any tool-supported local model on Ollama is compatible
+
+<details>
+<summary>Screenshots</summary>
+
+![Chat](./screenshots/tome/chat.png)
+![MCP Servers](./screenshots/tome/mcp.png)
+</details>
+
 ### VS Code GitHub Copilot
 
 <table>
