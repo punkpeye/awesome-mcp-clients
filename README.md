@@ -62,7 +62,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zed](#zed)
     - [MindPal](#mindpal)
     - [WhatsMCP](#whatsmcp)
-    - [Argo - Local AI](#Argo - Local AI)
+    - [Argo-LocalAI](#Argo-LocalAI)
   - [Servers](#servers)
 
 ### 5ire
@@ -942,7 +942,7 @@ WhatsMCP is a WhatsApp agent that allows you to interact with MCP servers. It is
 
 </details>
 
-### Argo - Local AI
+### Argo-LocalAI
 
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/xark-argo/argo</td></tr>
@@ -965,19 +965,22 @@ Key features:
 <summary>Screenshots</summary>
 
 Agent Management
+
 ![image](https://github.com/user-attachments/assets/27d0650c-608a-434b-bb4e-f7e3d11f90dc)
 
 Model Management
+
 ![image](https://github.com/user-attachments/assets/e5581d80-09cd-469e-b26d-5c1c446b37dd)
 
 Knowledge Management
+
 ![image](https://github.com/user-attachments/assets/126e9ab9-a343-460c-9a9b-c2e94c58c356)
 
 MCP Management
+
 ![image](https://github.com/user-attachments/assets/8cb04ffb-56bc-4a54-b719-ce944cf194da)
 
 ![image](https://github.com/user-attachments/assets/d8e094cb-4346-45fe-99d7-e3a26f1ffdfb)
-
 
 </details>
 
