@@ -28,6 +28,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [eechat](#eechat)
     - [5ire](#5ire)
     - [AIaW](#aiaw)
+    - [AnythingLLM](#anythingllm)
     - [Chainlit](#chainlit)
     - [ChatMCP](#chatmcp)
     - [Cherry Studio](#cherry-studio)
@@ -131,6 +132,27 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 ![](./screenshots/aiaw/dialog.png)
 ![](./screenshots/aiaw/dark.png)
 <img src="./screenshots/aiaw/mobile.png" width="400">
+
+</details>
+
+### AnythingLLM
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Mintplex-Labs/anything-llm</td></tr>
+<tr><th align="left">Website</th><td>https://anythingllm.com/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop, Docker, Cloud-hosted</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux, Docker, Cloud</td></tr>
+<tr><th align="left">Pricing</th><td>Free app, paid hosting</td></tr>
+<tr><th align="left">Programming Languages</th><td>JavaScript</td></tr>
+</table>
+
+The all-in-one AI app you were looking for. Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustrating set up required.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/anythingllm/anythingllm.png)
 
 </details>
 
