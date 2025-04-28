@@ -27,6 +27,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
   - [Clients](#clients)
     - [5ire](#5ire)
     - [AIaW](#aiaw)
+    - [CarrotAI](#CarrotAI)
     - [Chainlit](#chainlit)
     - [ChatMCP](#chatmcp)
     - [Cherry Studio](#cherry-studio)
@@ -108,6 +109,33 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 <img src="./screenshots/aiaw/mobile.png" width="400">
 
 </details>
+
+### CarrotAI
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/CarrotAI/CarrotAI</td></tr>
+<tr><th align="left">Website</th><td>https://jintongshu.com/solutions/agent/</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0<a href="https://raw.githubusercontent.com/Xingsandesu/CarrotAI/refs/heads/main/LICENSE">*</a></td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Dart, Python</td></tr>
+</table>
+
+CarrotAI is a cutting-edge AI agent application that delivers real-time streaming chat via Server-Sent Events (SSE) with built-in Model Control Protocol (MCP) integration. It supports concurrent connections to multiple SSE MCP servers and provides user interfaces in English, Chinese, and Japanese.
+
+<details>
+<summary>Screenshots</summary>
+
+![chat](./screenshots/carrotai/carrotai_chat.png)
+![homepage](./screenshots/carrotai/carrotai_home.png)
+![seetings](./screenshots/carrotai/carrotai_settings.png)
+![app market](./screenshots/carrotai/carrotai_shop.png)
+![install app](./screenshots/carrotai/carrotai_env.png)
+![app installed](./screenshots/carrotai/carrotai_myapps.png)
+
+</details>
+
 
 ### Chainlit
 
