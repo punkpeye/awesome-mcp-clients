@@ -39,6 +39,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Cursor](#cursor)
     - [Continue](#continue)
     - [DeepChat](#deepchat)
+    - [Dive](#dive)
     - [Dolphin-MCP](#dolphin-mcp)
     - [FLUJO](#flujo)
     - [Goose](#goose)
