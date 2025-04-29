@@ -55,6 +55,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Tester MCP Client](#tester-mcp-client)
+    - [Tome](#tome)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
     - [Witsy](#witsy)
