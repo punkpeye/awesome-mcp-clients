@@ -45,6 +45,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [HyperChat](#hyperchat)
     - [kibitz](#kibitz)
     - [LibreChat](#librechat)
+    - [mcp-agent](#mcp-agent)
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
@@ -553,6 +554,31 @@ Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API,
 ![](./screenshots/librechat/librechat.webp)
 
 </details>
+
+### mcp-agent
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/lastmile-ai/mcp-agent</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Python library</td></tr>
+<tr><th align="left">Platforms</th><td>-</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+**`mcp-agent`** is a simple, composable framework to build agents using [Model Context Protocol](https://modelcontextprotocol.io/introduction).
+
+**Inspiration**: Anthropic announced 2 foundational updates for AI application developers:
+
+1. [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) - a standardized interface to let any software be accessible to AI assistants via MCP servers.
+2. [Building Effective Agents](https://www.anthropic.com/research/building-effective-agents) - a seminal writeup on simple, composable patterns for building production-ready AI agents.
+
+`mcp-agent` puts these two foundational pieces into an AI application framework:
+
+1. It handles the pesky business of managing the lifecycle of MCP server connections so you don't have to.
+2. It implements every pattern described in Building Effective Agents, and does so in a _composable_ way, allowing you to chain these patterns together.
+3. **Bonus**: It implements [OpenAI's Swarm](https://github.com/openai/swarm) pattern for multi-agent orchestration, but in a model-agnostic way.
 
 ### MCP Chatbot
 
