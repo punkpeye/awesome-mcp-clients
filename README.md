@@ -63,6 +63,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zed](#zed)
     - [MindPal](#mindpal)
     - [WhatsMCP](#whatsmcp)
+    - [Zin MCP Client](#zin-mcp-client)
   - [Servers](#servers)
 
 
@@ -990,6 +991,28 @@ WhatsMCP is a WhatsApp agent that allows you to interact with MCP servers. It is
 
 ![](./screenshots/whatsmcp/main.png)
 ![](./screenshots/whatsmcp/whatsmcp.gif)
+
+</details>
+
+### Zin-MCP-Client
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/zinja-coder/zin-mcp-client</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+Lightweight, Fast, Simple, CLI-Based MCP Client for STDIO MCP Servers, to fill the gap and provide bridge between your local LLMs running Ollama and MCP Servers. Specially crafted for Zin MCP Servers for reverse engineering.
+
+<details>
+<summary>Screenshots</summary>
+
+![example1](./screenshots/zin-mcp-client/zin_mcp_client1.png)
+![example2](./screenshots/zin-mcp-client/zin_mcp_client2.png)
 
 </details>
 
