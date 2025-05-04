@@ -1011,8 +1011,8 @@ Lightweight, Fast, Simple, CLI-Based MCP Client for STDIO MCP Servers, to fill t
 <details>
 <summary>Screenshots</summary>
 
-![example1](./screenshots/zin-mcp-client/zin_mcp_client1.png)
-![example2](./screenshots/zin-mcp-client/zin_mcp_client2.png)
+![example1](./screenshots/zin-mcp-client/zin_mcp_1.png)
+![example2](./screenshots/zin-mcp-client/zin_mcp_2.png)
 
 </details>
 
