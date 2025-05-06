@@ -65,6 +65,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zed](#zed)
     - [MindPal](#mindpal)
     - [WhatsMCP](#whatsmcp)
+    - [MCPCLIHost](#mcpclihost)
   - [Servers](#servers)
 
 
@@ -1019,6 +1020,27 @@ WhatsMCP is a WhatsApp agent that allows you to interact with MCP servers. It is
 
 ![](./screenshots/whatsmcp/main.png)
 ![](./screenshots/whatsmcp/whatsmcp.gif)
+
+</details>
+
+### MCPCLIHost
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/vincent-pli/mcp-cli-host</td></tr>
+<tr><th align="left">Website</th><td></td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/mcpclihost/console.png)
 
 </details>
 
