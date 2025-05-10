@@ -148,7 +148,7 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 <tr><th align="left">Programming Languages</th><td>Dart, Python</td></tr>
 </table>
 
-CarrotAI is an advanced AI agent that streams real-time chat through Server-Sent Events (SSE) with integrated Model Control Protocol (MCP). It supports multiple concurrent connections to SSE MCP servers and leverages WebAssembly for improved performance across platforms. The app is available in English, Chinese, and Japanese.
+CarrotAI is an advanced AI agent application that enables real-time streaming chat using Server-Sent Events (SSE) and Streamable HTTP, with seamless integration of the Model Control Protocol (MCP). It supports concurrent connections to multiple SSE MCP servers and offers a multilingual user interface in English, Chinese, and Japanese.
 
 <details>
 <summary>Screenshots</summary>
