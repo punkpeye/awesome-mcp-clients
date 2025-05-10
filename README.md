@@ -55,6 +55,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [oterm](#oterm)
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
+    - [Simple AI](#simple-ai-chat)
     - [Tester MCP Client](#tester-mcp-client)
     - [Tome](#tome)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
@@ -778,6 +779,27 @@ SeekChat supports MCP tool execution, enabling AI to directly control your compu
 
 ![](./screenshots/seekchat/screenshot-chat.png)
 ![](./screenshots/seekchat/screenshot-setting-mcp.png)
+</details>
+
+### Simple AI
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/gcc3/simple-ai-chat</td></tr>
+<tr><th align="left">Website</th><td>https://simple-ai.io</td></tr>
+<tr><th align="left">License</th><td>Simple AI License</td></tr>
+<tr><th align="left">Type</th><td>Web/CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Web/npm</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>JavaScript</td></tr>
+</table>
+
+Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/simple-ai-chat/mcp-settings.png)
+![](./screenshots/simple-ai-chat/fetch.png)
 </details>
 
 ### Tester MCP Client
