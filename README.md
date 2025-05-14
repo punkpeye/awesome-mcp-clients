@@ -140,7 +140,7 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 ### CarrotAI
 
 <table>
-<tr><th align="left">GitHub</th><td>https://github.com/CarrotAI/CarrotAI</td></tr>
+<tr><th align="left">GitHub</th><td>https://github.com/Xingsandesu/CarrotAI</td></tr>
 <tr><th align="left">Website</th><td>https://jintongshu.com/solutions/agent/</td></tr>
 <tr><th align="left">License</th><td>Apache 2.0<a href="https://raw.githubusercontent.com/Xingsandesu/CarrotAI/refs/heads/main/LICENSE">*</a></td></tr>
 <tr><th align="left">Type</th><td>Web app</td></tr>
@@ -149,7 +149,7 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 <tr><th align="left">Programming Languages</th><td>Dart, Python</td></tr>
 </table>
 
-CarrotAI is a cutting-edge AI agent application that delivers real-time streaming chat via Server-Sent Events (SSE) with built-in Model Control Protocol (MCP) integration. It supports concurrent connections to multiple SSE MCP servers and provides user interfaces in English, Chinese, and Japanese.
+CarrotAI is an advanced AI agent application that enables real-time streaming chat using Server-Sent Events (SSE) and Streamable HTTP, with seamless integration of the Model Control Protocol (MCP). It supports concurrent connections to multiple SSE MCP servers and offers a multilingual user interface in English, Chinese, and Japanese.
 
 <details>
 <summary>Screenshots</summary>
