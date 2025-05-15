@@ -66,6 +66,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zed](#zed)
     - [MindPal](#mindpal)
     - [WhatsMCP](#whatsmcp)
+    - [Runbear](#runbear)
   - [Servers](#servers)
 
 
@@ -1041,6 +1042,33 @@ WhatsMCP is a WhatsApp agent that allows you to interact with MCP servers. It is
 
 ![](./screenshots/whatsmcp/main.png)
 ![](./screenshots/whatsmcp/whatsmcp.gif)
+
+</details>
+
+### Runbear
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/runbear-io/runbear</td></tr>
+<tr><th align="left">Website</th><td>https://runbear.io</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web, Slack, MS Teams, HubSpot</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>N/A</td></tr>
+</table>
+
+Runbear enables teams to create AI assistants in communication tools like Slack, MS Teams, and HubSpot. It supports MCP through SSE transport and provides managed MCP servers for easy integration.
+
+Key Features:
+
+* Support for MCP tools in team [communication platforms](https://runbear.io/solutions/integrations/slack/mcp)
+* Integration with remote MCP servers via SSE
+* Managed MCP server options for teams
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/runbear/slack-connect-mcp.png)
 
 </details>
 
