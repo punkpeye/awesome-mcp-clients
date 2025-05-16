@@ -66,6 +66,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zed](#zed)
     - [MindPal](#mindpal)
     - [WhatsMCP](#whatsmcp)
+    - [BoltAI](#boltai)
   - [Servers](#servers)
 
 
@@ -1043,6 +1044,39 @@ WhatsMCP is a WhatsApp agent that allows you to interact with MCP servers. It is
 ![](./screenshots/whatsmcp/whatsmcp.gif)
 
 </details>
+
+### BoltAI
+
+<table>
+<tr><th align="left">GitHub</th><td>N/A</td></tr>
+<tr><th align="left">Website</th><td>https://boltai.com</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Mac & Mobile</td></tr>
+<tr><th align="left">Platforms</th><td>Mac</td></tr>
+<tr><th align="left">Pricing</th><td>Paid</td></tr>
+<tr><th align="left">Programming Languages</th><td>N/A</td></tr>
+</table>
+
+BoltAI is an all-in-one AI chat client. It supports MCP tools calling, dynamic MCP server management and in-context server control.
+
+Key features:
+- Multiple AI providers & models
+- MCP server integration
+- Native app: fast & powerful
+- Import configuration from Claude or Cursor
+- Built-in configuration editor
+
+<details>
+<summary>Screenshots</summary>
+
+![CleanShot 2025-04-15 at 22 30 45@2x](https://github.com/user-attachments/assets/0263d468-dbbb-4036-87ec-169329687cdf)
+
+
+![CleanShot 2025-04-15 at 22 45 30@2x](https://github.com/user-attachments/assets/a9b3a128-0558-4f3b-8f5e-a2fa0759f2b7)
+
+
+</details>
+
 
 ## Servers
 
