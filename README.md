@@ -5,10 +5,10 @@
 
 A curated list of awesome Model Context Protocol (MCP) clients.
 
-* [What is MCP?](#what-is-mcp)
-* [Community](#community)
-* [Clients](#clients)
-* [Servers](#servers)
+- [What is MCP?](#what-is-mcp)
+- [Community](#community)
+- [Clients](#clients)
+- [Servers](#servers)
 
 ## What is MCP?
 
@@ -16,8 +16,8 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 
 ## Community
 
-* [r/mcp Reddit](https://www.reddit.com/r/mcp)
-* [Discord Server](https://glama.ai/mcp/discord)
+- [r/mcp Reddit](https://www.reddit.com/r/mcp)
+- [Discord Server](https://glama.ai/mcp/discord)
 
 ## Clients
 
@@ -55,6 +55,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [oterm](#oterm)
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
+    - [Shortwave](#shortwave)
     - [Simple AI](#simple-ai-chat)
     - [Tester MCP Client](#tester-mcp-client)
     - [Tome](#tome)
@@ -67,7 +68,6 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MindPal](#mindpal)
     - [WhatsMCP](#whatsmcp)
   - [Servers](#servers)
-
 
 ### eechat
 
@@ -163,7 +163,6 @@ CarrotAI is an advanced AI agent application that enables real-time streaming ch
 
 </details>
 
-
 ### Chainlit
 
 <table>
@@ -210,6 +209,7 @@ ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
 </details>
 
 ### Cherry Studio
+
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/CherryHQ/cherry-studio</td></tr>
 <tr><th align="left">Website</th><td>https://cherry-ai.com</td></tr>
@@ -237,8 +237,6 @@ ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
 ![settings](./screenshots/cherry-studio/settings.png)
 
 </details>
-
-
 
 ### Claude Desktop
 
@@ -452,7 +450,7 @@ DeepChat is a cross-platform desktop AI assistant, MCP client. DeepChat brings t
 <tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
 </table>
 
-Think n8n + ChatGPT. **FLUJO** is a desktop application that integrates with MCP to provide a workflow-builder interface for AI interactions. Built with Next.js and React, it supports both online and offline (ollama) models, it manages API Keys and environment variables centrally and can install MCP Servers from GitHub. FLUJO has a ChatCompletions endpoint and flows can be executed from other AI applications like Cline, Roo or Claude. 
+Think n8n + ChatGPT. **FLUJO** is a desktop application that integrates with MCP to provide a workflow-builder interface for AI interactions. Built with Next.js and React, it supports both online and offline (ollama) models, it manages API Keys and environment variables centrally and can install MCP Servers from GitHub. FLUJO has a ChatCompletions endpoint and flows can be executed from other AI applications like Cline, Roo or Claude.
 
 - Environment & API Key Management
 - Model Management
@@ -461,7 +459,7 @@ Think n8n + ChatGPT. **FLUJO** is a desktop application that integrates with MCP
 - Chat Interface
 
 <details>
-  
+
 <summary>Screenshots</summary>
 
 ![image](https://github.com/user-attachments/assets/24e23174-4f1d-46e6-bf67-d40bec7135af)
@@ -558,7 +556,7 @@ kibitiz is the free and open-source Replit. Minimally, it is a lightweight chat 
 
 <details>
 <summary>Screenshots</summary>
-  
+
 https://github.com/user-attachments/assets/3f8df448-1c81-4ff2-8598-c48283a4dc00
 
 </details>
@@ -779,6 +777,31 @@ SeekChat supports MCP tool execution, enabling AI to directly control your compu
 
 ![](./screenshots/seekchat/screenshot-chat.png)
 ![](./screenshots/seekchat/screenshot-setting-mcp.png)
+
+</details>
+
+### Shortwave
+
+<table>
+<tr><th align="left">Website</th><td>https://www.shortwave.com</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop, Web, Mobile</td></tr>
+<tr><th align="left">Platforms</th><td>Web, Android, iOS</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Shortwave is an email client with powerful AI features that uses MCP to integrate with external systems. It provides intelligent email organization, drafting, and automation features to help you manage your inbox more efficiently. The Web version of the app supports remote MCP (HTTP + SSE) to integrate with any external MCP server. The desktop version of the app additionally supports the MCP Stdio transport, which enables integrating with locally executing MCP server processes.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/shortwave/screenshot-integrations-config.png)
+![](./screenshots/shortwave/screenshot-add-mcp-server.png)
+![](./screenshots/shortwave/screenshot-list-tools.png)
+![](./screenshots/shortwave/screenshot-call-tool.png)
+![](./screenshots/shortwave/screenshot-chat.png)
+
 </details>
 
 ### Simple AI
@@ -800,6 +823,7 @@ Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
 
 ![](./screenshots/simple-ai-chat/mcp-settings.png)
 ![](./screenshots/simple-ai-chat/fetch.png)
+
 </details>
 
 ### Tester MCP Client
@@ -814,15 +838,15 @@ Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
 <tr><th align="left">Programming Languages</th><td>JavaScript</td></tr>
 </table>
 
-A client that connects to any MCP server using Server-Sent Events (SSE) and displays conversations in a chat-like UI.  
-It is a standalone Apify Actor for testing MCP servers over SSE, with support for Authorization headers.  
-Built with plain JavaScript (old-school style) and hosted on Apify, it requires no setup to run.  
+A client that connects to any MCP server using Server-Sent Events (SSE) and displays conversations in a chat-like UI.
+It is a standalone Apify Actor for testing MCP servers over SSE, with support for Authorization headers.
+Built with plain JavaScript (old-school style) and hosted on Apify, it requires no setup to run.
 
 Key features:
 
-- Connects to any MCP server via Server-Sent Events (SSE).  
-- Works with the [Apify MCP Server](https://apify.com/apify/actors-mcp-server) to interact with one or more Apify [Actors](https://apify.com/store).  
-- Dynamically utilizes tools based on context and user queries (if supported by the server).  
+- Connects to any MCP server via Server-Sent Events (SSE).
+- Works with the [Apify MCP Server](https://apify.com/apify/actors-mcp-server) to interact with one or more Apify [Actors](https://apify.com/store).
+- Dynamically utilizes tools based on context and user queries (if supported by the server).
 - Open-source—review, suggest improvements, or modify as needed.
 
 <details>
@@ -858,6 +882,7 @@ Tome is an open source cross-platform desktop app designed for working with loca
 
 ![Chat](./screenshots/tome/chat.png)
 ![MCP Servers](./screenshots/tome/mcp.png)
+
 </details>
 
 ### VS Code GitHub Copilot
@@ -902,6 +927,7 @@ The first agentic IDE, and then some. The Windsurf Editor is where the work of d
 ![Main Interface](./screenshots/windsurf/windsurf.png)
 ![Adding New MCP Server](./screenshots/windsurf/easy-add-mcp-servers.png)
 ![Settings Interface](./screenshots/windsurf/settings-cascade-mcp.png)
+
 </details>
 
 ### Witsy
@@ -1007,6 +1033,7 @@ https://github.com/user-attachments/assets/95624731-5469-4b58-a21f-bbb31d9838fa
 MindPal is a no-code platform for building and deploying AI agents and multi-agent workflows. It enables anyone without technical skills to create powerful AI automation solutions by connecting any AI model with any tool. Build complex workflows where multiple AI agents work together to accomplish tasks, with built-in support for MCP servers and tools.
 
 Key features:
+
 - No-code AI agent builder
 - Multi-agent workflow orchestration
 - Support for any AI model provider
