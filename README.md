@@ -43,6 +43,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Dolphin-MCP](#dolphin-mcp)
     - [FLUJO](#flujo)
     - [Goose](#goose)
+    - [Glue](#glue)
     - [HyperChat](#hyperchat)
     - [kibitz](#kibitz)
     - [LibreChat](#librechat)
@@ -506,6 +507,27 @@ Goose is a general-purpose AI agent that can dynamically plug into new extension
 ![Custom Extension Tools](./screenshots/goose/custom-extension-tools-9d440447ae99b18ae92819e652148abe.png)
 ![Extension Settings](./screenshots/goose/extension%20settings.png)
 ![List Tools](./screenshots/goose/list%20tools.png)
+
+</details>
+
+### Glue
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://glue.ai</td></tr>
+<tr><th align="left">License</th><td>-</td></tr>
+<tr><th align="left">Type</th><td>Web app, Desktop app, Mobile app</td></tr>
+<tr><th align="left">Platforms</th><td>Web, MacOS, Windows, Mobile</td></tr>
+<tr><th align="left">Pricing</th><td>$8/user/month</td></tr>
+<tr><th align="left">Programming Languages</th><td>-</td></tr>
+</table>
+
+Glue is an AI-powered communication and collaboration platform with support for MCP, enabling teams to leverage intelligent tools and insights. [Learn more.](https://glue.ai/labs)
+
+<details>
+<summary>Screenshots</summary>
+
+![Glue Create Issue](./screenshots/glue/glue-create-issue.png)
 
 </details>
 
