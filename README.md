@@ -527,6 +527,7 @@ Glue is a full-featured, thread-first team chat platform with a built-in AI agen
 <details>
 <summary>Screenshots</summary>
 
+![Glue MCP Hero](./screenshots/glue/glue-mcp-hero.jpg)
 ![Glue Create Issue](./screenshots/glue/glue-create-issue.png)
 
 </details>
