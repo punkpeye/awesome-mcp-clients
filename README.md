@@ -522,7 +522,7 @@ Goose is a general-purpose AI agent that can dynamically plug into new extension
 <tr><th align="left">Programming Languages</th><td>-</td></tr>
 </table>
 
-Glue is an AI-powered communication and collaboration platform with support for MCP, enabling teams to leverage intelligent tools and insights. [Learn more.](https://glue.ai/labs)
+Glue is a full-featured, thread-first team chat platform with a built-in AI agent and support for MCP, enabling teams to leverage intelligent tools and insights. [Learn more.](https://glue.ai/labs)
 
 <details>
 <summary>Screenshots</summary>
