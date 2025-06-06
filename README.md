@@ -25,8 +25,10 @@ A curated list of awesome Model Context Protocol (MCP) clients.
   - [What is MCP?](#what-is-mcp)
   - [Community](#community)
   - [Clients](#clients)
+    - [eechat](#eechat)
     - [5ire](#5ire)
     - [AIaW](#aiaw)
+    - [CarrotAI](#CarrotAI)
     - [Chainlit](#chainlit)
     - [ChatMCP](#chatmcp)
     - [Cherry Studio](#cherry-studio)
@@ -53,7 +55,9 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [oterm](#oterm)
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
+    - [Simple AI](#simple-ai-chat)
     - [Tester MCP Client](#tester-mcp-client)
+    - [Tome](#tome)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
     - [Witsy](#witsy)
@@ -63,7 +67,32 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MindPal](#mindpal)
     - [WhatsMCP](#whatsmcp)
     - [Argo-LocalAI](#Argo-LocalAI)
+    - [MCPCLIHost](#mcpclihost)
   - [Servers](#servers)
+
+
+### eechat
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Lucassssss/eechat</td></tr>
+<tr><th align="left">Website</th><td>https://www.ee.chat/</td></tr>
+<tr><th align="left">License</th><td>Modified Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+An open-source, cross-platform desktop application that seamlessly connects with full support for MCP, across Linux, macOS, and Windows.
+
+<details>
+<summary>Screenshots</summary>
+
+![example](./screenshots/eechat/mcp_main.png)
+![add-mcp](./screenshots/eechat/mcp_add.png)
+![mcp-env](./screenshots/eechat/mcp_bin.png)
+
+</details>
 
 ### 5ire
 
@@ -109,6 +138,33 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 <img src="./screenshots/aiaw/mobile.png" width="400">
 
 </details>
+
+### CarrotAI
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Xingsandesu/CarrotAI</td></tr>
+<tr><th align="left">Website</th><td>https://jintongshu.com/solutions/agent/</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0<a href="https://raw.githubusercontent.com/Xingsandesu/CarrotAI/refs/heads/main/LICENSE">*</a></td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Dart, Python</td></tr>
+</table>
+
+CarrotAI is an advanced AI agent application that enables real-time streaming chat using Server-Sent Events (SSE) and Streamable HTTP, with seamless integration of the Model Control Protocol (MCP). It supports concurrent connections to multiple SSE MCP servers and offers a multilingual user interface in English, Chinese, and Japanese.
+
+<details>
+<summary>Screenshots</summary>
+
+![chat](./screenshots/carrotai/carrotai_chat.png)
+![homepage](./screenshots/carrotai/carrotai_home.png)
+![seetings](./screenshots/carrotai/carrotai_settings.png)
+![app market](./screenshots/carrotai/carrotai_shop.png)
+![install app](./screenshots/carrotai/carrotai_env.png)
+![app installed](./screenshots/carrotai/carrotai_myapps.png)
+
+</details>
+
 
 ### Chainlit
 
@@ -727,6 +783,27 @@ SeekChat supports MCP tool execution, enabling AI to directly control your compu
 ![](./screenshots/seekchat/screenshot-setting-mcp.png)
 </details>
 
+### Simple AI
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/gcc3/simple-ai-chat</td></tr>
+<tr><th align="left">Website</th><td>https://simple-ai.io</td></tr>
+<tr><th align="left">License</th><td>Simple AI License</td></tr>
+<tr><th align="left">Type</th><td>Web/CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Web/npm</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>JavaScript</td></tr>
+</table>
+
+Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/simple-ai-chat/mcp-settings.png)
+![](./screenshots/simple-ai-chat/fetch.png)
+</details>
+
 ### Tester MCP Client
 
 <table>
@@ -756,6 +833,33 @@ Key features:
 ![](./screenshots/tester-mcp-client/setup.png)
 ![](./screenshots/tester-mcp-client/chat-ui.png)
 
+</details>
+
+### Tome
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/runebookai/tome</td></tr>
+<tr><th align="left">Website</th><td>https://runebook.ai</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, Typescript</td></tr>
+</table>
+
+Tome is an open source cross-platform desktop app designed for working with local LLMs and MCP servers. Tome manages your MCP servers so there's no fiddling with uv/npm or json files - connect it to Ollama, copy/paste some MCP servers, and chat with an MCP-powered model in seconds.
+
+**Key features:**
+
+- MCP servers are managed by Tome so there is no need to install uv or npm or configure JSON
+- Users can quickly add or remove MCP servers via UI
+- Any tool-supported local model on Ollama is compatible
+
+<details>
+<summary>Screenshots</summary>
+
+![Chat](./screenshots/tome/chat.png)
+![MCP Servers](./screenshots/tome/mcp.png)
 </details>
 
 ### VS Code GitHub Copilot
@@ -981,6 +1085,25 @@ MCP Management
 ![image](https://github.com/user-attachments/assets/8cb04ffb-56bc-4a54-b719-ce944cf194da)
 
 ![image](https://github.com/user-attachments/assets/d8e094cb-4346-45fe-99d7-e3a26f1ffdfb)
+
+### MCPCLIHost
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/vincent-pli/mcp-cli-host</td></tr>
+<tr><th align="left">Website</th><td></td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/mcpclihost/console.png)
 
 </details>
 
