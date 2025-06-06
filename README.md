@@ -53,6 +53,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [oterm](#oterm)
+    - [Slack MCP Client](#slack-mcp-client)
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Simple AI](#simple-ai-chat)
@@ -727,6 +728,38 @@ A terminal client for Ollama, with support for MCP servers.
 
 ![](./screenshots/oterm/chat.png)
 ![](./screenshots/oterm/mcp.svg)
+
+</details>
+
+### Slack MCP Client
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/tuannvm/slack-mcp-client</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Slack bot client</td></tr>
+<tr><th align="left">Platforms</th><td>Slack</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Go</td></tr>
+</table>
+
+This project provides a Slack bot client that serves as a bridge between Slack and Model Context Protocol (MCP) servers. By leveraging Slack as the user interface, it allows LLM models to interact with multiple MCP servers using standardized MCP tools.
+
+Key features:
+
+- ✅ Multi-Mode MCP Client:
+  - SSE for real-time communication
+  - HTTP transport for JSON-RPC
+  - stdio for local development and testing
+- ✅ Slack Integration:
+  - Socket Mode for secure, firewall-friendly communication
+  - Works with both channels and direct messages
+- ✅ Tool Registration: Dynamically register and call MCP tools
+- ✅ Docker container support
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/slack-mcp-client/demo.gif)
 
 </details>
 
