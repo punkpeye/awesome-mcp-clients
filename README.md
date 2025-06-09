@@ -7,8 +7,8 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 
 * [What is MCP?](#what-is-mcp)
 * [Community](#community)
-* [Clients](#clients)
 * [Servers](#servers)
+* [Clients](#clients)
 
 ## What is MCP?
 
@@ -24,52 +24,54 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 - [Awesome MCP Clients ](#awesome-mcp-clients-)
   - [What is MCP?](#what-is-mcp)
   - [Community](#community)
-  - [Clients](#clients)
-    - [eechat](#eechat)
-    - [5ire](#5ire)
-    - [AIaW](#aiaw)
-    - [CarrotAI](#CarrotAI)
-    - [Chainlit](#chainlit)
-    - [ChatMCP](#chatmcp)
-    - [Cherry Studio](#cherry-studio)
-    - [Claude Desktop](#claude-desktop)
-    - [ClaudeMind](#claudemind)
-    - [Cline](#cline)
-    - [console-chat-gpt](#console-chat-gpt)
-    - [Copilot-MCP](#copilot-mcp)
-    - [Cursor](#cursor)
-    - [Continue](#continue)
-    - [DeepChat](#deepchat)
-    - [Dolphin-MCP](#dolphin-mcp)
-    - [FLUJO](#flujo)
-    - [Goose](#goose)
-    - [HyperChat](#hyperchat)
-    - [kibitz](#kibitz)
-    - [LibreChat](#librechat)
-    - [MCP Chatbot](#mcp-chatbot)
-    - [MCP CLI client](#mcp-cli-client)
-    - [MCP Simple Slackbot](#mcp-simple-slackbot)
-    - [MCPOmni Connect](#mcpomni-connect)
-    - [Nerve](#nerve)
-    - [NextChat](#nextchat)
-    - [oterm](#oterm)
-    - [Superinterface](#superinterface)
-    - [SeekChat](#seekchat)
-    - [Simple AI](#simple-ai-chat)
-    - [Tester MCP Client](#tester-mcp-client)
-    - [Tome](#tome)
-    - [VS Code GitHub Copilot](#vs-code-github-copilot)
-    - [Windsurf](#windsurf)
-    - [Witsy](#witsy)
-    - [Enconvo](#enconvo)
-    - [y-cli](#y-cli)
-    - [Zed](#zed)
-    - [MindPal](#mindpal)
-    - [WhatsMCP](#whatsmcp)
-    - [Argo-LocalAI](#Argo-LocalAI)
-    - [MCPCLIHost](#mcpclihost)
-    - [Zin MCP Client](#zin-mcp-client)
   - [Servers](#servers)
+  - [Clients](#clients)
+
+| Client                               | Stars                                                                                                      |
+|--------------------------------------|------------------------------------------------------------------------------------------------------------|
+| [eechat](#eechat)                    | ![Stars](https://img.shields.io/github/stars/Lucassssss/eechat?style=social)                                |
+| [5ire](#5ire)                        | ![Stars](https://img.shields.io/github/stars/nanbingxyz/5ire?style=social)                                  |
+| [AIaW](#aiaw)                        | ![Stars](https://img.shields.io/github/stars/NitroRCr/AIaW?style=social)                                    |
+| [CarrotAI](#carrotai)                | ![Stars](https://img.shields.io/github/stars/Xingsandesu/CarrotAI?style=social)                             |
+| [Chainlit](#chainlit)                | ![Stars](https://img.shields.io/github/stars/chainlit/chainlit?style=social)                               |
+| [ChatMCP](#chatmcp)                  | ![Stars](https://img.shields.io/github/stars/daodao97/chatmcp?style=social)                                 |
+| [Cherry Studio](#cherry-studio)      | ![Stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=social)                          |
+| [Claude Desktop](#claude-desktop)    | -                                                                                               |
+| [ClaudeMind](#claudemind)            | -                                                                                               |
+| [Cline](#cline)                      | ![Stars](https://img.shields.io/github/stars/cline/cline?style=social)                                     |
+| [console-chat-gpt](#console-chat-gpt)| ![Stars](https://img.shields.io/github/stars/amidabuddha/console-chat-gpt?style=social)                    |
+| [Copilot-MCP](#copilot-mcp)          | ![Stars](https://img.shields.io/github/stars/VikashLoomba/copilot-mcp?style=social)                        |
+| [Cursor](#cursor)                    | ![Stars](https://img.shields.io/github/stars/getcursor/cursor?style=social)                                |
+| [Continue](#continue)                | ![Stars](https://img.shields.io/github/stars/continuedev/continue?style=social)                            |
+| [DeepChat](#deepchat)                | ![Stars](https://img.shields.io/github/stars/thinkinaixyz/deepchat?style=social)                           |
+| [Dolphin-MCP](#dolphin-mcp)          | ![Stars](https://img.shields.io/github/stars/cognitivecomputations/dolphin-mcp?style=social)               |
+| [Enconvo](#enconvo)                  | -                                                                                               |
+| [FLUJO](#flujo)                      | ![Stars](https://img.shields.io/github/stars/mario-andreschak/FLUJO?style=social)                          |
+| [Goose](#goose)                      | ![Stars](https://img.shields.io/github/stars/block/goose?style=social)                                     |
+| [HyperChat](#hyperchat)              | ![Stars](https://img.shields.io/github/stars/BigSweetPotatoStudio/HyperChat?style=social)                  |
+| [kibitz](#kibitz)                    | ![Stars](https://img.shields.io/github/stars/nick1udwig/kibitz?style=social)                               |
+| [LibreChat](#librechat)              | ![Stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=social)                          |
+| [MCP Chatbot](#mcp-chatbot)          | ![Stars](https://img.shields.io/github/stars/3choff/mcp-chatbot?style=social)                              |
+| [MCP CLI client](#mcp-cli-client)    | ![Stars](https://img.shields.io/github/stars/adhikasp/mcp-client-cli?style=social)                         |
+| [MCP Simple Slackbot](#mcp-simple-slackbot) | ![Stars](https://img.shields.io/github/stars/sooperset/mcp-client-slackbot?style=social)         |
+| [MCPOmni Connect](#mcpomni-connect)  | ![Stars](https://img.shields.io/github/stars/Abiorh001/mcp_omni_connect?style=social)                      |
+| [MindPal](#mindpal)                  | ![Stars](https://img.shields.io/github/stars/mindpal-ai/mindpal?style=social)                              |
+| [Nerve](#nerve)                      | ![Stars](https://img.shields.io/github/stars/evilsocket/nerve?style=social)                                |
+| [NextChat](#nextchat)                | ![Stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=social)                         |
+| [oterm](#oterm)                      | ![Stars](https://img.shields.io/github/stars/ggozad/oterm?style=social)                                    |
+| [SeekChat](#seekchat)                | ![Stars](https://img.shields.io/github/stars/seekrays/seekchat?style=social)                              |
+| [Simple AI](#simple-ai-chat)         | ![Stars](https://img.shields.io/github/stars/gcc3/simple-ai-chat?style=social)                            |
+| [Superinterface](#superinterface)    | ![Stars](https://img.shields.io/github/stars/supercorp-ai/superinterface?style=social)                    |
+| [Tester MCP Client](#tester-mcp-client) | ![Stars](https://img.shields.io/github/stars/apify/tester-mcp-client?style=social)                |
+| [Tome](#tome)                        | ![Stars](https://img.shields.io/github/stars/runebookai/tome?style=social)                                |
+| [VS Code GitHub Copilot](#vs-code-github-copilot) | ![Stars](https://img.shields.io/github/stars/microsoft/vscode?style=social)              |
+| [Windsurf](#windsurf)                | -                                                                                               |
+| [Witsy](#witsy)                      | ![Stars](https://img.shields.io/github/stars/nbonamy/witsy?style=social)                                  |
+| [WhatsMCP](#whatsmcp)                | -                                                                                               |
+| [y-cli](#y-cli)                      | ![Stars](https://img.shields.io/github/stars/luohy15/y-cli?style=social)                                  |
+| [Zed](#zed)                          | ![Stars](https://img.shields.io/github/stars/zed-industries/zed?style=social)                             |
+| [Zin MCP Client](#zin-mcp-client)    | ![Stars](https://img.shields.io/github/stars/zinja-coder/zin-mcp-client?style=social)                     |
+
 
 
 ### eechat
