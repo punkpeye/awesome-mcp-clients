@@ -57,6 +57,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [SeekChat](#seekchat)
     - [Simple AI](#simple-ai-chat)
     - [Tester MCP Client](#tester-mcp-client)
+    - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
@@ -835,6 +836,28 @@ Key features:
 ![](./screenshots/tester-mcp-client/chat-ui.png)
 
 </details>
+
+### Tiles Notebook
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/tileshq/tiles</td></tr>
+<tr><th align="left">Website</th><td>https://www.tiles.run/</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Tiles is a notebook interface that makes working with AI agents easier.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/tiles.run/notebook-ui.png)
+
+</details>
+
 
 ### Tome
 
