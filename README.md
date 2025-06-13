@@ -1154,9 +1154,6 @@ multiple model support, and intelligent context compression.
 
 </details>
 
-
-</details>
-
 ## Servers
 
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
