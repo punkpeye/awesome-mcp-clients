@@ -56,6 +56,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Simple AI](#simple-ai-chat)
+    - [Tambo](#tambo)
     - [Tester MCP Client](#tester-mcp-client)
     - [Tome](#tome)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
@@ -803,6 +804,30 @@ Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
 
 ![](./screenshots/simple-ai-chat/mcp-settings.png)
 ![](./screenshots/simple-ai-chat/fetch.png)
+
+</details>
+
+### Tambo
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/tambo-ai/tambo</td></tr>
+<tr><th align="left">Website</th><td>https://tambo.ai</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Tambo
+[Tambo](https://tambo.co) is a platform for building custom chat experiences, with integrated custom user interface components..
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/tambo/chat-with-graph.png)
+![](./screenshots/tambo/client-side-mcp.png)
+
 </details>
 
 ### Tester MCP Client
