@@ -1,3 +1,34 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="right">
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=en">English</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=zh-CN">简体中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=zh-TW">繁體中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=ja">日本語</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=ko">한국어</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=hi">हिन्दी</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=th">ไทย</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=fr">Français</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=de">Deutsch</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=es">Español</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=it">Itapano</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=ru">Русский</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=pt">Português</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=nl">Nederlands</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=pl">Polski</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=ar">العربية</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=fa">فارسی</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=tr">Türkçe</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=vi">Tiếng Việt</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=punkpeye&project=awesome-mcp-clients&lang=id">Bahasa Indonesia</a></p>
+      </div>
+    </div>
+  </details>
+</div>
+
 # Awesome MCP Clients [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
