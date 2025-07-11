@@ -879,7 +879,7 @@ Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
 
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/tambo-ai/tambo</td></tr>
-<tr><th align="left">Website</th><td>https://tambo.ai</td></tr>
+<tr><th align="left">Website</th><td>https://tambo.co</td></tr>
 <tr><th align="left">License</th><td>MIT</td></tr>
 <tr><th align="left">Type</th><td>Web app</td></tr>
 <tr><th align="left">Platforms</th><td>Web</td></tr>
@@ -887,8 +887,7 @@ Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
 <tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
 </table>
 
-Tambo
-[Tambo](https://tambo.co) is a platform for building custom chat experiences, with integrated custom user interface components..
+[Tambo](https://tambo.co) is a platform for building custom chat experiences, with integrated custom user interface components.
 
 <details>
 <summary>Screenshots</summary>
