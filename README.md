@@ -51,6 +51,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP CLI client](#mcp-cli-client)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
     - [MCPOmni Connect](#mcpomni-connect)
+    - [MCP SuperAssistant](#mcp-superassistant)
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [oterm](#oterm)
@@ -688,6 +689,27 @@ A powerful universal CLI client for MCP Servers that provides seamless integrati
 <summary>Screenshots</summary>
 
 ![mcp_client_new1](https://github.com/user-attachments/assets/9c4eb3df-d0d5-464c-8815-8f7415a47fce)
+
+</details>
+
+### MCP SuperAssistant
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/srbhptl39/MCP-SuperAssistant</td></tr>
+<tr><th align="left">Website</th><td>https://mcpsuperassistant.ai/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Chrome Extenstion</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Add MCP Capabilities to Chatgpt, Gemini, Grok, Google AI Studio, DeepSeek, AI Studio, OpenRouter, T3 Chat, Mistral and Github Copilot. This extension allows you to connect to any MCP server and use its tools, models, and capabilities directly from your browser without any API key required in these Chat Platforms.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/mcp-superassistant/chatgpt.jpg)
 
 </details>
 
