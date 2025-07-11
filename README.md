@@ -28,6 +28,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [eechat](#eechat)
     - [5ire](#5ire)
     - [AIaW](#aiaw)
+    - [BrowseWiz](#browsewiz)
     - [CarrotAI](#CarrotAI)
     - [Chainlit](#chainlit)
     - [ChatMCP](#chatmcp)
@@ -144,6 +145,36 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 
 </details>
 
+### BrowseWiz
+
+<table>
+<tr><th align="left">GitHub</th><td>N/A</td></tr>
+<tr><th align="left">Website</th><td>https://browsewiz.com</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Browser extension</td></tr>
+<tr><th align="left">Platforms</th><td>Chromium-based desktop browsers</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+BrowseWiz is a *customizable* AI Chat, AI Assistant and AI Agent for browser's side panel.
+It is a flexible tool that can help automate *your* workflows.
+
+**Key Features:**
+- give AI access to contexts: files, active tab, YT video transcript, text selected on a page
+- manage collection of prompts, add 1-click prompt buttons
+- set and manage system instructions
+- bring your own key or model (OpenAI API-compatible)
+- add tools for agentic capabilities via webhooks/APIs + JSON schema or by providing MCP server URLs (supports streamable HTTP and SSE)
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/browsewiz/agent.png)
+![](./screenshots/browsewiz/mcp.png)
+
+</details>
+
 ### CarrotAI
 
 <table>
@@ -169,7 +200,6 @@ CarrotAI is an advanced AI agent application that enables real-time streaming ch
 ![app installed](./screenshots/carrotai/carrotai_myapps.png)
 
 </details>
-
 
 ### Chainlit
 
