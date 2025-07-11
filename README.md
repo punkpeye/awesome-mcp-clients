@@ -5,10 +5,10 @@
 
 A curated list of awesome Model Context Protocol (MCP) clients.
 
-- [What is MCP?](#what-is-mcp)
-- [Community](#community)
-- [Clients](#clients)
-- [Servers](#servers)
+* [What is MCP?](#what-is-mcp)
+* [Community](#community)
+* [Clients](#clients)
+* [Servers](#servers)
 
 ## What is MCP?
 
@@ -16,8 +16,8 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 
 ## Community
 
-- [r/mcp Reddit](https://www.reddit.com/r/mcp)
-- [Discord Server](https://glama.ai/mcp/discord)
+* [r/mcp Reddit](https://www.reddit.com/r/mcp)
+* [Discord Server](https://glama.ai/mcp/discord)
 
 ## Clients
 
@@ -74,6 +74,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCPCLIHost](#mcpclihost)
     - [Zin MCP Client](#zin-mcp-client)
   - [Servers](#servers)
+
 
 ### eechat
 
@@ -169,6 +170,7 @@ CarrotAI is an advanced AI agent application that enables real-time streaming ch
 
 </details>
 
+
 ### Chainlit
 
 <table>
@@ -215,7 +217,6 @@ ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
 </details>
 
 ### Cherry Studio
-
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/CherryHQ/cherry-studio</td></tr>
 <tr><th align="left">Website</th><td>https://cherry-ai.com</td></tr>
@@ -243,6 +244,8 @@ ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
 ![settings](./screenshots/cherry-studio/settings.png)
 
 </details>
+
+
 
 ### Claude Desktop
 
@@ -456,7 +459,7 @@ DeepChat is a cross-platform desktop AI assistant, MCP client. DeepChat brings t
 <tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
 </table>
 
-Think n8n + ChatGPT. **FLUJO** is a desktop application that integrates with MCP to provide a workflow-builder interface for AI interactions. Built with Next.js and React, it supports both online and offline (ollama) models, it manages API Keys and environment variables centrally and can install MCP Servers from GitHub. FLUJO has a ChatCompletions endpoint and flows can be executed from other AI applications like Cline, Roo or Claude.
+Think n8n + ChatGPT. **FLUJO** is a desktop application that integrates with MCP to provide a workflow-builder interface for AI interactions. Built with Next.js and React, it supports both online and offline (ollama) models, it manages API Keys and environment variables centrally and can install MCP Servers from GitHub. FLUJO has a ChatCompletions endpoint and flows can be executed from other AI applications like Cline, Roo or Claude. 
 
 - Environment & API Key Management
 - Model Management
@@ -848,7 +851,6 @@ SeekChat supports MCP tool execution, enabling AI to directly control your compu
 
 ![](./screenshots/seekchat/screenshot-chat.png)
 ![](./screenshots/seekchat/screenshot-setting-mcp.png)
-
 </details>
 
 ### Simple AI
@@ -877,7 +879,7 @@ Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
 
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/tambo-ai/tambo</td></tr>
-<tr><th align="left">Website</th><td>https://tambo.co</td></tr>
+<tr><th align="left">Website</th><td>https://tambo.ai</td></tr>
 <tr><th align="left">License</th><td>MIT</td></tr>
 <tr><th align="left">Type</th><td>Web app</td></tr>
 <tr><th align="left">Platforms</th><td>Web</td></tr>
@@ -885,6 +887,7 @@ Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
 <tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
 </table>
 
+Tambo
 [Tambo](https://tambo.co) is a platform for building custom chat experiences, with integrated custom user interface components..
 
 <details>
@@ -909,13 +912,13 @@ Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
 
 A client that connects to any MCP server using Server-Sent Events (SSE) and displays conversations in a chat-like UI.  
 It is a standalone Apify Actor for testing MCP servers over SSE, with support for Authorization headers.  
-Built with plain JavaScript (old-school style) and hosted on Apify, it requires no setup to run.
+Built with plain JavaScript (old-school style) and hosted on Apify, it requires no setup to run.  
 
 Key features:
 
-- Connects to any MCP server via Server-Sent Events (SSE).
-- Works with the [Apify MCP Server](https://apify.com/apify/actors-mcp-server) to interact with one or more Apify [Actors](https://apify.com/store).
-- Dynamically utilizes tools based on context and user queries (if supported by the server).
+- Connects to any MCP server via Server-Sent Events (SSE).  
+- Works with the [Apify MCP Server](https://apify.com/apify/actors-mcp-server) to interact with one or more Apify [Actors](https://apify.com/store).  
+- Dynamically utilizes tools based on context and user queries (if supported by the server).  
 - Open-source—review, suggest improvements, or modify as needed.
 
 <details>
@@ -951,7 +954,6 @@ Tome is an open source cross-platform desktop app designed for working with loca
 
 ![Chat](./screenshots/tome/chat.png)
 ![MCP Servers](./screenshots/tome/mcp.png)
-
 </details>
 
 ### VS Code GitHub Copilot
@@ -996,7 +998,6 @@ The first agentic IDE, and then some. The Windsurf Editor is where the work of d
 ![Main Interface](./screenshots/windsurf/windsurf.png)
 ![Adding New MCP Server](./screenshots/windsurf/easy-add-mcp-servers.png)
 ![Settings Interface](./screenshots/windsurf/settings-cascade-mcp.png)
-
 </details>
 
 ### Witsy
@@ -1102,7 +1103,6 @@ https://github.com/user-attachments/assets/95624731-5469-4b58-a21f-bbb31d9838fa
 MindPal is a no-code platform for building and deploying AI agents and multi-agent workflows. It enables anyone without technical skills to create powerful AI automation solutions by connecting any AI model with any tool. Build complex workflows where multiple AI agents work together to accomplish tasks, with built-in support for MCP servers and tools.
 
 Key features:
-
 - No-code AI agent builder
 - Multi-agent workflow orchestration
 - Support for any AI model provider
@@ -1155,7 +1155,6 @@ WhatsMCP is a WhatsApp agent that allows you to interact with MCP servers. It is
 Argo is a localized large model agent builder. Build agents with local & Cloud LLMs, RAG, MCP tools. Users can share these creations in our community, download AI agents from others.
 
 Key features:
-
 - Download opensource LLMs from ollama, huggingface or modelscope with one click.
 - Use local docs for RAG, sync with directories.
 - Support MCP tools.
@@ -1201,6 +1200,7 @@ A CLI host application that enables Large Language Models (LLMs) to interact wit
 ![](./screenshots/mcpclihost/console.png)
 
 </details>
+
 
 ### Zin-MCP-Client
 
