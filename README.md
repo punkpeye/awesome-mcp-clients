@@ -54,6 +54,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [oterm](#oterm)
+    - [Runbear](#runbear)
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Simple AI](#simple-ai-chat)
@@ -751,6 +752,28 @@ A terminal client for Ollama, with support for MCP servers.
 
 ![](./screenshots/oterm/chat.png)
 ![](./screenshots/oterm/mcp.svg)
+
+</details>
+
+### Runbear
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/runbear-io</td></tr>
+<tr><th align="left">Website</th><td>https://runbear.io</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Slack, MS Teams, Discord app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>-</td></tr>
+</table>
+
+No-code MCP clients for Slack, Microsoft Teams, and Discord with full support for MCP servers, connected knowledge sources, and custom instructions.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/runbear/slack-mcp-client.png)
+![](./screenshots/runbear/teams-mcp-client.png)
 
 </details>
 
