@@ -46,6 +46,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Goose](#goose)
     - [Glue](#glue)
     - [HyperChat](#hyperchat)
+    - [JDBCX](#jdbcx)
     - [kibitz](#kibitz)
     - [LibreChat](#librechat)
     - [MCP Chatbot](#mcp-chatbot)
@@ -599,6 +600,27 @@ HyperChat is an open Chat client that can use various LLM APIs to provide the be
 ![](./screenshots/hyperchat/image46.png)
 ![](./screenshots/hyperchat/image48.png)
 
+</details>
+
+### JDBCX
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/jdbcx/jdbcx</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>CLI, JDBC driver</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Java</td></tr>
+</table>
+
+JDBCX extends JDBC by providing enhanced support for data formats and compression, object mapping, advanced type conversion, multi-language query capabilities, and MCP support.
+
+<details>
+<summary>Screenshots</summary>
+
+![CLI](./screenshots/jdbcx/cli.png)
+![JDBC Client - DBeaver](./screenshots/jdbcx/dbeaver.png)
 </details>
 
 ### kibitz
