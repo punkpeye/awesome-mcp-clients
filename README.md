@@ -1208,6 +1208,7 @@ MCP Management
 ![image](https://github.com/user-attachments/assets/8cb04ffb-56bc-4a54-b719-ce944cf194da)
 
 ![image](https://github.com/user-attachments/assets/d8e094cb-4346-45fe-99d7-e3a26f1ffdfb)
+</details>
 
 ### MCPCLIHost
 
