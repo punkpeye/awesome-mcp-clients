@@ -50,6 +50,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [LibreChat](#librechat)
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
+    - [MCP Playground](#mcp-playground)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
@@ -675,6 +676,37 @@ A simple CLI to run LLM prompt and implement MCP client.
 <summary>Screenshots</summary>
 
 ![](./screenshots/mcp-cli-client/usage.png)
+
+</details>
+
+### MCP Playground
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://mcpsplayground.com/chat</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+MCP Playground is a comprehensive web-based MCP client for testing Claude and Gemini models with MCP server integration. Features dual AI provider support, advanced tool management with granular access control, custom system prompts, OAuth authentication, and real-time server monitoring. Perfect for testing MCP servers, comparing AI providers, and debugging tool implementations without writing code.
+
+Key Features:
+- **Dual AI Support** - Claude & Gemini models with seamless switching
+- **Smart Tool Control** - Restrict which tools AI can access (all/selected/none)  
+- **Custom System Prompts** - Shape AI personality and behavior
+- **OAuth & Bearer Auth** - Production-ready authentication support
+- **Real-time Testing** - Live server monitoring and direct tool execution
+
+<details>
+<summary>Screenshots</summary>
+
+![image](https://github.com/user-attachments/assets/93b6c1b8-cb30-4775-8f82-551a0fa79c4c)
+![image](https://github.com/user-attachments/assets/2e37e0a7-eed3-4ef3-acde-11f27b323bdd)
+![image](https://github.com/user-attachments/assets/2dee26dd-6e83-4e51-867e-9e1a3b32c5a5)
+![image](https://github.com/user-attachments/assets/781ef697-0658-4b1e-8e16-52f1cc838295)
 
 </details>
 
