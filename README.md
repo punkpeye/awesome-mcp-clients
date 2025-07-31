@@ -51,6 +51,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
+    - [Memex](#memex)
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
     - [Nerve](#nerve)
@@ -696,6 +697,38 @@ A simple Slack bot that uses LLMs and the Model Context Protocol (MCP) tools.
 <summary>Screenshots</summary>
 
 ![](./screenshots/mcp-simple-slackbot/demo.gif)
+
+</details>
+
+### Memex
+
+<table>
+<tr><th align="left">GitHub</th><td>Not Open Source</td></tr>
+<tr><th align="left">Website</th><td>https://memex.tech/</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>-</td></tr>
+</table>
+
+**Memex** is the first MCP client and MCP server builder in one desktop app. Unlike traditional MCP clients that only consume existing servers, Memex can create custom MCP servers from natural language prompts, immediately integrate them into its toolkit, and use them to solve problems—all within a single conversation.
+
+**Key MCP Features:**
+- **Prompt-to-MCP Server**: Generate fully functional MCP servers from natural language descriptions
+- **Self-Testing & Debugging**: Autonomously test, debug, and improve created MCP servers
+- **Universal MCP Client**: Works with any MCP server through intuitive, natural language integration
+- **Curated MCP Directory**: Access to tested, one-click installable MCP servers (Neon, Netlify, GitHub, Context7, and more)
+- **Multi-Server Orchestration**: Leverage multiple MCP servers simultaneously for complex workflows
+
+This unique dual capability of creating AND consuming MCP tools makes Memex the most versatile all-in-one solution in the MCP ecosystem.
+
+<details>
+<summary>Screenshots</summary>
+
+![MCP Server Directory](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/8a4e8495-68e5-4848-a895-0be95ec41b01/Screenshot_2025-06-17_at_3.38.13_PM.png?t=1750189420)
+![Multi-Agent Orchestration](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/10227cbc-36f6-44b4-83ec-5c33b742d667/2025-06-17_15.34.55.gif?t=1750188929)
+![Memex Interface](https://github.com/user-attachments/assets/6a1b6e76-5d5c-4ba4-87ee-70a31f0bc4ce)
 
 </details>
 
