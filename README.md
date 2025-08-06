@@ -42,6 +42,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Continue](#continue)
     - [DeepChat](#deepchat)
     - [Dolphin-MCP](#dolphin-mcp)
+    - [Fastchat MCP](#fastchat-mcp)
     - [FLUJO](#flujo)
     - [Goose](#goose)
     - [Glue](#glue)
@@ -474,6 +475,42 @@ DeepChat is a cross-platform desktop AI assistant, MCP client. DeepChat brings t
 <summary>Screenshots</summary>
 
 ![](./screenshots/dolphin-mcp/dolphin-mcp.png)
+
+</details>
+
+### Fastchat MCP
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/rb58853/fastchat-mcp</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+#### Overview
+
+Fastchat-mcp is a Python chat client designed to simplify connection to MCP servers through the `httpstream` or `stdio` transfer protocols. Its intuitive design allows easy configuration and management of connections to both public and private MCP servers with authentication, using a JSON-format configuration file.
+
+This package offers a clean and accessible terminal interface, ideal for quick chat testing without requiring complex setups. Additionally, it includes a `Chat` module (class) intended for advanced and flexible development, which can be easily integrated into custom projects, providing greater control and adaptability to the developer’s needs.
+
+#### Installation
+
+```shell
+pip install fastchat-mcp
+```
+
+#### Future
+
+Future versions are expected to include additional features such as voice systems, quick integrations with databases, built-in websocket support for frontend connections, among other useful functionalities. We invite you to follow this repository to stay updated on the latest news and improvements implemented.
+
+<details>
+  
+<summary>Screenshots</summary>
+
+<https://github.com/user-attachments/assets/1fcb0db8-5798-4745-8711-4b93198e36cc>
 
 </details>
 
