@@ -47,6 +47,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Glue](#glue)
     - [HyperChat](#hyperchat)
     - [kibitz](#kibitz)
+    - [Kiro](#kiro)
     - [LibreChat](#librechat)
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
@@ -619,6 +620,28 @@ kibitiz is the free and open-source Replit. Minimally, it is a lightweight chat 
 <summary>Screenshots</summary>
   
 https://github.com/user-attachments/assets/3f8df448-1c81-4ff2-8598-c48283a4dc00
+
+</details>
+
+### Kiro
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/kirodotdev/Kiro</td></tr>
+<tr><th align="left">Website</th><td>https://kiro.dev</td></tr>
+<tr><th align="left">License</th><td>https://kiro.dev/license/</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, IDE</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>All</td></tr>
+</table>
+
+Kiro is an AI assistant and IDE built to assist developers. Kiro helps you do your best work by bringing structure to AI coding with spec-driven development.
+
+<details>
+<summary>Screenshots</summary>
+
+![Kiro Interface](./screenshots/kiro/kiro-interface.png)
+![MCP Integration](./screenshots/kiro/mcp-integration.png)
 
 </details>
 
