@@ -50,6 +50,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [LibreChat](#librechat)
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
+    - [MCP Playground](#mcp-playground)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
@@ -677,6 +678,32 @@ A simple CLI to run LLM prompt and implement MCP client.
 ![](./screenshots/mcp-cli-client/usage.png)
 
 </details>
+
+
+### MCP Playground
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/rosaboyle/mcp-playground</td></tr>
+<tr><th align="left">Website</th><td>https://discord.gg/DsRcA3GwPy</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Electron</td></tr>
+</table>
+
+MCP Playground is a powerful desktop tool for exploring, debugging, and interacting with Model Context Protocol (MCP) servers, with built-in LLM integration. Think of it as "Postman but for MCPs".
+
+<details>
+<summary>Screenshots</summary>
+
+![MCP Playground Application](https://raw.githubusercontent.com/rosaboyle/mcp-playground/main/public/application.png)
+![Adding MCP Server - Step 1](https://raw.githubusercontent.com/rosaboyle/mcp-playground/main/public/add_mcp_server_1.png)
+![Adding MCP Server - Step 2](https://raw.githubusercontent.com/rosaboyle/mcp-playground/main/public/add_mcp_server_2.png)
+![Setting up API Keys](https://raw.githubusercontent.com/rosaboyle/mcp-playground/main/public/load_keys.png)
+
+</details>
+
 
 ### MCP Simple Slackbot
 
