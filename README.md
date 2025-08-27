@@ -1169,6 +1169,20 @@ WhatsMCP is a WhatsApp agent that allows you to interact with MCP servers. It is
 
 </details>
 
+### mcp-client-go
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/yincongcyincong/mcp-client-go/tree/main</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>LIBRARY</td></tr>
+<tr><th align="left">Platforms</th><td></td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>GOLANG</td></tr>
+</table>
+
+mcp-client-go is a Golang client library for the Model Context Protocol (MCP). It allows developers to register and interact with various MCP-based services such as Amap (Gaode Maps) using a unified API.
+
 ### Argo-LocalAI
 
 <table>
@@ -1253,6 +1267,7 @@ Lightweight, Fast, Simple, CLI-Based MCP Client for STDIO MCP Servers, to fill t
 ![example2](./screenshots/zin-mcp-client/zin_mcp_2.png)
 
 </details>
+
 
 ## Servers
 
