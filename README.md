@@ -51,6 +51,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
+    - [mcp-use](#mcp-use)
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
     - [Nerve](#nerve)
@@ -696,6 +697,31 @@ A simple Slack bot that uses LLMs and the Model Context Protocol (MCP) tools.
 <summary>Screenshots</summary>
 
 ![](./screenshots/mcp-simple-slackbot/demo.gif)
+
+</details>
+
+### mcp-use
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/pietrozullo/mcp-use</td></tr>
+<tr><th align="left">Website</th><td>https://docs.mcp-use.io/introduction</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Python library</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+A flexible Python library for building MCP clients with support for multiple LLM providers. It provides a unified interface with modular components for configuration, session management, and different connection methods (HTTP, WebSocket, stdio). Perfect for integrating MCP capabilities into Python applications.
+
+```bash
+pip install mcp-use
+```
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/mcp-use/example.png)
 
 </details>
 
