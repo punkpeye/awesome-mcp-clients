@@ -48,6 +48,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [HyperChat](#hyperchat)
     - [kibitz](#kibitz)
     - [LibreChat](#librechat)
+    - [Lutra](#lutra)
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
@@ -640,6 +641,36 @@ Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API,
 <summary>Screenshots</summary>
 
 ![](./screenshots/librechat/librechat.webp)
+
+</details>
+
+### Lutra
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://lutra.ai/</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Any</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>-</td></tr>
+</table>
+
+Lutra is the first AI task agent that connects all your work apps. It is designed to turn your conversations into automated workflows. Lutra understands your goals and actions it can take, and it automatically determines how to work with your apps to get tasks done. After completing a task, you can create playbooks which save the steps as reusable automations. Lutra connects with MCP servers easily: you only need to provide the server URL and it does all the setup behind the scenes.
+
+<details>
+<summary>Screenshots</summary>
+Connect to MCP server:
+
+![](./screenshots/lutra/connect-mcp-server.png)
+
+Chat and create automations:
+
+![](./screenshots/lutra/chat-and-create.png)
+
+Save playbooks:
+
+![](./screenshots/lutra/create-playbook.gif)
 
 </details>
 
