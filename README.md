@@ -69,6 +69,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Enconvo](#enconvo)
     - [y-cli](#y-cli)
     - [Zed](#zed)
+    - [HighlightAI](#highlightai)
     - [MindPal](#mindpal)
     - [WhatsMCP](#whatsmcp)
     - [Argo-LocalAI](#Argo-LocalAI)
@@ -1115,6 +1116,36 @@ Zed is a high-performance, multiplayer code editor from the creators of Atom and
 
 https://github.com/user-attachments/assets/95624731-5469-4b58-a21f-bbb31d9838fa
 
+</details>
+
+### HighlightAI
+ 
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/highlight-ing/</td></tr>
+<tr><th align="left">Website</th><td>https://highlightai.com/</td></tr>
+<tr><th align="left">License</th><td>Custom</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+ 
+[HighlightAI](https://highlightai.com) lets you get instant answers about anything you've seen, heard or said. HighlightAI is an desktop app that runs on macOS and Windows. Check out our [docs](https://docs.highlightai.com/learn/developers/plugins) for more info.
+ 
+**Key features:**
+- Local audio and mic transcription: Automatically capture and share meeting notes, saving hours of manual work
+- Hold command anywhere to talk: Control apps, dictate content, and ask questions completely hands-free
+- Follows your actions on any app: Select text anywhere and instantly summarize, translate, or analyze it
+- Use Apps & Your Screen as input: Capture any part of your screen for instant insights and explanations
+- One-Click MCP Server: We take care of the MCP setup, you can set your environment variables and start using it in seconds
+- [Open source bundler](https://github.com/highlight-ing/mcp-bundler): We open sourced our bundler so any client can use it to add MCP support to their app
+- [Public registry](https://mcpservers.com/): We maintain a public registry of MCP servers that you can use in Highlight or your own MCP clients
+ 
+<details>
+<summary>Screenshots</summary>
+ 
+![](./screenshots/highlightai/highlight-plugin-browse.png)
+![](./screenshots/highlightai/highlight-plugin-installed.png)
 </details>
 
 ### MindPal
