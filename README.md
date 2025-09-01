@@ -1254,6 +1254,29 @@ Lightweight, Fast, Simple, CLI-Based MCP Client for STDIO MCP Servers, to fill t
 
 </details>
 
+
+### Agent-cli
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/belowthetree/agent-cli</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>GPLv3</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust</td></tr>
+</table>
+
+Lightweight, Fast, Simple, CLI MCP Client for MCP Servers. Supporting TUI, stdio and NapCat. Any LLM API compatible with the OpenAI API, such as Ollama and DeepSeek, can be configured for use.
+
+<details>
+<summary>Screenshots</summary>
+
+![example1](./screenshots/agent-cli/agentcli.gif)
+![example2](./screenshots/agent-cli/tui.gif)
+
+</details>
+
 ## Servers
 
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
