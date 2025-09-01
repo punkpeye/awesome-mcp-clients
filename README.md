@@ -25,6 +25,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
   - [What is MCP?](#what-is-mcp)
   - [Community](#community)
   - [Clients](#clients)
+    - [askit mcp](#askit-mcp)
     - [eechat](#eechat)
     - [5ire](#5ire)
     - [AIaW](#aiaw)
@@ -77,6 +78,28 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zin MCP Client](#zin-mcp-client)
   - [Servers](#servers)
 
+### askit-mcp
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/johnrobinsn/askit</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>CLI, Python library</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+**askit-mcp** is a flexible asyncio Python library and CLI tool that allows various LLM models to extend their abilities by invoking services from Model Context Protocol (MCP) servers and by calling locally-defined Python functions..
+
+`pip install git+https://github.com/johnrobinsn/askit.git`
+
+<details>
+<summary>Screenshots</summary>
+
+![Command Line Interface](./screenshots/askit-mcp/cli.png)
+
+</details>
 
 ### eechat
 
