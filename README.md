@@ -58,6 +58,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [oterm](#oterm)
+    - [Roundtable](#roundtable)
     - [Runbear](#runbear)
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
@@ -852,6 +853,22 @@ A terminal client for Ollama, with support for MCP servers.
 ![](./screenshots/oterm/mcp.svg)
 
 </details>
+
+### Roundtable
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/askbudi/roundtable</td></tr>
+<tr><th align="left">Website</th><td>https://askbudi.ai/roundtable</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>MCP Server & Client Management Platform</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+**Roundtable** is a zero-configuration MCP server that unifies multiple AI coding assistants for enhanced development workflows. It provides intelligent client management by automatically discovering available AI tools and offering a unified MCP interface for seamless coordination between Claude Code, Cursor, GPT-4, and other AI development tools.
+
+`pip install roundtable-ai`
 
 ### Runbear
 
