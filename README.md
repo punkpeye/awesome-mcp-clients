@@ -299,6 +299,19 @@ ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
 
 </details>
 
+### Iso20022Generator MCP Client
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/benjaminnormand/iso20022-mcp-client</td></tr>
+<tr><th align="left">Website</th><td>https://iso20022generator.com</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Python</td></tr>
+</table>
+Iso20022Generator MCP Client allows generating and testing SEPA ISO 20022 files directly from an intuitive web interface: spreadsheets, PDF, etc.
+
 
 
 ### Claude Desktop
