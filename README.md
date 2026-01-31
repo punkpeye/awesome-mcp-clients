@@ -55,6 +55,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Glue](#glue)
     - [HyperChat](#hyperchat)
     - [JDBCX](#jdbcx)
+    - [Kagan](#kagan)
     - [kibitz](#kibitz)
     - [LangBot](#LangBot)
     - [Klavis AI](#klavis-ai)
@@ -849,6 +850,20 @@ JDBCX extends JDBC by providing enhanced support for data formats and compressio
 ![CLI](./screenshots/jdbcx/cli.png)
 ![JDBC Client - DBeaver](./screenshots/jdbcx/dbeaver.png)
 </details>
+
+### Kagan
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/aorumbayev/kagan</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>TUI, MCP Server</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+Kagan is an AI-powered Kanban TUI for autonomous development workflows. It integrates with Claude Code and OpenCode for ticket-driven AI coding, supports git worktree isolation for parallel development, and includes MCP server support (acts as both an MCP server and can connect to MCP servers). Built with Python 3.12+ and the Textual framework.
 
 ### kibitz
 
