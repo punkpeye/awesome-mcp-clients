@@ -81,6 +81,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [SeekChat](#seekchat)
     - [Simple AI](#simple-ai)
     - [Tambo](#tambo)
+    - [Taskade](#taskade)
     - [Tester MCP Client](#tester-mcp-client)
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
@@ -1453,6 +1454,21 @@ Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
 ![](./screenshots/tambo/client-side-mcp.png)
 
 </details>
+
+
+### Taskade
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/taskade/mcp</td></tr>
+<tr><th align="left">Website</th><td>https://taskade.com</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web app, Desktop app, Mobile app</td></tr>
+<tr><th align="left">Platforms</th><td>Web, Windows, MacOS, Linux, iOS, Android</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+AI-powered workspace with MCP support. Custom AI agents connect to MCP servers for project management, notes, mind maps, and workflow automation. Open-source MCP server at [github.com/taskade/mcp](https://github.com/taskade/mcp).
 
 ### Tester MCP Client
 
