@@ -1958,6 +1958,23 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
 
+### AgentIndex
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/agentidx/agentindex</td></tr>
+<tr><th align="left">Website</th><td>https://agentcrawl.dev</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>API, MCP Server</td></tr>
+<tr><th align="left">Platforms</th><td>Web, Linux, MacOS, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, JavaScript</td></tr>
+</table>
+
+AI agent discovery platform that indexes 39,000+ agents from GitHub, npm, PyPI, HuggingFace, and MCP registries. Provides an MCP server so any MCP client can discover and invoke agents through natural language search. Supports A2A protocol and semantic search.
+
+`pip install agentcrawl`
+
+
 ## Servers
 
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
