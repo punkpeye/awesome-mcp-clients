@@ -68,6 +68,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCPHost](#mcphost)
     - [MCP Playground](#mcp-playground)
     - [McPico](#mcpico)
+    - [McpMux](#mcpmux)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
     - [Memex](#memex)
     - [MCPOmni Connect](#mcpomni-connect)
@@ -1141,6 +1142,34 @@ A simple CLI to run LLM prompt, attach files, discuss with MCP servers. For mult
 
 </details>
 
+
+### McpMux
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/mcpmux/mcp-mux</td></tr>
+<tr><th align="left">Website</th><td>https://mcpmux.com</td></tr>
+<tr><th align="left">License</th><td>GPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app + Local gateway</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, macOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, TypeScript</td></tr>
+</table>
+
+**McpMux** is a desktop app and local MCP gateway that lets you configure MCP servers once and connect every AI client (Cursor, Claude Desktop, VS Code, Windsurf) through a single `localhost:45818` endpoint. Credentials are encrypted in the OS keychain instead of plain-text JSON files.
+
+- Built-in server registry with 100+ MCP servers
+- OS keychain credential encryption (DPAPI / Keychain / libsecret)
+- Per-client access keys with FeatureSet tool filtering
+- Automatic OAuth 2.1+PKCE token refresh
+- Space-based workspace organization
+
+<details>
+
+<summary>Screenshots</summary>
+
+![McpMux Dashboard](https://mcpmux.com/screenshots/dashboard.png)
+
+</details>
 
 ### MCP Simple Slackbot
 
