@@ -68,6 +68,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCPHost](#mcphost)
     - [MCP Playground](#mcp-playground)
     - [McPico](#mcpico)
+    - [McpMux](#mcpmux)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
     - [Memex](#memex)
     - [MCPOmni Connect](#mcpomni-connect)
@@ -1141,6 +1142,36 @@ A simple CLI to run LLM prompt, attach files, discuss with MCP servers. For mult
 
 </details>
 
+### McpMux
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/mcpmux/mcp-mux</td></tr>
+<tr><th align="left">Website</th><td>https://mcpmux.com</td></tr>
+<tr><th align="left">License</th><td>GPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, Local gateway</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, macOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, TypeScript</td></tr>
+</table>
+
+McpMux lets you configure your MCP servers once and connect every AI client through a single local gateway. No more duplicating configs across Cursor, Claude Desktop, VS Code, and Windsurf.
+
+- **Encrypted credentials** — secrets stay in your OS keychain instead of plain-text JSON
+- **Discover & Install** — browse and install from a built-in server registry
+- **Spaces** — isolated workspaces with their own servers and credentials
+- **Feature Sets** — switch active tools per task (Android dev, webapp, architecture) so you never hit the 80-tool limit
+- **Per-client OAuth** — each AI client authenticates independently with one-click approval
+- **Automatic sync** — add or update a server and every connected client picks it up instantly
+
+<details>
+<summary>Screenshots</summary>
+
+![McpMux Servers](./screenshots/mcpmux/servers.png)
+![McpMux Discover](./screenshots/mcpmux/discover.png)
+![McpMux Feature Sets](./screenshots/mcpmux/featureset-detail.png)
+![McpMux Connected Clients](./screenshots/mcpmux/clients.png)
+
+</details>
 
 ### MCP Simple Slackbot
 
