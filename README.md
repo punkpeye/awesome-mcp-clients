@@ -1273,7 +1273,7 @@ Nerve is an ADK ( Agent Development Kit ) and CLI designed to be a simple yet po
 <tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
 </table>
 
-**NeuroLink** is a TypeScript-first AI SDK that provides MCP (Model Context Protocol) server capabilities, enabling seamless integration between LLM applications and external tools. Built by Juspay, it supports 200+ AI/ML models with built-in content filtering and observability.
+**NeuroLink** is a TypeScript-first AI SDK that provides MCP (Model Context Protocol) server capabilities, enabling seamless integration between LLM applications and external tools. Built by Juspay, it supports 13 major AI providers and 100+ models with built-in content filtering and observability.
 
 ### NextChat
 
