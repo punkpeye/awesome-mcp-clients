@@ -73,6 +73,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
     - [Nerve](#nerve)
+    - [NeuroLink](#neurolink)
     - [NextChat](#nextchat)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
@@ -1259,6 +1260,20 @@ Nerve is an ADK ( Agent Development Kit ) and CLI designed to be a simple yet po
 [![asciicast](https://asciinema.org/a/710433.svg)](https://asciinema.org/a/710433)
 
 </details>
+
+### NeuroLink
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/juspay/neurolink</td></tr>
+<tr><th align="left">Website</th><td>https://github.com/juspay/neurolink</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>TypeScript library</td></tr>
+<tr><th align="left">Platforms</th><td>-</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+**NeuroLink** is a TypeScript-first AI SDK that provides MCP (Model Context Protocol) server capabilities, enabling seamless integration between LLM applications and external tools. Built by Juspay, it supports 200+ AI/ML models with built-in content filtering and observability.
 
 ### NextChat
 
