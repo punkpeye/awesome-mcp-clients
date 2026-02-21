@@ -39,6 +39,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Cherry Studio](#cherry-studio)
     - [Claude Desktop](#claude-desktop)
     - [ClaudeMind](#claudemind)
+    - [ClawWP](#clawwp)
     - [Cline](#cline)
     - [console-chat-gpt](#console-chat-gpt)
     - [ContextKit](#contextkit)
@@ -444,6 +445,20 @@ Experience Claude AI without limits. Use our desktop app for everyday AI assista
 ![](./screenshots/claudemind/ClaudeMind_Desktop_Projects.png)
 
 </details>
+
+### ClawWP
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/hifriendbot/clawwp</td></tr>
+<tr><th align="left">Website</th><td>https://hifriendbot.com/clawwp/</td></tr>
+<tr><th align="left">License</th><td>GPL-2.0-or-later</td></tr>
+<tr><th align="left">Type</th><td>WordPress plugin</td></tr>
+<tr><th align="left">Platforms</th><td>WordPress</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>PHP</td></tr>
+</table>
+
+ClawWP is a WordPress plugin that turns any WordPress site into an Ai-powered agent with MCP client support. It connects to MCP servers via HTTP and stdio transports, with auto-discovery and tool registration.
 
 ### Cline
 
