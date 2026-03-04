@@ -46,6 +46,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Cursor](#cursor)
     - [Continue](#continue)
     - [DeepChat](#deepchat)
+    - [dna-claude-analysis](#dna-claude-analysis)
     - [DocsGPT](#docsgpt)
     - [Dolphin-MCP](#dolphin-mcp)
     - [Fastchat MCP](#fastchat-mcp)
@@ -594,6 +595,20 @@ DeepChat is a cross-platform desktop AI assistant, MCP client. DeepChat brings t
 ![](./screenshots/deepchat/setting.png)
 
 </details>
+
+### dna-claude-analysis
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/shmlkv/dna-claude-analysis</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+A personal genome analysis toolkit built with Claude Code (MCP client). Analyzes raw DNA data across 17 categories — from ancestry and health risks to pharmacogenomics — and generates a single-page terminal-style HTML report.
 
 ### DocsGPT
 
