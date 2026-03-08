@@ -56,6 +56,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Goose](#goose)
     - [Glue](#glue)
     - [HyperChat](#hyperchat)
+    - [JamJet](#jamjet)
     - [JDBCX](#jdbcx)
     - [kibitz](#kibitz)
     - [LangBot](#LangBot)
@@ -859,6 +860,20 @@ HyperChat is an open Chat client that can use various LLM APIs to provide the be
 ![](./screenshots/hyperchat/image48.png)
 
 </details>
+
+### JamJet
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/jamjet-labs/jamjet</td></tr>
+<tr><th align="left">Website</th><td>https://jamjet.dev</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Agent runtime / framework</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Linux, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python (SDK), Rust (runtime)</td></tr>
+</table>
+
+Agent-native runtime with native MCP client and server support. Connect to any MCP tool server in one line of YAML — no glue code. Expose Python functions as MCP tools for other agents to consume. Durable execution (crash-safe, event-sourced), OTel observability, and enforced autonomy limits. Built on a Rust async core, authored in Python with `@task` and `@tool` decorators.
 
 ### JDBCX
 
