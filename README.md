@@ -51,6 +51,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [DocsGPT](#docsgpt)
     - [Dolphin-MCP](#dolphin-mcp)
     - [Fastchat MCP](#fastchat-mcp)
+    - [FIM Agent](#fim-agent)
     - [Enola.dev](#enola)
     - [FLUJO](#flujo)
     - [Goose](#goose)
@@ -703,6 +704,27 @@ Future versions are expected to include additional features such as voice system
 <summary>Screenshots</summary>
 
 <https://github.com/user-attachments/assets/1fcb0db8-5798-4745-8711-4b93198e36cc>
+
+### FIM Agent
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/fim-ai/fim-agent</td></tr>
+<tr><th align="left">Website</th><td>https://agent.fim.ai</td></tr>
+<tr><th align="left">License</th><td>Source Available</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS (Docker or local)</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, TypeScript</td></tr>
+</table>
+
+**FIM Agent** is an AI-powered Connector Hub that uses MCP servers as one of three tool integration methods (alongside OpenAPI import and an AI chat builder). MCP tools are auto-discovered and registered into the agent's tool registry, then available in both ReAct and DAG planning execution modes. Supports admin-provisioned global MCP servers loaded across all user sessions, plus per-user MCP server configuration. Self-hosted with a Next.js portal and FastAPI backend.
+
+<details>
+<summary>Screenshots</summary>
+
+![FIM Agent Banner](https://raw.githubusercontent.com/fim-ai/fim-agent/master/assets/banner.jpg)
+
+</details>
 ### Enola
 
 <table>
