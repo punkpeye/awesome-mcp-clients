@@ -40,6 +40,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Cherry Studio](#cherry-studio)
     - [Claude Desktop](#claude-desktop)
     - [Claude Code Open](#claude-code-open)
+    - [ClawSearch](#clawsearch)
     - [ClaudeMind](#claudemind)
     - [Cline](#cline)
     - [console-chat-gpt](#console-chat-gpt)
@@ -452,6 +453,20 @@ The Claude desktop app brings Claude's capabilities directly to your computer, a
 </table>
 
 Open-source AI coding platform based on Claude Code CLI with full MCP protocol support. Features a browser-based Web IDE with Monaco editor, 37+ built-in tools, Blueprint multi-agent orchestration system, and scheduled task daemon. Supports MCP server configuration and integration for extending AI capabilities through external tools and services.
+
+### ClawSearch
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/clawsec/clawsearch</td></tr>
+<tr><th align="left">Website</th><td>https://clawsearch.com</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web app, API</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+ClawSearch is an MCP skill discovery and search engine with Trust Score safety ratings. Search, discover, and evaluate MCP skills and AI agent tools with security-first trust scoring before installation.
 
 ### ClaudeMind
 
