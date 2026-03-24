@@ -476,6 +476,20 @@ Experience Claude AI without limits. Use our desktop app for everyday AI assista
 
 </details>
 
+### claw-army/claude-node
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/claw-army/claude-node</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Python library</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
+
 ### Cline
 
 <table>
