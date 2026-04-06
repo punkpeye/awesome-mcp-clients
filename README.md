@@ -9,6 +9,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 * [Community](#community)
 * [Clients](#clients)
 * [Servers](#servers)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - Multi-agent orchestration system for Claude Code using 49 specialized MCP-powered agents with task registry and quality gates.
 
 ## What is MCP?
 
