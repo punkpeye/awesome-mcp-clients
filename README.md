@@ -104,6 +104,8 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zin MCP Client](#zin-mcp-client)
     - [Qordinate](#qordinate)
     - [PraisonAI](#praisonai)
+    - [Overloop CLI](#overloop-cli)
+    - [Signals CLI](#signals-cli)
   - [Servers](#servers)
 
 ### askit-mcp
@@ -2010,6 +2012,38 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 </table>
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
+
+### Overloop CLI
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/sortlist/overloop-cli</td></tr>
+<tr><th align="left">Website</th><td>https://agent.overloop.ai</td></tr>
+<tr><th align="left">License</th><td>-</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>$69-99/mo</td></tr>
+<tr><th align="left">Programming Languages</th><td>JavaScript/TypeScript</td></tr>
+</table>
+
+AI-powered outbound engine. Source prospects from 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
+
+`npm i -g overloop-cli`
+
+### Signals CLI
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/sortlist/signals-cli</td></tr>
+<tr><th align="left">Website</th><td>https://agent.overloop.ai</td></tr>
+<tr><th align="left">License</th><td>-</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>JavaScript/TypeScript</td></tr>
+</table>
+
+Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines.
+
+`npm i -g signals-sortlist-cli`
 
 ## Servers
 
