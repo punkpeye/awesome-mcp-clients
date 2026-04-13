@@ -1884,6 +1884,7 @@ Key features:
 - Use local docs for RAG, sync with directories.
 - Support MCP tools.
 - Manage Agents with individual prompt, model, knowledge and MCP tools.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 <details>
 <summary>Screenshots</summary>
 
