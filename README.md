@@ -109,6 +109,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zin MCP Client](#zin-mcp-client)
     - [Qordinate](#qordinate)
     - [PraisonAI](#praisonai)
+    - [Burnish](#burnish)
   - [Servers](#servers)
 
 ### OpenClaw
@@ -2144,6 +2145,23 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 </table>
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
+
+
+### Burnish
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/danfking/burnish</td></tr>
+<tr><th align="left">Website</th><td>https://burnish-demo.fly.dev</td></tr>
+<tr><th align="left">License</th><td>AGPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>CLI, Explorer UI, Web components</td></tr>
+<tr><th align="left">Platforms</th><td>macOS, Windows, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Node.js</td></tr>
+</table>
+
+Burnish is "Swagger UI for MCP" — an explorer-first MCP client that auto-generates interactive UI from any server's tool outputs. No LLM, no chat window, no tool-calling loop. Point it at any stdio or SSE MCP server and browse/invoke tools directly. Outputs render as cards, tables, charts, pipelines, and dashboards based on JSON shape. Ships 10 Lit 3 web components (`@burnishdev/components`) embeddable in your own app via npm or CDN.
+
+`npx burnish -- npx -y @burnishdev/example-server`
 
 ## Servers
 
