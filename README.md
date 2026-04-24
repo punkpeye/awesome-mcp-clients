@@ -79,6 +79,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
+    - [openHarness](#openharness)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
@@ -1400,6 +1401,20 @@ Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP suppo
 ![](https://github.com/ChatGPTNextWeb/NextChat/blob/main/docs/images/cover.png)
 
 </details>
+
+### openHarness
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/zhijiewong/openharness</td></tr>
+<tr><th align="left">Website</th><td>https://github.com/zhijiewong/openharness</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Languages</th><td>English</td></tr>
+</table>
+
+Open-source Claude Code alternative: terminal AI coding agent for any LLM (Anthropic, OpenAI, Ollama, llama.cpp, LM Studio). MCP client with stdio, HTTP, and SSE transports plus OAuth 2.1 (Dynamic Client Registration + PKCE), OS keychain token storage. Python SDK (`openharness-sdk`) mirrors Claude Code's `claude-agent-sdk`.
 
 ### oterm
 
