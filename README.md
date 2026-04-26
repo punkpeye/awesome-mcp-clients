@@ -63,6 +63,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [LangBot](#LangBot)
     - [Klavis AI](#klavis-ai)
     - [Kiro](#kiro)
+    - [KubeStellar Console](#kubestellar-console)
     - [LibreChat](#librechat)
     - [Lutra](#lutra)
     - [mcp-agent](#mcp-agent)
@@ -1040,6 +1041,27 @@ Kiro is an AI assistant and IDE built to assist developers. Kiro helps you do yo
 ![MCP Integration](./screenshots/kiro/mcp-integration.png)
 
 </details>
+
+### KubeStellar Console
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/kubestellar/console</td></tr>
+<tr><th align="left">Website</th><td>https://console.kubestellar.io</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web, Docker, Kubernetes</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Go, TypeScript</td></tr>
+</table>
+
+Multi-cluster Kubernetes dashboard with built-in MCP bridge that enables AI assistants to manage and observe workloads across edge and cloud clusters. Features an MCP server (kc-agent) that bridges browser-based AI chat to kubeconfig and Kubernetes APIs via MCP, supporting Claude, OpenAI, and Gemini providers.
+
+**Key Features:**
+- **MCP Bridge**: Built-in MCP server (kc-agent) connecting AI assistants to Kubernetes clusters
+- **Multi-Cluster**: Manage workloads across edge and cloud clusters from a single dashboard
+- **AI Operations**: AI-powered cluster operations via Claude, OpenAI, and Gemini
+- **CNCF Integrations**: 20+ integrations including Argo CD, Kyverno, Istio, Prometheus
+- **Real-time Observability**: Streaming metrics, logs, and events across all clusters
 
 ### LibreChat
 
