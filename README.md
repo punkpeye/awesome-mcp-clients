@@ -2145,6 +2145,28 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
 
+### Bernstein
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/sipyourdrink-ltd/bernstein</td></tr>
+<tr><th align="left">Website</th><td>https://bernstein.run</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>CLI, Python library, MCP server</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+Bernstein is a deterministic multi-agent orchestrator for CLI coding agents. It coordinates 37 CLI agents (Claude Code, Codex CLI, Gemini CLI, GitHub Copilot CLI, Cursor, Aider, Amp, OpenHands, OpenCode, Goose, Qwen, Ollama, and 25 more) running in parallel git worktrees. Acts as both an MCP host (each managed agent can call MCP tools) and an MCP server (exposes orchestration controls over stdio + HTTP/SSE so any MCP client can run a fleet).
+
+**Key Features:**
+
+- Deterministic Python scheduler — zero LLM tokens spent on coordination
+- 37 cooperating CLI adapters plus leaf-node delegation adapters (Composio, Ralphex)
+- File-based state in `.sdd/` — no SaaS, fully self-hosted
+- Quality gates, cost tracking with budgets, plan files with `depends_on`
+- Multi-repo, headless CI, optional Cloudflare Workers cloud execution
+
 ## Servers
 
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
