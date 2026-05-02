@@ -1116,6 +1116,20 @@ Save playbooks:
 ![](./screenshots/lutra/create-playbook.gif)
 </details>
 
+### MateClaw
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/matevip/mateclaw</td></tr>
+<tr><th align="left">Website</th><td>https://claw.mate.vip</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>Self-hosted AI Agent</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS, Docker</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Java, TypeScript</td></tr>
+</table>
+
+**MateClaw** is an open-source personal AI operating system built on Spring Boot 3.5 + Spring AI Alibaba. The same agent answers in a web admin console, a desktop app (bundled JRE 21), an embeddable widget, and 8 IM channels (DingTalk, Feishu, WeChat Work, WeChat, Telegram, Discord, QQ, Slack). Connects to MCP servers over **stdio**, **SSE**, and **Streamable HTTP** transports — wire a server URL, and the registered tools become available to every agent, gated by a Tool Guard layer with RBAC and approval flow. Also bundles ReAct + Plan-and-Execute agents on a StateGraph runtime, an LLM Wiki with per-sentence citations, a memory lifecycle (extract / consolidate / dream), and multi-vendor LLM failover.
+
 ### mcp-agent
 
 <table>
