@@ -2172,4 +2172,5 @@ PraisonAI is a production-ready Multi-AI Agents framework with native MCP integr
 
 ## Servers
 
+- [x711](https://x711.io) — Universal pay-per-use tool gateway. Free tier (10/day, no key, earn up to 200/day), x402 USDC settlement on Base/Solana, MCP server at `https://x711.io/mcp`. 7 tools incl. web_search, price_feed, hive_read.
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
