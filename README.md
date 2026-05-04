@@ -80,6 +80,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
+    - [OpenAgent](#openagent)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
