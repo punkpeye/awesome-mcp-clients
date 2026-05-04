@@ -80,6 +80,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
+    - [Ontheia](#ontheia)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
@@ -1402,6 +1403,27 @@ Session-based AI development assistant with MCP support, 7 LLM providers, and ex
 <summary>Screenshots</summary>
 
 [![asciicast](https://asciinema.org/a/wpZmOSOgFXp8HRzTltncgN7e3.svg)](https://asciinema.org/a/wpZmOSOgFXp8HRzTltncgN7e3)
+
+</details>
+
+### Ontheia
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Ontheia/ontheia</td></tr>
+<tr><th align="left">Website</th><td>https://ontheia.ai</td></tr>
+<tr><th align="left">License</th><td>AGPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, MacOS, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Self-hosted, open-source AI agent platform with native MCP support. Connect agents to any MCP server, run multi-agent workflows, and keep all data on your own infrastructure. GDPR by design.
+
+<details>
+<summary>Screenshots</summary>
+
+![Ontheia Chat](https://ontheia.ai/screenshots/ontheia_chat_en.png)
 
 </details>
 
