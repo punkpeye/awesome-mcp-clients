@@ -86,6 +86,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Simple AI](#simple-ai)
+    - [Synaps](#synaps)
     - [Tambo](#tambo)
     - [Taskade](#taskade)
     - [Tester MCP Client](#tester-mcp-client)
@@ -1592,6 +1593,22 @@ Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
 Self-hosted multi-agent AI runtime. Acts as both an MCP client and an MCP server: connects agents to MCP servers and exposes its own agents as MCP tools for other clients. Supports 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and inbound connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix.
 
 `npm install -g @swarmclawai/swarmclaw`
+
+### Synaps
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/HaseebKhalid1507/SynapsCLI</td></tr>
+<tr><th align="left">Website</th><td>https://crates.io/crates/synaps</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI, TUI</td></tr>
+<tr><th align="left">Platforms</th><td>macOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust</td></tr>
+</table>
+
+Terminal-native AI agent runtime with MCP client support. Connects to MCP servers with lazy spawning, parallel tool execution, and named subagent dispatch. Features reactive subagents (poll, steer, collect), autonomous watcher daemon with crash recovery, 17+ LLM providers, 18 TUI themes, mid-stream steering, and 90%+ prompt cache hit rates. 70K LOC, 1,074 tests.
+
+`cargo install synaps`
 
 ### Tambo
 
