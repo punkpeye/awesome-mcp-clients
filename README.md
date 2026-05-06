@@ -79,6 +79,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP SuperAssistant](#mcp-superassistant)
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
+    - [Nimbalyst](#nimbalyst)
     - [Octomind](#octomind)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
@@ -1381,6 +1382,30 @@ Nerve is an ADK ( Agent Development Kit ) and CLI designed to be a simple yet po
 <summary>Screenshots</summary>
 
 [![asciicast](https://asciinema.org/a/710433.svg)](https://asciinema.org/a/710433)
+
+</details>
+
+### Nimbalyst
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Nimbalyst/nimbalyst</td></tr>
+<tr><th align="left">Website</th><td>https://nimbalyst.com</td></tr>
+<tr><th align="left">License</th><td>MIT (desktop and iOS), AGPL (collab server)</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>macOS, Windows, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Nimbalyst is the open-source visual workspace for building with Codex, Claude Code, and more. Manage agents, sessions, tasks, and files. Visually edit markdown, mockups, diagrams, diffs, and code.
+
+<details>
+<summary>Screenshots</summary>
+
+<img width="1920" height="1080" alt="Agents " src="https://github.com/user-attachments/assets/f6478460-7fdd-4c89-a185-e67edb57690a" />
+<img width="1920" height="1080" alt="Mockup" src="https://github.com/user-attachments/assets/95a13bc9-2102-4b03-9e8d-2c9c6a1abcb0" />
+<img width="1920" height="1080" alt="Markdown" src="https://github.com/user-attachments/assets/a4523f27-d7ff-47c9-a46d-cd98f011c9f0" />
+
 
 </details>
 
