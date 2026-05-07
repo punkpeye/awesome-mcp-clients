@@ -110,6 +110,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zin MCP Client](#zin-mcp-client)
     - [Qordinate](#qordinate)
     - [PraisonAI](#praisonai)
+    - [Promptise Foundry](#promptise-foundry)
   - [Servers](#servers)
 
 ### OpenClaw
@@ -2169,6 +2170,22 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 </table>
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
+
+### Promptise Foundry
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/promptise-com/foundry</td></tr>
+<tr><th align="left">Website</th><td>https://promptise.com</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>Python library, SDK</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, macOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free / Open Source</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+**Promptise Foundry** is a production-grade Python agent framework with a native MCP client implementation (no third-party MCP client dependencies). It supports all three MCP transports — stdio, SSE, and streamable HTTP — plus bearer-token and API-key authentication. `MCPClient` connects to a single server; `MCPMultiClient` fans out across N servers with unified tool discovery and automatic routing; `MCPToolAdapter` converts MCP tools into LangChain `BaseTool` instances with recursive JSON-Schema handling. The framework is most commonly used through `build_agent()`, which auto-discovers tools from one or more MCP server URLs, wires them into an LLM of your choice (OpenAI, Anthropic, Ollama, or any LangChain `BaseChatModel`), and handles memory, guardrails, conversation persistence, and cross-agent delegation out of the box.
+
+`pip install promptise`
 
 ## Servers
 
