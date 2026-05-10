@@ -1426,6 +1426,29 @@ Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP suppo
 
 </details>
 
+### Onda
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/mariomosca/onda-electron</td></tr>
+<tr><th align="left">Website</th><td>https://onda.mindfullabai.dev</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+**Onda** is a macOS terminal emulator built for AI-assisted development with native Model Context Protocol integration. The included `@mindfullabai/onda-mcp` server exposes 21 tools that let any MCP-aware client (Claude Desktop, Cursor, Windsurf, Claude Code) drive Onda directly: open tabs, split panes, run terminal commands, switch workspaces, and capture screenshots.
+
+**Key MCP Features:**
+- **21-tool MCP server**: Full programmatic control of terminals, panes, tabs, workspaces, screenshots
+- **AI session resume**: Auto-detects interrupted Claude Code, Codex CLI, and Gemini CLI sessions and offers one-click resume
+- **Bracketed-paste screenshot capture**: Press Cmd+Shift+S, paths get injected as `[Image #N]` so MCP clients can read them immediately
+- **Mosaic split panes** controllable from MCP: agents can lay out multi-pane workflows themselves
+- **Built-in Git panel, file browser, dev server preview**: full development workflow in one app
+
+Designed specifically for developers who want their terminal to be a first-class citizen of the AI agent loop, not just a passive shell.
+
 ### oterm
 
 <table>
