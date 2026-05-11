@@ -297,6 +297,19 @@ AstrBot is an Easy-to-use multi-platform LLM chatbot and development framework P
 ![webchat_example](./screenshots/astrbot/chat_qq_example_without_avatar.png)
 </details>
 
+### Aura
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/CarpseDeam/Aura-IDE</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop IDE</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, macOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+Desktop AI Orchestration IDE with MCP client support for dynamic tool consumption. Features a Planner/Worker dual-agent architecture where the Planner reads code and writes technical specs, then hands off to the Worker for implementation with diff approval. Supports multiple AI providers (DeepSeek, OpenAI, Anthropic, Google Gemini, OpenRouter) and runs locally with no telemetry.
+
 ### Autohand Code CLI
 
 <table>
