@@ -32,6 +32,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
     - [AstrBot](#AstrBot)
+    - [Aura](#aura)
     - [Autohand Code CLI](#autohand-code-cli)
     - [AnythingLLM](#anythingllm)
     - [BrowseWiz](#browsewiz)
