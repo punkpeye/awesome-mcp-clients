@@ -70,6 +70,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [LobeHub](#lobehub)
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
+    - [MCP Dock](#mcp-dock)
     - [MCPHost](#mcphost)
     - [MCP Playground](#mcp-playground)
     - [McPico](#mcpico)
@@ -1197,6 +1198,29 @@ A simple CLI to run LLM prompt and implement MCP client.
 ![](./screenshots/mcp-cli-client/usage.png)
 
 </details>
+
+### MCP Dock
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/OldJii/mcp-dock</td></tr>
+<tr><th align="left">Website</th><td>https://mcp.folay.top</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+**MCP Dock** is a desktop MCP server and config manager that supports 14 AI clients. Browse and install 8,500+ MCP servers and 4,400+ AI skills across Cursor, VS Code, Claude Code, Gemini CLI, Codex CLI, Windsurf, Zed, TRAE, Kiro, JetBrains, Antigravity, and OpenClaw — all from one app.
+
+**Features:**
+
+- **MCP Store**: Browse and search 8,500+ MCP servers with one-click install to multiple clients
+- **Skills Store**: Discover and install 4,400+ AI skills
+- **Multi-Client Sync**: Install once, auto-configure across 14 clients
+- **Built-in Inspector**: Test MCP server tools and resources without launching an IDE
+- **Config History**: Auto-backup with diff view and one-click rollback
+- **Local-first**: All configs and API keys stay on your machine, no cloud accounts needed
 
 ### MCPHost
 
