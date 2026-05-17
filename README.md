@@ -86,6 +86,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Simple AI](#simple-ai)
+    - [Squadron](#squadron)
     - [Tambo](#tambo)
     - [Taskade](#taskade)
     - [Tester MCP Client](#tester-mcp-client)
@@ -1576,6 +1577,20 @@ Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
 ![](./screenshots/simple-ai-chat/fetch.png)
 
 </details>
+
+### Squadron
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/mlund01/squadron</td></tr>
+<tr><th align="left">Website</th><td>https://docs.squadron.sh</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI, single binary</td></tr>
+<tr><th align="left">Platforms</th><td>macOS, Linux, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Go</td></tr>
+</table>
+
+[Squadron](http://docs.squadron.sh) is a declarative framework for defining and running multi-agent AI workflows. It is the terraform of multi-agent frameworks, and consumes any MCP server (npm packages, GitHub release binaries, HTTP, or local stdio) with two lines of HCL config. Auto-install is handled for npm and GitHub sources, including OAuth login for hosted servers (`squadron mcp login`).
 
 ### SwarmClaw
 
