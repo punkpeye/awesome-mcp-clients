@@ -1811,6 +1811,20 @@ Witsy is an AI desktop assistant supporting models from all major providers and 
 
 </details>
 
+### weave
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/polymatx/weave</td></tr>
+<tr><th align="left">Website</th><td>https://polymatx.dev/weave/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Framework / SDK</td></tr>
+<tr><th align="left">Platforms</th><td>Node.js 22+ (cross-platform)</td></tr>
+<tr><th align="left">Pricing</th><td>Free / open source</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+TypeScript-native multi-agent orchestrator that consumes MCP servers as first-class tools. Includes graph-based flows with typed state, SQLite checkpoints, USD budget guardrails, streaming agents, and a built-in local trace UI.
+
 ### Enconvo
 
 <table>
