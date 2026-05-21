@@ -70,6 +70,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [LobeHub](#lobehub)
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
+    - [mcpc MCP CLI client](#mcpc)
     - [MCPHost](#mcphost)
     - [MCP Playground](#mcp-playground)
     - [McPico](#mcpico)
@@ -1197,6 +1198,20 @@ A simple CLI to run LLM prompt and implement MCP client.
 ![](./screenshots/mcp-cli-client/usage.png)
 
 </details>
+
+### mcpc
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/apify/mcpc</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, MacOS, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+mcpc is a universal command-line client for the Model Context Protocol (MCP) that maps MCP operations to intuitive commands for interactive shell use, scripting, and AI agents. It offers full MCP support including HTTP/stdio transports, tools, async tasks, resources, and prompts, with persistent sessions for multiple stateful connections. Key features include progressive tool discovery to optimize token usage, JSON output mode for composing shell pipelines with `jq` and `xargs`, OAuth 2.1 with DCR, OS keychain credential storage, and an MCP proxy server for AI sandbox isolation. Install with `npm install -g @apify/mcpc`.
 
 ### MCPHost
 
