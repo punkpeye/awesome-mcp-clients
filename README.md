@@ -70,7 +70,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [LobeHub](#lobehub)
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
-    - [mcpc](#mcpc)
+    - [mcpc MCP CLI client](#mcpc)
     - [MCPHost](#mcphost)
     - [MCP Playground](#mcp-playground)
     - [McPico](#mcpico)
