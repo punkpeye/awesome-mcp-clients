@@ -33,6 +33,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [AIaW](#aiaw)
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
+    - [AZMX AI](#azmx-ai)
     - [AnythingLLM](#anythingllm)
     - [BrowseWiz](#browsewiz)
     - [Canvas MCP Client](#canvas-mcp-client)
@@ -309,6 +310,29 @@ AstrBot is an Easy-to-use multi-platform LLM chatbot and development framework P
 </table>
 
 Autohand Code CLI is a self-evolving autonomous coding agent with native MCP integration for external tool access. It supports 40+ built-in tools, multiple LLM providers (OpenRouter, Anthropic, OpenAI, Ollama), semantic code search, and a modular skills system, all from the terminal.
+
+### AZMX AI
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/AzmxAI/azmx</td></tr>
+<tr><th align="left">Website</th><td>https://azmx.ai</td></tr>
+<tr><th align="left">License</th><td>Proprietary (free for individuals, EULA)</td></tr>
+<tr><th align="left">Type</th><td>Native desktop app (AI terminal + coding agent)</td></tr>
+<tr><th align="left">Platforms</th><td>macOS, Windows, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free for individuals; Pro $20/mo; Teams $40/seat/mo; Enterprise</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, TypeScript</td></tr>
+</table>
+
+AZMX AI is the sovereign agent platform — a native AI coding agent and terminal in ~7 MB. Connects to any MCP server, gates every side-effecting tool call behind a configurable approval policy, ships a hash-chained audit log, and refuses paths like `.env` and `.ssh` by default. BYOK across Anthropic, OpenAI, OpenRouter, Ollama, LM Studio, or fully offline — keys live in a `0600` file on disk, zero telemetry.
+
+**Key Features:**
+- **Approval gate**: every MCP tool call passes through a policy chain before it runs
+- **Deny-list**: refuses sensitive paths (`.env`, `.ssh`, credentials) by glob
+- **Hash-chained audit log**: tamper-evident record of every tool call
+- **BYOK or fully offline**: bring your own model, or run entirely against local Ollama / LM Studio
+- **Zero telemetry**: keys and prompts never leave the machine
+- **Native PTY terminal**: real shell, multi-tab, split panes, true-color, link detection
+- **Enterprise**: SAML, SCIM, PIV/CAC, self-hosted, air-gap; SOC 2 / HIPAA / PCI / ISO-27001 evidence
 
 ### AnythingLLM
 
