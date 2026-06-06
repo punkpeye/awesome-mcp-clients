@@ -78,6 +78,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
     - [Nerve](#nerve)
+    - [NEST](#nest)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
     - [oterm](#oterm)
@@ -1383,6 +1384,22 @@ Nerve is an ADK ( Agent Development Kit ) and CLI designed to be a simple yet po
 [![asciicast](https://asciinema.org/a/710433.svg)](https://asciinema.org/a/710433)
 
 </details>
+
+### NEST
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/contextzero/nest_hub</td></tr>
+<tr><th align="left">Website</th><td>https://ctx0.io</td></tr>
+<tr><th align="left">License</th><td>Fair-code (Sustainable Use License)</td></tr>
+<tr><th align="left">Type</th><td>Self-hosted, Docker, PWA, CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, MacOS, Windows, Docker</td></tr>
+<tr><th align="left">Pricing</th><td>Free to self-host</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, TypeScript</td></tr>
+</table>
+
+Self-hosted AI workforce hub. Runs coding agents (Claude Code, Cursor, Codex, OpenCode, KiloCode) and computer-use automation as MCP-enabled hosts, with chat across 700+ models (BYOK), per-project RBAC, approvals, and a full audit log — on infrastructure you own.
+
+`npm install -g @contextzero/nest`
 
 ### Octomind
 
