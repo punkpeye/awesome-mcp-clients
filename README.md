@@ -74,6 +74,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [LobeHub](#lobehub)
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
+    - [MCP Lab](#mcp-lab)
     - [MCPHost](#mcphost)
     - [MCP Playground](#mcp-playground)
     - [McPico](#mcpico)
@@ -1215,6 +1216,20 @@ A simple CLI to run LLM prompt and implement MCP client.
 ![](./screenshots/mcp-cli-client/usage.png)
 
 </details>
+
+### MCP Lab
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/ridzkyyy/mcp-lab</td></tr>
+<tr><th align="left">Website</th><td>https://mcp-lab.vercel.app</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Browser</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, React</td></tr>
+</table>
+
+**MCP Lab** is a "Postman for MCP servers" — a web UI that connects to any MCP server over HTTP/SSE transports, lists its tools, generates an argument form from each tool's input schema, and renders the result formatted instead of raw JSON-RPC. Includes a built-in example server so you can try it with zero setup.
 
 ### MCPHost
 
