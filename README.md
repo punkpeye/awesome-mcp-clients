@@ -62,6 +62,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [FLUJO](#flujo)
     - [Goose](#goose)
     - [Glue](#glue)
+    - [Hivekeep](#hivekeep)
     - [HyperChat](#hyperchat)
     - [JDBCX](#jdbcx)
     - [kibitz](#kibitz)
@@ -937,6 +938,20 @@ Glue is a full-featured, thread-first team chat platform with a built-in AI agen
 ![Glue Create Issue](./screenshots/glue/glue-create-issue.png)
 
 </details>
+
+### Hivekeep
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/MarlBurroW/hivekeep</td></tr>
+<tr><th align="left">Website</th><td>https://hivekeep.app</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Self-hosted platform</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, MacOS, Docker</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Hivekeep is a self-hosted platform of autonomous, persistent personal AI agents. Each agent can connect to MCP servers to extend its toolset, alongside custom tools, mini-apps and NPM plugins. Agents collaborate, keep long-term memory, and are reachable via Telegram, WhatsApp, Slack, Discord, Signal and Matrix.
 
 ### HyperChat
 
