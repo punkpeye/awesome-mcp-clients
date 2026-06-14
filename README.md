@@ -84,6 +84,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
+    - [OpenAcme](#openacme)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
@@ -1401,6 +1402,22 @@ Nerve is an ADK ( Agent Development Kit ) and CLI designed to be a simple yet po
 [![asciicast](https://asciinema.org/a/710433.svg)](https://asciinema.org/a/710433)
 
 </details>
+
+### OpenAcme
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/sandydasari/openacme</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Multi-agent platform / CLI daemon</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+**OpenAcme** is a local-first AI workforce platform where each agent connects to its own configured MCP servers. Named agents with roles, personas, tools, and memory run autonomously and delegate tasks to each other via a shared task board with dependency tracking. Supports Anthropic, OpenAI, Google, OpenRouter, and Ollama — or sign in with an existing Claude Pro or ChatGPT Plus subscription at no extra cost. No telemetry; all sessions, tasks, and tokens stay on your machine.
+
+`npm install -g @openacme/cli`
 
 ### Octomind
 
