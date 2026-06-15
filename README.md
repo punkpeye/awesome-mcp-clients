@@ -79,6 +79,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [McPico](#mcpico)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
     - [Memex](#memex)
+    - [MyLLM](#myllm)
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
     - [Nerve](#nerve)
@@ -1336,6 +1337,20 @@ This unique dual capability of creating AND consuming MCP tools makes Memex the 
 ![Memex Interface](https://github.com/user-attachments/assets/6a1b6e76-5d5c-4ba4-87ee-70a31f0bc4ce)
 
 </details>
+
+### MyLLM
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://apps.apple.com/us/app/myllm-local-ai-agent/id6760704297</td></tr>
+<tr><th align="left">License</th><td>Proprietary (app); companion MyLLM Connect is Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Mobile AI assistant (MCP client)</td></tr>
+<tr><th align="left">Platforms</th><td>iOS</td></tr>
+<tr><th align="left">Pricing</th><td>£3.99 one-off</td></tr>
+<tr><th align="left">Programming Languages</th><td>Swift</td></tr>
+</table>
+
+**MyLLM** is a private AI assistant for iPhone that connects to remote MCP servers (Streamable HTTP) and runs models either on-device (llama.cpp + Metal) or against your own server — no account, no telemetry. It ships an installable [tool marketplace](https://www.opticell-limited.com/myllm-wiki) (~80 tools) and [MyLLMos](https://www.opticell-limited.com/myllm-os), a gallery of mini-apps the assistant can build and you can re-run. The desktop companion, [MyLLM Connect](https://github.com/TeamDzX/myllm-connect), is open source (Apache-2.0).
 
 ### MCPOmni Connect
 
