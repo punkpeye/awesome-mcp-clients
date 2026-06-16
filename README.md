@@ -68,6 +68,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [LangBot](#LangBot)
     - [Klavis AI](#klavis-ai)
     - [Kiro](#kiro)
+    - [LightAgent](#lightagent)
     - [LibreChat](#librechat)
     - [Lutra](#lutra)
     - [mcp-agent](#mcp-agent)
@@ -1083,6 +1084,20 @@ Kiro is an AI assistant and IDE built to assist developers. Kiro helps you do yo
 ![MCP Integration](./screenshots/kiro/mcp-integration.png)
 
 </details>
+
+### LightAgent
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/wanxingai/LightAgent</td></tr>
+<tr><th align="left">Website</th><td>https://sufe-aiflm-lab.github.io/LightAgent/</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Python library, Agent framework</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+LightAgent is a lightweight open-source AI agent framework that supports MCP tool integration, custom tools, memory, streaming output, structured results, skills, and LightSwarm multi-agent collaboration.
 
 ### LibreChat
 
