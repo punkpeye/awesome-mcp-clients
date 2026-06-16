@@ -93,6 +93,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tambo](#tambo)
     - [Taskade](#taskade)
     - [Tester MCP Client](#tester-mcp-client)
+    - [The Brain](#the-brain)
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
     - [Vercade](#vercade)
@@ -1685,6 +1686,22 @@ Key features:
 ![](./screenshots/tester-mcp-client/chat-ui.png)
 
 </details>
+
+### The Brain
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/MihaiBuilds/the-brain</td></tr>
+<tr><th align="left">Website</th><td>https://mihaibuilds.com/products/the-brain.html</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Self-hosted workflow orchestrator</td></tr>
+<tr><th align="left">Platforms</th><td>Docker</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+The Brain is a self-hosted workflow orchestrator. Workflows are plain Python files; every run is persisted in Postgres. As an MCP client, it calls any MCP server over stdio as a workflow step type, alongside shell, LLM (OpenAI-compat), and Memory Vault REST step types. Triggers include manual, cron, webhook (HMAC-signed), and file-change.
+
+`docker pull ghcr.io/mihaibuilds/the-brain:latest`
 
 ### Tiles Notebook
 
