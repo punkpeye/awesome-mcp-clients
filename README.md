@@ -570,6 +570,17 @@ Experience Claude AI without limits. Use our desktop app for everyday AI assista
 
 </details>
 
+### BuilderStudio
+
+Website: https://builderstudio.dev  
+GitHub: https://github.com/wundercorp/builderstudio-skills  
+Type: Native macOS agentic coding workspace / MCP-capable coding client  
+Platforms: macOS  
+Pricing: Commercial  
+
+BuilderStudio is a native macOS agentic coding workspace from WunderCorp with MCP support, reusable Skills and Pathways, secure local/cloud execution, Hermes-powered container-only agent execution, Agentic Swarms for parallel specialized agents, terminal workflows, app previews, and flexible model routing across 380+ AI models.
+
+
 ### Cline
 
 <table>
