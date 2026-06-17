@@ -1381,6 +1381,20 @@ Add MCP Capabilities to Chatgpt, Gemini, Grok, Google AI Studio, DeepSeek, AI St
 
 </details>
 
+### NarraNexus
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/NetMindAI-Open/NarraNexus</td></tr>
+<tr><th align="left">Website</th><td>https://www.narra.nexus/</td></tr>
+<tr><th align="left">License</th><td>CC BY-NC 4.0</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux, Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+Ready-to-run AI agent team workspace whose agents remember, collaborate, and use tools from day one — with persistent memory, multi-agent collaboration, MCP tool integrations, and Matrix-based communication.
+
 ### Nerve
 
 <table>
