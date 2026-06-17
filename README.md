@@ -2194,7 +2194,7 @@ PraisonAI is a production-ready Multi-AI Agents framework with native MCP integr
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/novuhq/novu</td></tr>
 <tr><th align="left">Website</th><td>https://novu.co/connect</td></tr>
-<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">License</th><td>Open Source (MIT core)</td></tr>
 <tr><th align="left">Type</th><td>Platform, CLI</td></tr>
 <tr><th align="left">Platforms</th><td>Web, CLI</td></tr>
 <tr><th align="left">Pricing</th><td>Free tier</td></tr>
