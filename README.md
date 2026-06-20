@@ -31,6 +31,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [askit-mcp](#askit-mcp)
     - [eechat](#eechat)
     - [5ire](#5ire)
+    - [AFK](#afk)
     - [Agent Bridge](#agent-bridge)
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
@@ -130,6 +131,20 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 
 **OpenClaw** is a powerful open-source AI agent that connects to multiple messaging platforms (WhatsApp, Telegram, Discord) and supports Model Context Protocol (MCP) for tool integration. It features a robust plugin ecosystem and automated workflows.
 
+
+### AFK
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://afk.mooglest.com</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Web app, desktop daemon, coding agent platform</td></tr>
+<tr><th align="left">Platforms</th><td>Web, MacOS, Linux, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free and paid plans</td></tr>
+<tr><th align="left">Programming Languages</th><td>-</td></tr>
+</table>
+
+AFK is a browser-based command center for persistent coding-agent sessions. It supports MCP servers for extending agent tools and context, with daemon-connected project access, browser visibility, approvals, sub-agents, and bring-your-own LLM connections.
 
 ### askit-mcp
 
