@@ -78,6 +78,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP Playground](#mcp-playground)
     - [McPico](#mcpico)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
+    - [Melaya](#melaya)
     - [Memex](#memex)
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
@@ -115,6 +116,20 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Qordinate](#qordinate)
     - [PraisonAI](#praisonai)
   - [Servers](#servers)
+
+### Melaya
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/melaya-labs/melaya</td></tr>
+<tr><th align="left">Website</th><td>https://melaya.org</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0 (SDKs and benchmarks), proprietary (platform)</td></tr>
+<tr><th align="left">Type</th><td>Hosted agentic platform, MCP client</td></tr>
+<tr><th align="left">Platforms</th><td>Web, Cloud, Self-hosted runner</td></tr>
+<tr><th align="left">Pricing</th><td>Free Sandbox, Pro $49/mo, Crew $129/mo, Enterprise from $490/mo</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Python, Rust, Go, Java, Kotlin, C#/.NET, Ruby, PHP</td></tr>
+</table>
+
+**Melaya** is a drag-drop agentic platform with native MCP client support. On the visual canvas, any crew attaches tools from any MCP server (stdio process or HTTP/SSE) and composes them alongside Melaya's 1,200+ first-party scoped tools and 100+ subagent templates. HITL approval, scheduling, and replay around every MCP tool call. Bring any of 20+ AI providers per agent. Includes a 7-persona Trading Crew running on a Rust engine at 420 ns per bar across 65 CEX and 6 prediction markets.
 
 ### OpenClaw
 
