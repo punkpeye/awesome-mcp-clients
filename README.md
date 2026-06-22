@@ -24,7 +24,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 
 ## Clients
 
-- [Awesome MCP Clients ](#awesome-mcp-clients-)
+- Awesome MCP Clients
   - [What is MCP?](#what-is-mcp)
   - [Community](#community)
   - [Clients](#clients)
@@ -35,7 +35,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
     - [Ano](#ano)
-    - [AstrBot](#AstrBot)
+    - [AstrBot](#astrbot)
     - [Autohand Code CLI](#autohand-code-cli)
     - [AnythingLLM](#anythingllm)
     - [BrowseWiz](#browsewiz)
@@ -65,7 +65,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [HyperChat](#hyperchat)
     - [JDBCX](#jdbcx)
     - [kibitz](#kibitz)
-    - [LangBot](#LangBot)
+    - [LangBot](#langbot)
     - [Klavis AI](#klavis-ai)
     - [Kiro](#kiro)
     - [LibreChat](#librechat)
@@ -1703,7 +1703,7 @@ Tiles is a notebook interface that makes working with AI agents easier.
 <details>
 <summary>Screenshots</summary>
 
-![](./screenshots/tiles.run/notebook-ui.png)
+![](./screenshots/tiles.run/tiles-notebook.png)
 
 </details>
 
