@@ -971,6 +971,20 @@ HyperChat is an open Chat client that can use various LLM APIs to provide the be
 
 </details>
 
+### IronClaw
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/IronSecCo/ironclaw</td></tr>
+<tr><th align="left">Website</th><td>https://ironsecco.github.io/ironclaw/</td></tr>
+<tr><th align="left">License</th><td>AGPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>Self-hosted AI agent platform</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Go</td></tr>
+</table>
+
+IronClaw is a security-first, self-hosted AI agent platform that acts as an MCP host: agents register and call MCP servers/tools through a human-approval gateway (deny-by-default), with in-session MCP server and Skill installation. Each agent runs in a gVisor sandbox with no network of its own.
+
 ### JDBCX
 
 <table>
