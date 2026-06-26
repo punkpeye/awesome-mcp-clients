@@ -2188,6 +2188,20 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
 
+### Reactive Agents
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/tylerjrbuell/reactive-agents-ts</td></tr>
+<tr><th align="left">Website</th><td>https://docs.reactiveagents.dev</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>TypeScript library, CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Reactive Agents is a type-safe, observable TypeScript AI agent framework built on Effect-TS with native MCP integration (stdio + streamable-http). It features a 12-phase execution engine and 6 reasoning strategies, and runs the same code on local Ollama (4B+) models and frontier APIs, with A2A multi-agent support.
+
 ## Servers
 
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
