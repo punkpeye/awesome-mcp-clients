@@ -19,6 +19,8 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 
 ## Community
 
+
+- [ai-delivery-spec](https://github.com/franklinxkk/ai-delivery-spec) - Product-side SDD framework with Interaction Ledger, FRR Gate, and AC-YAML for coding agents.
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
 
