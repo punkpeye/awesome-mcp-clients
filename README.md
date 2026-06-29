@@ -13,6 +13,15 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 * [Clients](#clients)
 * [Servers](#servers)
 
+
+## Skill Hub
+
+[Skill Hub](https://skill.442595.xyz/) — **4083+** AI Agent Skills across 22 functional categories.
+
+- 🛠️ **Dev Tools** · 🤖 **Agent Framework** · 🎨 **Design UI** · 📊 **Data AI** · 🔒 **Security** and more
+- 🔍 Platform: Claude Code, Codex, Cursor, OpenCode, Hermes
+- 🌐 Bilingual CN+EN  |  🐙 [GitHub](https://github.com/rdone4425/skill)
+
 ## What is MCP?
 
 [MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP clients that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
