@@ -34,6 +34,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Agent Bridge](#agent-bridge)
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
+    - [AionUi](#aionui)
     - [Ano](#ano)
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
@@ -276,6 +277,20 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 ![](./screenshots/aiaw/dark.png)
 
 </details>
+
+### AionUi
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/iOfficeAI/AionUi</td></tr>
+<tr><th align="left">Website</th><td>https://www.aionui.com</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+AionUi is a free, open-source, cross-platform desktop app for working with multiple AI agents, with full support for MCP servers. It works with any API key and any agent CLI/protocol (MCP, ACP), and adds multi-session chat, local data storage, file preview, scheduled tasks, and remote WebUI access.
 
 ### Ano
 
