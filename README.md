@@ -114,6 +114,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zin MCP Client](#zin-mcp-client)
     - [Qordinate](#qordinate)
     - [PraisonAI](#praisonai)
+    - [Talon](#talon)
   - [Servers](#servers)
 
 ### OpenClaw
@@ -2187,6 +2188,21 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 </table>
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
+
+### Talon
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/dylanneve1/talon</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Self-hosted AI Agent</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS, Docker</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Node.js, TypeScript</td></tr>
+</table>
+
+**Talon** is a self-hosted agentic harness that runs one persistent AI agent across Telegram, Discord, Teams, and the terminal, with full Model Context Protocol (MCP) tool access and a hot-reloadable MCP plugin system. Pluggable backends (Claude, OpenAI Agents, Codex, Kilo, OpenCode), always-on background agents (heartbeat, goals, dream), and a long-term memory palace.
+
 
 ## Servers
 
