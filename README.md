@@ -2191,3 +2191,5 @@ PraisonAI is a production-ready Multi-AI Agents framework with native MCP integr
 ## Servers
 
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
+
+Looking for Agent Skills? Check out [Skill Hub](https://skill.442595.xyz/) ([rdone4425/skill](https://github.com/rdone4425/skill)) — 4133+ AI Agent Skills classified across 22 categories, filterable by platform.
