@@ -2188,6 +2188,20 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
 
+### OpenAgentic
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/agentic-work/openagentic</td></tr>
+<tr><th align="left">Website</th><td>https://openagentics.io</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Platform</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Python</td></tr>
+</table>
+
+Self-hosted platform to build, orchestrate, and run production AI agents. Chat, no-code Flows, 11 built-in MCP tool servers (AWS, Azure, GCP, Kubernetes, Prometheus, Loki, GitHub, M365, Google, web), a human-approval and append-only audit gate, and a headless `oa` CLI/TUI. Runs on local Ollama or any cloud LLM. Zero telemetry, air-gap capable.
+
 ## Servers
 
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
