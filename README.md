@@ -114,6 +114,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zin MCP Client](#zin-mcp-client)
     - [Qordinate](#qordinate)
     - [PraisonAI](#praisonai)
+    - [gui-agent](#gui-agent)
   - [Servers](#servers)
 
 ### OpenClaw
@@ -2187,6 +2188,22 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 </table>
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
+
+### gui-agent
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/aralroca/gui-agent</td></tr>
+<tr><th align="left">Website</th><td>https://www.npmjs.com/package/@aralroca/gui-agent</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Library</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+gui-agent is an open-source, WebMCP-powered GUI agent that lives inside your web app. It registers your app's own actions as WebMCP tools on `document.modelContext` (via a polyfill) and discovers tools registered by other code, then runs a provider-agnostic agent loop that calls those tools and falls back to text-based DOM driving (read/click/fill/select) for anything not exposed. Bring your own LLM (with a ready-made Vercel AI SDK adapter), wire it to your own chat UI, and gate any non-read-only tool behind a human-in-the-loop confirmation. Ships React bindings and an optional in-page visualizer.
+
+`npm install @aralroca/gui-agent`
 
 ## Servers
 
