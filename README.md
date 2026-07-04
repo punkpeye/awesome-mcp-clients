@@ -131,6 +131,20 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 **OpenClaw** is a powerful open-source AI agent that connects to multiple messaging platforms (WhatsApp, Telegram, Discord) and supports Model Context Protocol (MCP) for tool integration. It features a robust plugin ecosystem and automated workflows.
 
 
+### Darkmoon
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/ASCIT31/Dark-Moon</td></tr>
+<tr><th align="left">Website</th><td>https://docs.dark-moon.org/</td></tr>
+<tr><th align="left">License</th><td>GPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>Autonomous AI Pentest Platform (MCP Host)</td></tr>
+<tr><th align="left">Platforms</th><td>Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+**Darkmoon** is an open source autonomous AI penetration testing platform that acts as an MCP host: Markdown methodology agents orchestrate 80+ offensive security tools through MCP controlled execution with agentic reasoning, producing an evidence trail per finding. It is model agnostic and tuned for Claude Opus, and covers web, cloud, Active Directory, Kubernetes, and API testing.
+
 ### askit-mcp
 
 <table>
