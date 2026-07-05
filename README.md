@@ -77,6 +77,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCPHost](#mcphost)
     - [MCP Playground](#mcp-playground)
     - [McPico](#mcpico)
+    - [mctop](#mctop)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
     - [Memex](#memex)
     - [MCPOmni Connect](#mcpomni-connect)
@@ -1283,6 +1284,20 @@ A simple CLI to run LLM prompt, attach files, discuss with MCP servers. For mult
 
 </details>
 
+
+### mctop
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/mctop-org/mctop</td></tr>
+<tr><th align="left">Website</th><td>https://mctop.org</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI, TUI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Go</td></tr>
+</table>
+
+A terminal client for MCP servers. Connect to any server, browse its tools, resources, and prompts, call them, and watch the result, without leaving the shell. Includes a scriptable non-interactive mode for CI, so you can smoke-test an MCP server on every commit.
 
 ### MCP Simple Slackbot
 
