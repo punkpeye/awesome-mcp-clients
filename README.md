@@ -2191,3 +2191,5 @@ PraisonAI is a production-ready Multi-AI Agents framework with native MCP integr
 ## Servers
 
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
+
+- [Context Kit](https://github.com/JDDavenport/context-kit) — 4 PCA templates (wiki, mental-models, voice, protocols) for persistent personal context across MCP clients. MIT.
