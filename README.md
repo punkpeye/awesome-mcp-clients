@@ -778,6 +778,20 @@ DocsGPT is a privacy-focused, open-source AI platform designed to create intelli
 
 </details>
 
+### DvalinCode
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/arthurpanhku/dvalincode</td></tr>
+<tr><th align="left">Website</th><td>https://dvalincode.dev</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI, Web GUI</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+**DvalinCode** is a local-first, provider-neutral AI coding agent whose MCP client is **governed**: every remote (Streamable HTTP) server is admitted by an org policy allowlist, each tool call passes a single policy + permission + audit chokepoint, connections are egress-controlled (blocked under `network: off`/`endpoint-only`), and every call is written to a tamper-evident, hash-chained audit log — with auth tokens kept out of the log. Works with any OpenAI-compatible model.
+
 ### Fastchat MCP
 
 <table>
