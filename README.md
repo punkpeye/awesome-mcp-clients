@@ -99,6 +99,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
     - [Witsy](#witsy)
+    - [Wisp](#wisp)
     - [Enconvo](#enconvo)
     - [y-cli](#y-cli)
     - [Yume](#yume)
@@ -1829,6 +1830,26 @@ Witsy is an AI desktop assistant supporting models from all major providers and 
 
 </details>
 
+### Wisp
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/SunnyLich/Wisp-AI-Assistant</td></tr>
+<tr><th align="left">Website</th><td>https://sunnylich.github.io/Wisp-AI-Assistant/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+Wisp is an AI overlay that can use any MCP server's tools, or give MCP clients your desktop context through Wisp's own MCP server.
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/Wisp/1st-demo-Text-Context.gif)
+![](./screenshots/Wisp/2nd-demo-Snip-Screen-Context.gif)
+![](./screenshots/Wisp/3rd-demo-App-Context.gif)
+</details>
 ### Enconvo
 
 <table>
