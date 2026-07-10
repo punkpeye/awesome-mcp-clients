@@ -1423,6 +1423,20 @@ Session-based AI development assistant with MCP support, 7 LLM providers, and ex
 
 </details>
 
+### Off Grid AI Desktop
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/off-grid-ai/off-grid-ai-desktop</td></tr>
+<tr><th align="left">Website</th><td>https://getoffgridai.co/desktop</td></tr>
+<tr><th align="left">License</th><td>AGPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Open-source macOS AI app that acts as a local MCP client/host with approval-gated actions. Runs LLM chat, image generation, dictation, and memory/RAG fully on-device.
+
 ### NextChat
 
 <table>
