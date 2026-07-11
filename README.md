@@ -82,6 +82,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
     - [Nerve](#nerve)
+    - [Nika](#nika)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
     - [oterm](#oterm)
@@ -1422,6 +1423,20 @@ Session-based AI development assistant with MCP support, 7 LLM providers, and ex
 [![asciicast](https://asciinema.org/a/wpZmOSOgFXp8HRzTltncgN7e3.svg)](https://asciinema.org/a/wpZmOSOgFXp8HRzTltncgN7e3)
 
 </details>
+
+### Nika
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/supernovae-st/nika</td></tr>
+<tr><th align="left">Website</th><td>https://nika.sh</td></tr>
+<tr><th align="left">License</th><td>AGPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>CLI, workflow runner</td></tr>
+<tr><th align="left">Platforms</th><td>macOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free (open source)</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust</td></tr>
+</table>
+
+**Nika** is a workflow language and runner for AI jobs where each job is one plain-text `.nika.yaml` DAG. As an MCP client, its `invoke:` verb calls tools on any MCP server from workflow tasks — with the whole file statically checked before a single token is spent (plan, types, secret flows, cost floor) and every run leaving a hash-chained trace. Fully local paths (mock, Ollama) need zero keys. The same binary also ships an MCP *server* (a read-only oracle: validate/explain workflow files), so it sits on both sides of the protocol.
 
 ### NextChat
 
