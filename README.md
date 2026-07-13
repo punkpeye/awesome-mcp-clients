@@ -2188,6 +2188,20 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
 
+### eVi
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/evi-assistant/evi-ai</td></tr>
+<tr><th align="left">Website</th><td>https://evi-ai.dev</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI, Web app, Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux, Docker</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, Rust, JavaScript</td></tr>
+</table>
+
+**eVi** is a local-first personal AI assistant — one Python core with CLI, web, and native desktop (Tauri) frontends. It talks to LLMs running on your own hardware (Ollama, LM Studio, llama.cpp, or any OpenAI-compatible endpoint) or via your own CLI-agent subscriptions, and adds tools (files, shell, web, voice, computer-use), long-term memory, and a scheduler. As an MCP client/host it connects to MCP servers with no cloud round-trip.
+
 ## Servers
 
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
