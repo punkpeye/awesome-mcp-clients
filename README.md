@@ -1466,6 +1466,20 @@ A terminal client for Ollama, with support for MCP servers.
 
 </details>
 
+### San
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/genai-io/san</td></tr>
+<tr><th align="left">Website</th><td>https://genai-io.github.io/san/</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Terminal / CLI</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Linux, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Go</td></tr>
+</table>
+
+San is a terminal-native runtime for specialized AI agents that runs Model Context Protocol (MCP) servers unmodified, alongside Claude Code skills, plugins, and subagents. It is provider-agnostic (Anthropic, OpenAI, Google, DeepSeek, Moonshot, Qwen, MiniMax, GLM), ships as a single ~12 MB binary with zero runtime dependencies, and adds swappable search backends, custom personas, sandboxed subagents, lifecycle hooks, and a self-evolving memory loop.
+
 ### Slack MCP Client
 
 <table>
