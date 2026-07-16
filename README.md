@@ -62,6 +62,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [FLUJO](#flujo)
     - [Goose](#goose)
     - [Glue](#glue)
+    - [Heym](#heym)
     - [HyperChat](#hyperchat)
     - [JDBCX](#jdbcx)
     - [kibitz](#kibitz)
@@ -937,6 +938,20 @@ Glue is a full-featured, thread-first team chat platform with a built-in AI agen
 ![Glue Create Issue](./screenshots/glue/glue-create-issue.png)
 
 </details>
+
+### Heym
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/heymrun/heym</td></tr>
+<tr><th align="left">Website</th><td>https://heym.run</td></tr>
+<tr><th align="left">License</th><td>MIT + Commons Clause</td></tr>
+<tr><th align="left">Type</th><td>AI workflow automation platform</td></tr>
+<tr><th align="left">Platforms</th><td>Web, Linux, MacOS, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free self-hosted</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, TypeScript</td></tr>
+</table>
+
+Heym is a self-hosted visual AI workflow platform whose Agent nodes connect to external MCP servers over stdio, SSE, and Streamable HTTP. Workflows can also be exposed as MCP tools over SSE or Streamable HTTP.
 
 ### HyperChat
 
