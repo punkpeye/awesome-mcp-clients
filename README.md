@@ -591,6 +591,20 @@ Cline can handle complex software development tasks step-by-step. With tools tha
 
 </details>
 
+### Conciergent
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/mroops0111/conciergent</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Self-hosted chatbot</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, MacOS, Windows, Docker</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+**Conciergent** gives the tools behind any MCP server (or an OpenAPI spec directly) a Slack, LINE, or Discord chat face for your own users, configured from a single YAML file. Each user completes their OAuth inside the conversation, destructive tools pause behind a Confirm/Cancel card, and the agent returns one structured reply that each surface renders natively as text, a card, or a carousel.
+
 ### console-chat-gpt
 
 <table>
