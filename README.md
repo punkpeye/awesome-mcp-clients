@@ -36,6 +36,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [AIaW](#aiaw)
     - [Ano](#ano)
     - [AstrBot](#AstrBot)
+    - [autoagent](#autoagent)
     - [Autohand Code CLI](#autohand-code-cli)
     - [AnythingLLM](#anythingllm)
     - [BrowseWiz](#browsewiz)
@@ -313,6 +314,20 @@ AstrBot is an Easy-to-use multi-platform LLM chatbot and development framework P
 ![webchat_interface](./screenshots/astrbot/chat_example.png)
 ![webchat_example](./screenshots/astrbot/chat_qq_example_without_avatar.png)
 </details>
+
+### autoagent
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/laazizi/autoagent</td></tr>
+<tr><th align="left">Website</th><td>https://pypi.org/project/autoagent-core/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Python library</td></tr>
+<tr><th align="left">Platforms</th><td>-</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+**autoagent** is a zero-dependency LLM agent runtime (standard library only, no SDKs) with a built-in [MCP](https://modelcontextprotocol.io/) client over the stdio transport. `mcp.mount(agent, prefix=..., include=...)` turns any MCP server's tools into ordinary agent tools, validated against the server's own JSON Schema by the local tool registry before every call; `isError` results surface as tool errors the model can react to. Multi-provider (OpenAI, Anthropic, DeepSeek, Gemini over raw wire), with code-level guardrails: a Docker sandbox for tools the agent writes itself, execution policies with human approval gates, and durable runs (checkpoint/resume).
 
 ### Autohand Code CLI
 
