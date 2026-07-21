@@ -938,6 +938,20 @@ Glue is a full-featured, thread-first team chat platform with a built-in AI agen
 
 </details>
 
+### Gumpbox Extensions
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/0xtrou/gumpbox-extensions</td></tr>
+<tr><th align="left">Website</th><td>https://gumpbox.com</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI, VSCode extension</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Open source client plugins for the Gumpbox app</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Gumpbox Extensions connects MCP hosts to Gumpbox's local MCP server through a stdio proxy. The CLI supports Claude Code, Codex, and Gemini, while the VSCode extension also works with Cursor, Windsurf, and Continue. Gumpbox provides AI-compatible Linux server management with SSH terminals, file transfer, tunnels, monitoring, workflows, and disposable sandboxes in a native Apple app.
+
 ### HyperChat
 
 <table>
