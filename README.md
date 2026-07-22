@@ -60,6 +60,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Fastchat MCP](#fastchat-mcp)
     - [Enola.dev](#enola)
     - [FLUJO](#flujo)
+    - [Gamut](#gamut)
     - [Goose](#goose)
     - [Glue](#glue)
     - [HyperChat](#hyperchat)
@@ -890,6 +891,26 @@ Think n8n + ChatGPT. **FLUJO** is a desktop application that integrates with MCP
 ![image](https://github.com/user-attachments/assets/91cd4525-9b13-4a5a-8f88-72efc11a913d)
 
 </details>
+
+### Gamut
+
+<table>
+<tr><th align="left">Website</th><td>https://gamut.so</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>AI Agent Platform</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+</table>
+
+[Gamut](https://gamut.so) is a persistent AI agent platform where agents run continuously in the cloud with access to 130+ MCP integrations. Agents connect to services like Gmail, Slack, GitHub, Notion, Salesforce, and more through MCP, enabling autonomous workflows that operate 24/7.
+
+Key features:
+
+- 130+ pre-built remote MCP integrations with OAuth-managed authentication
+- Persistent, always-on AI agents that run in the cloud
+- Built-in browser, code execution, scheduler, and webhook triggers
+- Agent template marketplace with 130+ ready-to-use templates
+- No local setup required — fully hosted with automatic tool discovery
 
 ### Goose
 
