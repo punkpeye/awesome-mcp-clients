@@ -90,6 +90,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Simple AI](#simple-ai)
+    - [Talon](#talon)
     - [Tambo](#tambo)
     - [Taskade](#taskade)
     - [Tester MCP Client](#tester-mcp-client)
@@ -1610,6 +1611,20 @@ Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
 Self-hosted multi-agent AI runtime. Acts as both an MCP client and an MCP server: connects agents to MCP servers and exposes its own agents as MCP tools for other clients. Supports 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and inbound connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix.
 
 `npm install -g @swarmclawai/swarmclaw`
+
+### Talon
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/dylanneve1/talon</td></tr>
+<tr><th align="left">Website</th><td>https://talon-agent.github.io</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Self-hosted AI agent harness, MCP client</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, macOS, Windows, Android</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Dart</td></tr>
+</table>
+
+**Talon** is a multi-platform agent harness for Telegram, Discord, Microsoft Teams, the terminal, and desktop/mobile companion apps. It connects pluggable Claude, Codex, OpenAI Agents, Kilo, and OpenCode backends to local and remote MCP servers, with hot-reloadable plugins, persistent goals, scheduled jobs, and long-term memory.
 
 ### Tambo
 
