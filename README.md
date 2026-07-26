@@ -63,6 +63,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Goose](#goose)
     - [Glue](#glue)
     - [HyperChat](#hyperchat)
+    - [Inferpal](#inferpal)
     - [JDBCX](#jdbcx)
     - [kibitz](#kibitz)
     - [LangBot](#LangBot)
@@ -971,6 +972,18 @@ HyperChat is an open Chat client that can use various LLM APIs to provide the be
 
 </details>
 
+### Inferpal
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/EstaxNet/Inferpal</td></tr>
+<tr><th align="left">License</th><td>GPL v3</td></tr>
+<tr><th align="left">Type</th><td>Visual Studio extension</td></tr>
+<tr><th align="left">Platforms</th><td>Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>C#</td></tr>
+</table>
+
+Inferpal is an agentic AI coding assistant for Visual Studio 2022/2026 powered entirely by local LLMs (Ollama, LM Studio, or any OpenAI-compatible server). The agent autonomously chains tool calls â€” reading and writing files, running commands, building, testing, and searching the codebase semantically â€” with every write and command behind an approval gate and a workspace sandbox. MCP servers can be attached over both stdio and Streamable HTTP (with OAuth), and their tools join the 26 built-in ones in the same agentic loop. Also includes inline ghost-text completions (FIM) and RAG. 100% local: no API key, no telemetry, no cloud.
 ### JDBCX
 
 <table>
