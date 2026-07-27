@@ -971,6 +971,20 @@ HyperChat is an open Chat client that can use various LLM APIs to provide the be
 
 </details>
 
+### IHUI-AI
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/IHUI-INF-AI/IHUI-AI</td></tr>
+<tr><th align="left">Website</th><td>https://ihui.ai</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Web app, Desktop app, Browser extension, Mobile app, CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS, Web, Android, iOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Python</td></tr>
+</table>
+
+IHUI-AI is an eight-platform full-stack AI operating system that unifies 176 LLMs through LangGraph + MCP + A2A triple-stack protocol. It ships an MCP client across web, desktop, browser extension, mobile, and CLI with multi-tenant RLS, a RAG knowledge base, and an agent marketplace.
+
 ### JDBCX
 
 <table>
