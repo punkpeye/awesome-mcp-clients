@@ -43,6 +43,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [CarrotAI](#carrotai)
     - [Chainlit](#chainlit)
     - [ChatMCP](#chatmcp)
+    - [Chaty](#chaty)
     - [Cherry Studio](#cherry-studio)
     - [Claude Desktop](#claude-desktop)
     - [Claude Code Open](#claude-code-open)
@@ -480,6 +481,20 @@ ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
 ![](./screenshots/chatmcp/settings.png)
 
 </details>
+
+### Chaty
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Fangyuan025/Chaty</td></tr>
+<tr><th align="left">Website</th><td>https://chaty.ca</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, TypeScript</td></tr>
+</table>
+
+Chaty is a private, fully offline desktop AI workspace with a built-in MCP client (stdio and Streamable HTTP), a curated server store, and per-call approval — running local GGUF (llama.cpp) and native MLX models with a coding agent, RAG and voice.
 
 ### Cherry Studio
 <table>
