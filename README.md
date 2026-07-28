@@ -95,6 +95,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tester MCP Client](#tester-mcp-client)
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
+    - [TUICommander](#tuicommander)
     - [Vercade](#vercade)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
@@ -1734,6 +1735,28 @@ Tome is an open source cross-platform desktop app designed for working with loca
 ![Chat](./screenshots/tome/chat.png)
 ![MCP Servers](./screenshots/tome/mcp.png)
 </details>
+
+### TUICommander
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/sstraus/tuicommander</td></tr>
+<tr><th align="left">Website</th><td>https://tuicommander.com</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Windows, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, TypeScript</td></tr>
+</table>
+
+TUICommander is a desktop workspace for running several AI coding agents in parallel, each in its own git worktree. It aggregates every configured MCP server into a single endpoint and auto-configures the agents it launches, so each agent connects once and reaches every upstream tool.
+
+**Key features:**
+
+- MCP Proxy Hub aggregates upstream MCP servers behind one endpoint, with health checks, circuit breakers and hot reload
+- Auto-configures MCP for Claude Code, Cursor, Windsurf, VS Code, Zed, Amp and Gemini
+- Agent state detection from terminal output: working, awaiting input, rate limited, idle
+- Built-in diff viewer, GitHub PR and issue panels, code editor and usage dashboard
+- Companion PWA for answering agent questions from a phone
 
 ### Vercade
 
