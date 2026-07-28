@@ -113,6 +113,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Agent-cli](#agent-cli)
     - [Zin MCP Client](#zin-mcp-client)
     - [Qordinate](#qordinate)
+    - [ARCC](#arcc)
     - [PraisonAI](#praisonai)
   - [Servers](#servers)
 
@@ -2171,6 +2172,34 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 ![example1](./screenshots/qordinate/slack.png)
 ![example2](./screenshots/qordinate/app.png)
 ![example3](./screenshots/qordinate/whatsapp.png)
+
+</details>
+
+### ARCC
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/niyongsheng/arcc</td></tr>
+<tr><th align="left">Website</th><td>https://juejin.cn/post/7650384140925812751</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI, TUI, Server daemon</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust</td></tr>
+</table>
+
+**ARCC** (A Rust Copilot CLI) is a local-first AI agent with CLI/TUI/Server modes and native MCP client support. It features dual-model scheduling (DeepSeek-V4 Pro/Flash), context compression, a 3-layer safety engine (allowlist + risk rating + interactive confirm), SQLite persistence, and JSON Lines audit logging. Runs 24/7 as a background daemon with Feishu (Lark) bot integration via SSE webhook.
+
+**Key Features:**
+- **MCP Client**: register external tools as MCP plugins
+- **ACP Protocol**: inter-agent communication routing
+- **3 Modes**: TUI (ratatui, ~60fps), CLI (one-shot/pipe), Server (axum daemon)
+- **Dual-Model**: auto-routes complex tasks to Pro, routine chat to Flash
+- **Safety**: 3-layer defense with interactive confirm for dangerous ops
+
+<details>
+<summary>Screenshots</summary>
+
+![ARCC TUI Demo](./screenshots/arcc/tui.png)
 
 </details>
 
