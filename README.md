@@ -83,6 +83,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP SuperAssistant](#mcp-superassistant)
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
+    - [Nimbus](#nimbus)
     - [Octomind](#octomind)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
@@ -1443,6 +1444,20 @@ Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP suppo
 ![](https://github.com/ChatGPTNextWeb/NextChat/blob/main/docs/images/cover.png)
 
 </details>
+
+### Nimbus
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/nimbus-agent/Nimbus</td></tr>
+<tr><th align="left">Website</th><td>https://nimbus-agent.dev</td></tr>
+<tr><th align="left">License</th><td>AGPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, macOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+**Nimbus** is a local-first AI agent for on-call and platform engineers. It runs as a headless gateway plus CLI on your own machine and indexes ~80 developer and infrastructure services — GitHub, GitLab, Jira, Slack, PagerDuty, Datadog, Sentry, Snowflake and more — through first-party MCP connectors, and hosts any third-party MCP server you register with `nimbus connector add --mcp`. MCP client support is tools. Every destructive or outbound action passes a human-in-the-loop consent gate that lives in the executor rather than the prompt, credentials stay in the OS keystore, and pointing it at a local Ollama model keeps prompts on the machine too.
 
 ### oterm
 
