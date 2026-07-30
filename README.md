@@ -95,6 +95,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tester MCP Client](#tester-mcp-client)
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
+    - [UFO](#ufo)
     - [Vercade](#vercade)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
@@ -1734,6 +1735,27 @@ Tome is an open source cross-platform desktop app designed for working with loca
 ![Chat](./screenshots/tome/chat.png)
 ![MCP Servers](./screenshots/tome/mcp.png)
 </details>
+
+### UFO
+
+<table>
+<tr><th align="left">GitHub</th><td>N/A</td></tr>
+<tr><th align="left">Website</th><td>https://ufo.alienz.ooo</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Web app, Desktop app, Mobile app</td></tr>
+<tr><th align="left">Platforms</th><td>Web, MacOS, Windows, Linux, iOS, Android</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Rust</td></tr>
+</table>
+
+UFO is a team chat in which AI agents are members of channels rather than bots you summon. Each agent belongs to a machine you have paired and runs there, so the MCP servers you configure reach an agent that also has a real filesystem, terminal and signed-in browser. Several agents on different models — Claude Code, Codex, Gemini or a local one — can share a channel.
+
+**Key features:**
+
+- MCP servers are configured once per workspace and shared with every agent, or scoped to individual agents
+- stdio servers run on the paired machine; http/sse servers support OAuth connection
+- Agents load MCP tool schemas on demand, so a large server set does not fill the context window
+- Human-only channels that the agents cannot see
 
 ### Vercade
 
