@@ -34,6 +34,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Agent Bridge](#agent-bridge)
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
+    - [AICraft](#aicraft)
     - [Ano](#ano)
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
@@ -276,6 +277,20 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 ![](./screenshots/aiaw/dark.png)
 
 </details>
+
+### AICraft
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Easlie114514/AICraft</td></tr>
+<tr><th align="left">Website</th><td>https://github.com/Easlie114514/AICraft</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, TypeScript</td></tr>
+</table>
+
+**AICraft** is a desktop AI capability launcher that manages LLM Skills, MCP tools, RAG, and memory via a visual UI. It supports both SSE and Stdio MCP connections, ships with built-in MCP servers (file manager + code executor), and offers one-click DeepSeek setup. Think of it as a "Minecraft launcher for AI capabilities" — toggle features on/off like mods. Portable exe for Windows, no installation required. | 桌面AI能力启动器，像Minecraft模组一样管理LLM技能、MCP工具和记忆，一键DeepSeek配置。
 
 ### Ano
 
