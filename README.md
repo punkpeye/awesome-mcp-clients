@@ -85,6 +85,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
     - [oterm](#oterm)
+    - [Ouroboros](#ouroboros)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
     - [Superinterface](#superinterface)
@@ -1465,6 +1466,20 @@ A terminal client for Ollama, with support for MCP servers.
 ![](./screenshots/oterm/mcp.svg)
 
 </details>
+
+### Ouroboros
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/razzant/ouroboros</td></tr>
+<tr><th align="left">Website</th><td>https://ouroboros-agent.ai</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, CLI</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Linux, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, JavaScript</td></tr>
+</table>
+
+Open-source general-purpose AI agent with a native desktop app and headless CLI. Its optional MCP client connects to trusted remote servers over Streamable HTTP or SSE, discovers tools at runtime, and runs them through the same safety checks as built-in tools.
 
 ### Slack MCP Client
 
