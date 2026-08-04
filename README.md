@@ -891,6 +891,15 @@ Think n8n + ChatGPT. **FLUJO** is a desktop application that integrates with MCP
 
 </details>
 
+### Foundry
+
+<table>
+<tr>
+<td><a href="https://github.com/harelos/foundry"><b>Foundry</b></a></td>
+<td>Zero-dependency local AI worker control room and multi-agent task runner built on Node.js. Serves as a client and host for local AI workers and MCP tools with real-time UI/CLI monitoring.</td>
+</tr>
+</table>
+
 ### Goose
 
 <table>
