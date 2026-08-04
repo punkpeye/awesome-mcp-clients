@@ -349,6 +349,20 @@ The all-in-one AI app you were looking for. Chat with your docs, use AI Agents, 
 
 </details>
 
+### BitFun
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/GCWing/BitFun</td></tr>
+<tr><th align="left">Website</th><td>https://openbitfun.com/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, TypeScript</td></tr>
+</table>
+
+An open-source desktop agent with a Rust runtime. Connects MCP servers alongside its own Code Agent and Computer Use tooling, so an agent can work inside a real repository and also drive the browser, terminal, and desktop applications.
+
 ### BrowseWiz
 
 <table>
