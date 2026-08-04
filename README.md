@@ -114,6 +114,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zin MCP Client](#zin-mcp-client)
     - [Qordinate](#qordinate)
     - [PraisonAI](#praisonai)
+    - [Bolt](#bolt)
   - [Servers](#servers)
 
 ### OpenClaw
@@ -2187,6 +2188,20 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 </table>
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
+
+### Bolt
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Bolt-builder/bolt-cli</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>PolyForm Noncommercial 1.0.0</td></tr>
+<tr><th align="left">Type</th><td>AI Agent</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Linux, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Bolt is an open-source AI coding agent for the terminal with persistent cross-session memory. It manages MCP servers end to end (add, OAuth, debug) via `bolt mcp`, ships ten specialized agents, and also runs as a desktop app.
 
 ## Servers
 
