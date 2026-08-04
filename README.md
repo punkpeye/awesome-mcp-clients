@@ -114,7 +114,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zin MCP Client](#zin-mcp-client)
     - [Qordinate](#qordinate)
     - [PraisonAI](#praisonai)
-  - [Arena Unified Bridge](#arena-unified-bridge)
+  - [Skainet Bridge](#skainet-bridge)
   - [Servers](#servers)
 
 ### OpenClaw
@@ -2189,7 +2189,7 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
 
-### Arena Unified Bridge
+### Skainet Bridge
 
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/IvanSkainet/arena-agent</td></tr>
@@ -2201,7 +2201,7 @@ PraisonAI is a production-ready Multi-AI Agents framework with native MCP integr
 <tr><th align="left">Programming Languages</th><td>Python</td></tr>
 </table>
 
-Arena Unified Bridge is a local automation bridge that is both an MCP client and an MCP server in one process. As a client it launches and connects to external stdio MCP servers, lists their tools and calls them (`mcp.add`, `mcp.ext_tools`, `mcp.ext_call`), so any registered server's tools become available to whichever model is driving the bridge. It also exposes 234 of its own tools across 44 namespaces over MCP and REST on the same port -- shell execution, filesystem, git, desktop input and window control, browser automation over CDP, Android via ADB, OCR/ASR, and persistent memory. A companion browser extension hands the same toolset to any chat UI, and execution is sandboxed (Windows AppContainer) behind a fail-closed policy posture with a kill-switch and an audit log.
+Skainet Bridge is a local automation bridge that is both an MCP client and an MCP server in one process. As a client it launches and connects to external stdio MCP servers, lists their tools and calls them (`mcp.add`, `mcp.ext_tools`, `mcp.ext_call`), so any registered server's tools become available to whichever model is driving the bridge. It also exposes 234 of its own tools across 44 namespaces over MCP and REST on the same port -- shell execution, filesystem, git, desktop input and window control, browser automation over CDP, Android via ADB, OCR/ASR, and persistent memory. A companion browser extension hands the same toolset to any chat UI, and execution is sandboxed (Windows AppContainer) behind a fail-closed policy posture with a kill-switch and an audit log.
 
 ## Servers
 
