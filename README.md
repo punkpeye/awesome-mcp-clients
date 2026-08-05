@@ -361,7 +361,7 @@ The all-in-one AI app you were looking for. Chat with your docs, use AI Agents, 
 <tr><th align="left">Programming Languages</th><td>Rust, TypeScript</td></tr>
 </table>
 
-An open-source desktop agent with a Rust runtime. Connects MCP servers alongside its own Code Agent and Computer Use tooling, so an agent can work inside a real repository and also drive the browser, terminal, and desktop applications.
+An open-source desktop agent with a Rust runtime. Instead of routing every task through one chat box, it builds the task its own interface — a chart, a board, a panel — and binds a conversation to that interface's live state. MCP servers plug in as tools alongside its built-in agents, and account login plus cross-device control run through a relay you self-host.
 
 ### BrowseWiz
 
