@@ -1182,6 +1182,20 @@ Modern AI chat framework with multi-model support: Features OpenAI, Anthropic Cl
 </details>
 
 ### MCP Chatbot
+### MCP Config Doctor
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://mcpconfigdoctor.online/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web (browser-local)</td></tr>
+<tr><th align="left">Platforms</th><td>Any modern browser</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Browser-local diagnostic that validates MCP client configuration files for Claude Code (JSONC), Codex CLI (TOML), Gemini CLI (JSON), and VS Code (JSONC). Checks structural shape, env/secret reference integrity, transport configuration, and timeout/command fields without sending config values to any server.
+
 
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/3choff/mcp-chatbot</td></tr>
