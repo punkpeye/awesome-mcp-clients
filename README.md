@@ -354,14 +354,14 @@ The all-in-one AI app you were looking for. Chat with your docs, use AI Agents, 
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/GCWing/BitFun</td></tr>
 <tr><th align="left">Website</th><td>https://openbitfun.com/</td></tr>
-<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">License</th><td>MIT (core code)</td></tr>
 <tr><th align="left">Type</th><td>Desktop app</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
 <tr><th align="left">Programming Languages</th><td>Rust, TypeScript</td></tr>
 </table>
 
-An open-source desktop agent with a Rust runtime. Instead of routing every task through one chat box, it builds the task its own interface — a chart, a board, a panel — and binds a conversation to that interface's live state. MCP servers plug in as tools alongside its built-in agents, and account login plus cross-device control run through a relay you self-host.
+A cross-platform desktop agent with a Rust runtime. Its Agentic Mini Apps turn tasks into persistent interfaces such as charts, boards, and panels whose live state stays bound to the conversation. MCP servers plug in as tools, and account login plus cross-device control can run through a self-hosted relay.
 
 ### BrowseWiz
 
