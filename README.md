@@ -62,6 +62,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [FLUJO](#flujo)
     - [Goose](#goose)
     - [Glue](#glue)
+    - [Grinta](#grinta)
     - [HyperChat](#hyperchat)
     - [JDBCX](#jdbcx)
     - [kibitz](#kibitz)
@@ -915,6 +916,22 @@ Goose is a general-purpose AI agent that can dynamically plug into new extension
 ![List Tools](./screenshots/goose/list%20tools.png)
 
 </details>
+
+### Grinta
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/josephsenior/Grinta-Coding-Agent</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI, terminal UI, coding agent</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+**Grinta** is a local-first terminal coding agent and MCP client. It connects to allowlisted local and remote MCP servers over stdio, HTTP, and SSE while keeping the control plane, durable event ledger, checkpoints, and recovery workflow local. It supports OpenAI, Anthropic, Google, OpenRouter, Ollama, and LM Studio, with policy gates for MCP actions.
+
+`pipx install grinta`
 
 ### Glue
 
