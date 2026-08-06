@@ -78,6 +78,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP Playground](#mcp-playground)
     - [McPico](#mcpico)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
+    - [mduct](#mduct)
     - [Memex](#memex)
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
@@ -1304,6 +1305,20 @@ A simple Slack bot that uses LLMs and the Model Context Protocol (MCP) tools.
 ![](./screenshots/mcp-simple-slackbot/demo.gif)
 
 </details>
+
+### mduct
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/TheFox666/mduct</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+A command-line client for MCP servers, with no model in the loop. A background daemon holds the connections, OAuth sessions and per-server allow/deny guards; the CLI calls a tool and prints its result, so it can be piped through jq, looped over in a script or run from cron. Plain CLIs such as kubectl are declared alongside MCP servers and called the same way. Tool schemas stay on disk and are fetched per tool, which keeps them out of an agent's context when mduct is wired into one.
 
 ### Memex
 
