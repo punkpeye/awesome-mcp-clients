@@ -114,6 +114,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zin MCP Client](#zin-mcp-client)
     - [Qordinate](#qordinate)
     - [PraisonAI](#praisonai)
+    - [CompozyOS](#compozyos)
   - [Servers](#servers)
 
 ### OpenClaw
@@ -2187,6 +2188,21 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 </table>
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
+
+### CompozyOS
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/compozy/compozy</td></tr>
+<tr><th align="left">Website</th><td>https://www.compozy.com</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Self-hosted agent operating system</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Go, TypeScript</td></tr>
+</table>
+
+**CompozyOS** is an open-source operating system for AI agents. It runs the agent CLIs you already use as a team on loops and schedules, gives them MCP servers as tools, and adds shared project memory, scoped permissions, approvals and an audit trail. A web shell supervises everything, and the same state is exposed over HTTP/SSE, a Unix socket and MCP. Single Go binary, SQLite-backed, local-first.
+
 
 ## Servers
 
