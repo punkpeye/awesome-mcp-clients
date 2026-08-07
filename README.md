@@ -971,6 +971,20 @@ HyperChat is an open Chat client that can use various LLM APIs to provide the be
 
 </details>
 
+### intentic
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/intentic/intentic</td></tr>
+<tr><th align="left">Website</th><td>https://intentic.dev</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web IDE, Desktop app, CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows (sandbox host); any browser</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Self-hosted workspace for coding agents, where MCP servers are connected per agent as capabilities and merged into the agent's tool set on every turn. Each agent runs in its own Docker container and git worktree on hardware you own, reachable from any browser or a phone, and MCP credentials are stored inside the sandbox rather than written into the workspace. Runs Claude Code, Codex, Grok and Kimi Code natively, plus OpenCode, Gemini CLI and any other ACP agent.
+
 ### JDBCX
 
 <table>
