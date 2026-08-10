@@ -1,4 +1,5 @@
 # Awesome MCP Clients [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+| [mcptoon](https://github.com/activeing123/mcptoon) | Token-efficient MCP CLI client. 97% less tokens on tool discovery using TOON format. Zero dependencies. | Alex Chen | Python |
 
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
