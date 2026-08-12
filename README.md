@@ -68,6 +68,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [LangBot](#LangBot)
     - [Klavis AI](#klavis-ai)
     - [Kiro](#kiro)
+    - [Lantern](#lantern)
     - [LibreChat](#librechat)
     - [Lutra](#lutra)
     - [mcp-agent](#mcp-agent)
@@ -1083,6 +1084,20 @@ Kiro is an AI assistant and IDE built to assist developers. Kiro helps you do yo
 ![MCP Integration](./screenshots/kiro/mcp-integration.png)
 
 </details>
+
+### Lantern
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Lantern-svg/lantern</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Agent library, CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, MacOS, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+Lantern is an auditable evidence/belief engine and inter-instance exchange protocol for AI agents. It keeps a hash-chained observation log (Chronicle) separate from what an agent actually believes, so claims received from other agents or MCP tools never automatically become trusted beliefs without local evidence evaluation. It includes an MCP client integration where tool discovery is treated strictly as capability discovery, never as authorization, plus a capability-authorization layer for inter-agent contact.
 
 ### LibreChat
 
