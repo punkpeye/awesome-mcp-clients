@@ -36,6 +36,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [AIaW](#aiaw)
     - [Ano](#ano)
     - [AstrBot](#AstrBot)
+    - [Atomic Agent](#atomic-agent)
     - [Autohand Code CLI](#autohand-code-cli)
     - [AnythingLLM](#anythingllm)
     - [BrowseWiz](#browsewiz)
@@ -313,6 +314,22 @@ AstrBot is an Easy-to-use multi-platform LLM chatbot and development framework P
 ![webchat_interface](./screenshots/astrbot/chat_example.png)
 ![webchat_example](./screenshots/astrbot/chat_qq_example_without_avatar.png)
 </details>
+
+### Atomic Agent
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/AtomicBot-ai/atomic-agent</td></tr>
+<tr><th align="left">Website</th><td>https://atomicagent.io</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI, TUI</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+**Atomic Agent** is a local-first coding and agentic assistant for the terminal, with MCP support for connecting external tools and resources. It runs open-weight models entirely on your machine through a llama.cpp fork, so no account or API key is required. It ships 56 built-in tools (browser, filesystem, git, memory, vision), a five-layer local memory system, and a TUI built on React and ink.
+
+`curl -fsSL https://atomicagent.io/install | sh`
 
 ### Autohand Code CLI
 
