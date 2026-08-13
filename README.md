@@ -104,6 +104,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Yume](#yume)
     - [Zed](#zed)
     - [MindPal](#mindpal)
+    - [Mongrel](#mongrel)
     - [WhatsMCP](#whatsmcp)
     - [Runbear](#runbear)
     - [BoltAI](#boltai)
@@ -1938,6 +1939,20 @@ Key features:
 ![](./screenshots/mindpal/mcp-integration.jpg)
 
 </details>
+
+### Mongrel
+
+<table>
+<tr><th align="left">GitHub</th><td>N/A</td></tr>
+<tr><th align="left">Website</th><td>https://www.visorcraft.com/mongrel</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Paid (7-day trial)</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Rust</td></tr>
+</table>
+
+**Mongrel** is a cross-platform desktop database workbench that includes a built-in MCP client. It connects to local stdio and Streamable HTTP MCP servers, supports tool discovery, prompts/resources, and reviewed tool execution alongside SQL/NoSQL work.
 
 ### WhatsMCP
 
