@@ -1084,6 +1084,20 @@ Kiro is an AI assistant and IDE built to assist developers. Kiro helps you do yo
 
 </details>
 
+### Kolega Code
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/kolega-ai/kolega-code</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>AI Agent</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+Kolega Code is a local-first terminal coding agent where the model writes its own multi-agent workflows (Gigacode). It connects to MCP servers over streamable HTTP, SSE, and stdio, including OAuth-enabled HTTP servers.
+
 ### LibreChat
 
 <table>
