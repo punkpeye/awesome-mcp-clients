@@ -95,6 +95,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tester MCP Client](#tester-mcp-client)
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
+    - [toolnexus](#toolnexus)
     - [Vercade](#vercade)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
@@ -1734,6 +1735,24 @@ Tome is an open source cross-platform desktop app designed for working with loca
 ![Chat](./screenshots/tome/chat.png)
 ![MCP Servers](./screenshots/tome/mcp.png)
 </details>
+
+### toolnexus
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/muthuishere/toolnexus</td></tr>
+<tr><th align="left">Website</th><td>https://muthuishere.github.io/toolnexus/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Library / SDK</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>JavaScript, Python, Go, Java, C#, Elixir, Clojure</td></tr>
+</table>
+
+**toolnexus** is an agent SDK — the tool-calling loop, skills injection, MCP tools, and
+conversation memory — that ports the same conformance suite byte-identical across seven
+languages instead of shipping once and porting later.
+
+`npm i toolnexus` / `pip install toolnexus` / `go get github.com/muthuishere/toolnexus/golang`
 
 ### Vercade
 
