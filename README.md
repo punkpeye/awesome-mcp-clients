@@ -81,6 +81,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Memex](#memex)
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
+    - [Musaeus](#musaeus)
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
@@ -1380,6 +1381,20 @@ Add MCP Capabilities to Chatgpt, Gemini, Grok, Google AI Studio, DeepSeek, AI St
 ![](./screenshots/mcp-superassistant/chatgpt.jpg)
 
 </details>
+
+### Musaeus
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/MUSE-CODE-SPACE/musaeus</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>CLI, Python library</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+**Musaeus** is a local-first LLM agent and teaching codebase with a minimal, dependency-light MCP client (JSON-RPC 2.0 over stdio). It connects to any MCP server to discover and call tools, runs on a local model via Ollama by default (or Claude/GPT/Gemini with one flag), and keeps every concept — MCP included — in its own small, readable module.
 
 ### Nerve
 
