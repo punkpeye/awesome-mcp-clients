@@ -2188,6 +2188,20 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
 
+### Tracefold
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/TraceFold/tracefold</td></tr>
+<tr><th align="left">Website</th><td>https://github.com/TraceFold/tracefold</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>CLI, MCP Proxy / Interceptor</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, macOS, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free (Open Source)</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust</td></tr>
+</table>
+
+Tracefold is a verified transformation calculus and CLI proxy (`gx wrap`) for MCP tool executions and filesystem mutations. It escrows verified pre-commit inverses before effects land, producing signed offline-verifiable DSSE receipts and Merkle tile logs.
+
 ## Servers
 
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
