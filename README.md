@@ -1457,7 +1457,7 @@ Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP suppo
 <tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
 </table>
 
-**Nimbus** is a local-first AI agent for on-call and platform engineers. It runs as a headless gateway plus CLI on your own machine and indexes ~80 developer and infrastructure services — GitHub, GitLab, Jira, Slack, PagerDuty, Datadog, Sentry, Snowflake and more — through first-party MCP connectors, and hosts any third-party MCP server you register with `nimbus connector add --mcp`. MCP client support is tools. Every destructive or outbound action passes a human-in-the-loop consent gate that lives in the executor rather than the prompt, credentials stay in the OS keystore, and pointing it at a local Ollama model keeps prompts on the machine too.
+**Nimbus** is a local-first AI agent for on-call and platform engineers. It runs as a headless gateway plus CLI on your own machine and indexes 94 developer and infrastructure services — GitHub, GitLab, Jira, Slack, PagerDuty, Datadog, Sentry, Snowflake and more — through first-party MCP connectors, and hosts any third-party MCP server you register with `nimbus connector add --mcp`. MCP client support is tools. Every destructive or outbound action passes a human-in-the-loop consent gate that lives in the executor rather than the prompt, credentials stay in the OS keystore, and pointing it at a local Ollama model keeps prompts on the machine too.
 
 ### oterm
 
