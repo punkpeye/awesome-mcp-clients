@@ -1595,6 +1595,20 @@ Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
 
 </details>
 
+### SandBase CLI
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/sandbaseai/cli</td></tr>
+<tr><th align="left">Website</th><td>https://sandbase.ai</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>CLI, local MCP server</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, macOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free and open source</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+SandBase CLI connects Claude Code, Cursor, Codex, ChatGPT, Hermes, OpenClaw, and other MCP clients to more than 2,000 AI models and APIs through one local MCP server, with OAuth and rollback support.
+
 ### SwarmClaw
 
 <table>
