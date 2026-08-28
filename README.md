@@ -87,6 +87,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
+    - [SandBase CLI](#sandbase-cli)
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Simple AI](#simple-ai)
@@ -1518,6 +1519,20 @@ No-code MCP clients for Slack, Microsoft Teams, and Discord with full support fo
 ![](./screenshots/runbear/teams-mcp-client.png)
 
 </details>
+
+### SandBase CLI
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/sandbaseai/cli</td></tr>
+<tr><th align="left">Website</th><td>https://www.sandbase.ai</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>CLI / MCP bridge</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+An open-source CLI and local MCP bridge that lets supported AI clients discover and use 2,000+ SandBase models and APIs through one provider-neutral integration.
 
 ### Superinterface
 
