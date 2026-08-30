@@ -78,6 +78,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP Playground](#mcp-playground)
     - [McPico](#mcpico)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
+    - [mcpx](#mcpx)
     - [Memex](#memex)
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
@@ -1304,6 +1305,26 @@ A simple Slack bot that uses LLMs and the Model Context Protocol (MCP) tools.
 ![](./screenshots/mcp-simple-slackbot/demo.gif)
 
 </details>
+
+### mcpx
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/lydakis/mcpx</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, MacOS, Windows (via WSL2)</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Go</td></tr>
+</table>
+
+**mcpx** turns MCP servers into composable CLIs. `mcpx` lists servers, `mcpx <server>` lists tools, and `mcpx <server> <tool>` calls a tool. Every tool gets schema-aware `--help`. Tool-call output passes through unchanged for pipes and `jq`.
+
+Import servers from Cursor, Claude Code, Codex, Cline, and Kiro with `mcpx import`. OAuth via `mcpx auth login` stores tokens in the OS keychain. Optional agent skill: `mcpx skill install`.
+
+`brew tap lydakis/mcpx && brew install --cask mcpx`
+
+Also `npm install -g mcpx-go` and `pip install mcpx-go`.
 
 ### Memex
 
