@@ -99,6 +99,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
     - [Witsy](#witsy)
+    - [WorkGround2](#workground2)
     - [Enconvo](#enconvo)
     - [y-cli](#y-cli)
     - [Yume](#yume)
@@ -1828,6 +1829,20 @@ Witsy is an AI desktop assistant supporting models from all major providers and 
 ![](./screenshots/witsy/mcp.jpg)
 
 </details>
+
+### WorkGround2
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/KiddPhenix/WorkGround2</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI, Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, macOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Go</td></tr>
+</table>
+
+**WorkGround2** is a local-first AI engineering workbench (one Go binary with a CLI/TUI and desktop app) that connects to Model Context Protocol (MCP) servers via stdio, Streamable HTTP, and SSE. It supports multiple models (DeepSeek, OpenAI-compatible, Anthropic, local CLI providers) with tool permission checks, sandboxing, and checkpoint/rewind for recoverable edits.
 
 ### Enconvo
 
