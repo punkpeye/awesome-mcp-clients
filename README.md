@@ -85,6 +85,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
     - [oterm](#oterm)
+    - [Pudding](#pudding)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
     - [Superinterface](#superinterface)
@@ -1465,6 +1466,20 @@ A terminal client for Ollama, with support for MCP servers.
 ![](./screenshots/oterm/mcp.svg)
 
 </details>
+
+### Pudding
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/teatak/pudding</td></tr>
+<tr><th align="left">Website</th><td>https://x-t.top</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free during early preview</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Go</td></tr>
+</table>
+
+Pudding is a local-first macOS AI workspace with independent sessions, a built-in browser and terminal, reviewable file changes, canvas artifacts, skills, and MCP app support.
 
 ### Slack MCP Client
 
