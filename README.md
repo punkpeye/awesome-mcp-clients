@@ -37,6 +37,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Ano](#ano)
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
+    - [BIT](#bit)
     - [AnythingLLM](#anythingllm)
     - [BrowseWiz](#browsewiz)
     - [Canvas MCP Client](#canvas-mcp-client)
@@ -327,6 +328,27 @@ AstrBot is an Easy-to-use multi-platform LLM chatbot and development framework P
 </table>
 
 Autohand Code CLI is a self-evolving autonomous coding agent with native MCP integration for external tool access. It supports 40+ built-in tools, multiple LLM providers (OpenRouter, Anthropic, OpenAI, Ollama), semantic code search, and a modular skills system, all from the terminal.
+
+### BIT
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/yxpil/bit</td></tr>
+<tr><th align="left">Website</th><td>https://osbt.space</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, macOS, Linux, ChromeOS (Crostini)</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, TypeScript, React</td></tr>
+</table>
+
+BIT is a local-first AI agent hub for the desktop: it connects to external MCP servers and merges their tools into a built-in registry (shell, files, plans, memory, skills), while also acting as an MCP server itself, exposing the whole registry at <code>POST /mcp</code> for other clients. Includes an OpenAI-compatible /v1 API with client-key and access-password auth (off by default) and a full audit log of every tool invocation.
+
+**Key Features:**
+- **MCP Client & Server**: bidirectional — consume external servers, expose your tools
+- **Self-growing tools**: the agent writes and registers its own scripts as tools
+- **Local-first**: no cloud, no telemetry; works with any OpenAI/Gemini/Claude-protocol provider
+- **Remote access**: OpenAI-compatible /v1 API + MCP endpoint with dual auth
+- **Audit log**: every tool call recorded
 
 ### AnythingLLM
 
