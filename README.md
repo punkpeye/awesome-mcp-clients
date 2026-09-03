@@ -349,6 +349,20 @@ The all-in-one AI app you were looking for. Chat with your docs, use AI Agents, 
 
 </details>
 
+### Bernstein
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/sipyourdrink-ltd/bernstein</td></tr>
+<tr><th align="left">Website</th><td>https://bernstein.run</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>CLI orchestrator</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, MacOS, Windows, Docker</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+Bernstein is a governance layer for AI agents. It runs agent workloads (Claude Code, Codex, Gemini CLI, Aider, Cursor, and 40+ more) in parallel git worktrees under a deterministic scheduler. Each spawned agent inherits an MCP client config so that downstream tools speak MCP. Bundles its own MCP server mode for the orchestrator state, plus an opt-in HMAC-SHA256 chained audit log per task, verifiable offline.
+
 ### BrowseWiz
 
 <table>
