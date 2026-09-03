@@ -33,6 +33,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [5ire](#5ire)
     - [Agent Bridge](#agent-bridge)
     - [AgentOne](#agentone)
+    - [AI WorkDeck](#ai-workdeck)
     - [AIaW](#aiaw)
     - [Ano](#ano)
     - [AstrBot](#AstrBot)
@@ -251,6 +252,34 @@ Learn more on the [website](https://www.agent-one.dev), [docs](https://docs.agen
 
 ![Screenshot of AgentOne chat UI](./screenshots/agent-one/1.png)
 ![Screenshot of AgentOne settings page on account tab](./screenshots/agent-one/2.png)
+
+</details>
+
+### AI WorkDeck
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/zeweihan/aiworkdeck</td></tr>
+<tr><th align="left">Website</th><td>https://www.aiworkdeck.com</td></tr>
+<tr><th align="left">License</th><td><a href="https://github.com/zeweihan/aiworkdeck/blob/master/legal/LICENSE">AGPL-3.0</a></td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free (community edition; AI usage in the official build is metered)</td></tr>
+<tr><th align="left">Programming Languages</th><td>Java, TypeScript</td></tr>
+</table>
+
+**AI WorkDeck** is a desktop workbench for lawyers and other document-heavy work, built by a practicing lawyer. A whole matter lives in one window: files, an agent panel, an evidence pane, a browser and version history. The agent calls MCP servers (Streamable HTTP) for legal databases and company registries, and its edits land in the document as character-level tracked changes the user accepts or rejects.
+
+**Feature:**
+
+- **MCP client**: Configurable list of MCP servers (Streamable HTTP) used as agent tools, e.g. case-law and statute search, company registry lookup.
+- **Office-grade editor**: LibreOffice compiled to WebAssembly runs inside the app; real .docx, tracked changes, comments, CJK fonts and IME.
+- **Human in the loop**: AI output is diffed into tracked changes; nothing is applied without accept/reject.
+- **Beyond the desktop**: Microsoft Office and WPS add-ins share the same backend; an iOS companion drops evidence photos into the matter folder; plugin SDK and marketplace.
+- **Local-first**: Files stay on the machine; self-hosted deployments can use local models via Ollama.
+
+<details>
+<summary>Screenshots</summary>
+
+![preview](./screenshots/ai-workdeck/preview.png)
 
 </details>
 
