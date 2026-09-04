@@ -84,6 +84,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
+    - [OpenHuman](#openhuman)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
@@ -1443,6 +1444,20 @@ Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP suppo
 ![](https://github.com/ChatGPTNextWeb/NextChat/blob/main/docs/images/cover.png)
 
 </details>
+
+### OpenHuman
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/tinyhumansai/openhuman</td></tr>
+<tr><th align="left">Website</th><td>https://tinyhumans.ai/openhuman</td></tr>
+<tr><th align="left">License</th><td>GPL3</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, TypeScript</td></tr>
+</table>
+
+OpenHuman is an open-source, local-first personal AI desktop app and MCP client. It connects to thousands of MCP servers, runs agents and workflows on your machine, and routes to local models via Ollama and LM Studio or to any provider with your own key.
 
 ### oterm
 
