@@ -1444,6 +1444,20 @@ Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP suppo
 
 </details>
 
+### OpenMasq
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/openmasq/openmasq</td></tr>
+<tr><th align="left">Website</th><td>https://openmasq.com</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Windows, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+OpenMasq is a desktop chat for any LLM (your own API keys, a local model, or a Claude Code/Codex subscription) whose MCP client is *redacting*: sensitive data (names, national IDs, IBANs, cards, documents) is redacted on-device before the prompt reaches the model, tool calls leave with the real values (a search for a substitute finds nobody) and their results come back redacted through the same per-conversation vault. Ships connectors for Gmail, Drive, Calendar, Slack, GitHub, Notion, Linear, Sentry, PostHog, a filesystem server and an agent-driven browser, plus a local MCP broker for on-device OAuth.
+
 ### oterm
 
 <table>
