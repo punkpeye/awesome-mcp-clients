@@ -80,6 +80,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
     - [Memex](#memex)
     - [MCPOmni Connect](#mcpomni-connect)
+    - [MCPOrbit](#mcporbit)
     - [MCP SuperAssistant](#mcp-superassistant)
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
@@ -1359,6 +1360,20 @@ A powerful universal CLI client for MCP Servers that provides seamless integrati
 ![mcp_client_new1](https://github.com/user-attachments/assets/9c4eb3df-d0d5-464c-8815-8f7415a47fce)
 
 </details>
+
+### MCPOrbit
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://mcporbit.com</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>macOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, React</td></tr>
+</table>
+
+**MCPOrbit** is a macOS desktop client for exploring, testing, and inspecting Model Context Protocol servers. Connect to a server, browse the tools it exposes along with their input schemas, call a tool from a generated parameter form, and read the response. It also browses the official MCP registry, runs two servers side by side to compare their output, and exports a server's config for Claude Desktop, Cursor, or Windsurf. Requires macOS 14 or later on Apple silicon. Free, no account required.
 
 ### MCP SuperAssistant
 
