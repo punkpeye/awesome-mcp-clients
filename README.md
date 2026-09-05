@@ -98,6 +98,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Vercade](#vercade)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
+    - [WorkBuddy](#workbuddy)
     - [Witsy](#witsy)
     - [Enconvo](#enconvo)
     - [y-cli](#y-cli)
@@ -1806,6 +1807,20 @@ The first agentic IDE, and then some. The Windsurf Editor is where the work of d
 ![Adding New MCP Server](./screenshots/windsurf/easy-add-mcp-servers.png)
 ![Settings Interface](./screenshots/windsurf/settings-cascade-mcp.png)
 </details>
+
+### WorkBuddy
+
+<table>
+<tr><th align="left">GitHub</th><td>N/A</td></tr>
+<tr><th align="left">Website</th><td>https://www.workbuddy.ai/</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>N/A</td></tr>
+</table>
+
+Tencent WorkBuddy is an AI agent workspace that supports [Model Context Protocol (MCP)](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide) connections for bringing external tools and data into agent workflows. See the [official documentation](https://www.workbuddy.ai/docs/zh/workbuddy/) for setup and permissions, and [Awesome WorkBuddy](https://github.com/sandbaseai/awesome-workbuddy) for a community-maintained index of Skills, MCP integrations, workflows, and safety notes.
 
 ### Witsy
 
