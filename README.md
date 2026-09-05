@@ -97,6 +97,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tome](#tome)
     - [Vercade](#vercade)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
+    - [Vyact](#vyact)
     - [Windsurf](#windsurf)
     - [Witsy](#witsy)
     - [Enconvo](#enconvo)
@@ -1784,6 +1785,26 @@ VS Code integrates MCP with GitHub Copilot through [agent mode](https://code.vis
 - Easy server debugging with restart commands and output logging
 - Tool calls with editable inputs and always-allow toggle
 - Integration with existing VS Code extension system to register MCP servers from extensions
+
+### Vyact
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/vyact/vyact</td></tr>
+<tr><th align="left">License</th><td>AGPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, macOS (Apple Silicon), Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Python</td></tr>
+</table>
+
+[Vyact](https://github.com/vyact/vyact) is an open-source desktop AI workspace that connects local and hosted language models to MCP tools and a document RAG knowledge base.
+
+**Key Features:**
+
+- Connect local and remote MCP servers using stdio, SSE, or Streamable HTTP.
+- Configure MCP servers and select tools in the AI Tools settings.
+- Use local models through llama.cpp and MLX, or connect a hosted provider.
+- Retrieve context from indexed documents and notes during conversations.
 
 ### Windsurf
 
