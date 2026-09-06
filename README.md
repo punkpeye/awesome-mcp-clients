@@ -1229,7 +1229,7 @@ A simple CLI to run LLM prompt and implement MCP client.
 <tr><th align="left">Programming Languages</th><td>Python</td></tr>
 </table>
 
-**mcptoon** is a token-efficient MCP CLI client that sits between your AI agent and MCP servers. Tool schemas never enter your context window — only the compact result you request does. Supports 255+ tools with 99.87% token savings. Zero dependencies, zero bundled servers, works with any agent that runs shell commands (Claude Code, Cursor, Codex, etc.). v0.5.1 adds HTTP serve mode for remote/multi-agent access, batch JSON-RPC, Streamable HTTP transport, and `mcptoon demo` one-command demo.
+**mcptoon** is a token-efficient MCP CLI client that sits between your AI agent and MCP servers. Tool schemas never enter your context window — only the compact result you request does. Discovery for 255 tools costs 581 tokens instead of 71,929 (99.2% saved, measured with tiktoken cl100k_base). Zero dependencies, zero bundled servers, works with any agent that runs shell commands (Claude Code, Cursor, Codex, etc.). Recent releases add HTTP serve mode for remote/multi-agent access, batch JSON-RPC, Streamable HTTP transport, and a `mcptoon demo` one-command demo.
 
 `pip install mcptoon`
 
