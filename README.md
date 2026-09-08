@@ -34,6 +34,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Agent Bridge](#agent-bridge)
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
+    - [AiraCode](#airacode)
     - [Ano](#ano)
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
@@ -276,6 +277,20 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 ![](./screenshots/aiaw/dark.png)
 
 </details>
+
+### AiraCode
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/airachat/airacode</td></tr>
+<tr><th align="left">Website</th><td>https://airacode.ir</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+AiraCode is a Persian-first agentic coding CLI with persistent project memory. It connects to MCP servers for tools, resources and prompts.
 
 ### Ano
 
