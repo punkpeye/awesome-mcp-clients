@@ -48,6 +48,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Claude Code Open](#claude-code-open)
     - [ClaudeMind](#claudemind)
     - [Cline](#cline)
+    - [Conduit](#conduit)
     - [console-chat-gpt](#console-chat-gpt)
     - [ContextKit](#contextkit)
     - [Copilot-MCP](#copilot-mcp)
@@ -590,6 +591,31 @@ Cline can handle complex software development tasks step-by-step. With tools tha
 ![](./screenshots/cline/cline-demo.gif)
 
 </details>
+
+### Conduit
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/runningpixels/conduit</td></tr>
+<tr><th align="left">Website</th><td>https://conduitllm.com</td></tr>
+<tr><th align="left">License</th><td>AGPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Rust</td></tr>
+</table>
+
+**Conduit** is a local-first desktop AI client that connects to eleven model providers using your own API keys. Conversations, attachments, and artifacts are stored in a local SQLite database, and requests go directly from your machine to the provider with no intermediary proxy.
+
+**Features:**
+
+- **Bring your own key**: Anthropic, OpenAI, Google Gemini, Ollama, LM Studio, OpenRouter, Groq, DeepSeek, Mistral, OpenCode Zen, and any OpenAI-compatible endpoint.
+- **MCP connectors**: local servers run as supervised child processes over stdio, with per-call consent.
+- **Remote MCP servers**: streamable HTTP with OAuth, reached from your own machine rather than via a cloud relay, plus one-click install by name from the official MCP registry.
+- **Artifacts**: documents and code that live beside the conversation, including sandboxed interactive HTML.
+- **Local-only mode**: paired with Ollama or LM Studio, makes no outbound internet requests at all.
+- **OS keychain**: keys are stored in Windows Credential Manager, macOS Keychain, or Linux Secret Service rather than in a config file.
+
+Pre-1.0 and under active development. Binaries are not yet OS code-signed, so Windows SmartScreen and macOS Gatekeeper warn on first launch; building from source avoids this.
 
 ### console-chat-gpt
 
