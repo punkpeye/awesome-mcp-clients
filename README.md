@@ -48,6 +48,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Claude Code Open](#claude-code-open)
     - [ClaudeMind](#claudemind)
     - [Cline](#cline)
+    - [Conduit](#conduit)
     - [console-chat-gpt](#console-chat-gpt)
     - [ContextKit](#contextkit)
     - [Copilot-MCP](#copilot-mcp)
@@ -608,12 +609,13 @@ Cline can handle complex software development tasks step-by-step. With tools tha
 **Features:**
 
 - **Bring your own key**: Anthropic, OpenAI, Google Gemini, Ollama, LM Studio, OpenRouter, Groq, DeepSeek, Mistral, OpenCode Zen, and any OpenAI-compatible endpoint.
-- **MCP connectors**: local tool processes run under supervision, with per-call consent.
+- **MCP connectors**: local servers run as supervised child processes over stdio, with per-call consent.
+- **Remote MCP servers**: streamable HTTP with OAuth, reached from your own machine rather than via a cloud relay, plus one-click install by name from the official MCP registry.
 - **Artifacts**: documents and code that live beside the conversation, including sandboxed interactive HTML.
 - **Local-only mode**: paired with Ollama or LM Studio, makes no outbound internet requests at all.
 - **OS keychain**: keys are stored in Windows Credential Manager, macOS Keychain, or Linux Secret Service rather than in a config file.
 
-Currently at `v0.1.0-rc.1`. Binaries are not yet OS code-signed, so Windows SmartScreen and macOS Gatekeeper warn on first launch; building from source avoids this.
+Pre-1.0 and under active development. Binaries are not yet OS code-signed, so Windows SmartScreen and macOS Gatekeeper warn on first launch; building from source avoids this.
 
 ### console-chat-gpt
 
