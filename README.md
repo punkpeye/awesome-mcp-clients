@@ -1763,6 +1763,27 @@ LLM discord bot with MCP support, customizable personality and scheduling
 
 </details>
 
+### VibeFuse
+
+<table>
+<tr><th align="left">GitHub</th><td>N/A (closed source)</td></tr>
+<tr><th align="left">Website</th><td>https://fuseintelligence.org/products/vibefuse</td></tr>
+<tr><th align="left">License</th><td>Proprietary (free)</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, JavaScript</td></tr>
+</table>
+
+Free Windows desktop harness that runs Claude Code, OpenAI Codex CLI, Gemini CLI, Cursor, and Qwen as live PTY widgets on one canvas, with a built-in MCP panel. Sellers keep 80% on the marketplace for AI skills and widgets (Stripe Connect).
+
+**Key Features:**
+
+- Built-in MCP panel supporting Google Workspace/Drive, GitHub, Copilot, Discord, Linear, and custom stdio servers
+- Runs multiple AI coding agents side by side as live, isolated PTY widgets on one canvas
+- Local voice loop (Whisper STT + Piper TTS) and Jarvis wake word, fully offline
+- Named, cloneable agent sessions for comparing parallel approaches
+
 ### VS Code GitHub Copilot
 
 <table>
