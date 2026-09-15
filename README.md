@@ -84,6 +84,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
+    - [OpenWorkBuddy](#openworkbuddy)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
@@ -1422,6 +1423,20 @@ Session-based AI development assistant with MCP support, 7 LLM providers, and ex
 [![asciicast](https://asciinema.org/a/wpZmOSOgFXp8HRzTltncgN7e3.svg)](https://asciinema.org/a/wpZmOSOgFXp8HRzTltncgN7e3)
 
 </details>
+
+### OpenWorkBuddy
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/CatCatUncle/openworkbuddy</td></tr>
+<tr><th align="left">Website</th><td>https://catcatuncle.github.io/openworkbuddy/</td></tr>
+<tr><th align="left">License</th><td>PolyForm Noncommercial 1.0.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free (non-commercial) / Commercial license available</td></tr>
+<tr><th align="left">Programming Languages</th><td>JavaScript, Node.js, Electron</td></tr>
+</table>
+
+OpenWorkBuddy is a local-first AI office agent that hands you files, not chat logs. It runs an agent loop against your own models (BYOK, including local Ollama) and connects to MCP servers to produce real deliverables: PPTX, DOCX, XLSX, HTML pages, diagrams, generated images and videos. Ships with an infinite canvas for organizing multi-step work and 24 built-in skills. No account, no cloud round-trip - everything stays on your machine.
 
 ### NextChat
 
