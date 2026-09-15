@@ -112,6 +112,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [AdaL](#adal)
     - [Agent-cli](#agent-cli)
     - [Zin MCP Client](#zin-mcp-client)
+    - [Qivreno](#qivreno)
     - [Qordinate](#qordinate)
     - [PraisonAI](#praisonai)
   - [Servers](#servers)
@@ -2150,6 +2151,22 @@ Lightweight, Fast, Simple, CLI MCP Client for MCP Servers. Supporting TUI, stdio
 
 </details>
 
+
+### Qivreno
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/272Solutions/QIVRENO</td></tr>
+<tr><th align="left">Website</th><td>https://qivreno.ai</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, multi-agent workspace</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, TypeScript</td></tr>
+</table>
+
+**Qivreno** is a local-first desktop app for running a team of AI agents that delegate to each other and move work across a shared kanban board. It connects to MCP servers over stdio and exposes their tools to every agent alongside its built-in tools. Agents can run fully offline on a bundled llama.cpp engine, or be pointed individually at Claude, Codex, Gemini or Grok.
+
+`brew tap 272solutions/tap && brew trust 272solutions/tap && brew install --cask qivreno`
 
 ### Qordinate
 
