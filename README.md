@@ -2188,6 +2188,20 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
 
+### Strands Agents
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/strands-agents/harness-sdk</td></tr>
+<tr><th align="left">Website</th><td>https://strandsagents.com</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Agent SDK, library</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, TypeScript</td></tr>
+</table>
+
+Strands Agents is an open-source SDK for building AI agents in Python and TypeScript with built-in MCP client support. Its `MCPClient` connects to MCP servers over stdio, Streamable HTTP, and SSE, then discovers and invokes their tools inside the agent loop. Supports tool filtering, tool name prefixing, elicitation, progress notifications, and OAuth (client-credentials) for HTTP servers, and can combine tools from multiple MCP servers in a single agent.
+
 ## Servers
 
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
