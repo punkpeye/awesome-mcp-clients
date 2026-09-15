@@ -95,6 +95,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tester MCP Client](#tester-mcp-client)
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
+    - [Vellum](#vellum)
     - [Vercade](#vercade)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
@@ -1734,6 +1735,26 @@ Tome is an open source cross-platform desktop app designed for working with loca
 ![Chat](./screenshots/tome/chat.png)
 ![MCP Servers](./screenshots/tome/mcp.png)
 </details>
+
+### Vellum
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/vellum-ai/vellum-assistant</td></tr>
+<tr><th align="left">Website</th><td>https://vellum.ai</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, Web app</td></tr>
+<tr><th align="left">Platforms</th><td>macOS, Web, iOS, Android</td></tr>
+<tr><th align="left">Pricing</th><td>Free to self-host; managed hosting available</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Vellum is a personal AI assistant with MCP integrations, persistent memory, and scheduled tasks. It supports self-hosting and local models through Ollama.
+
+**Key features:**
+
+- Connects to MCP servers to access tools and resources.
+- Retains context across conversations and connected channels.
+- Supports multiple model providers and local Ollama models.
 
 ### Vercade
 
