@@ -38,6 +38,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
     - [AnythingLLM](#anythingllm)
+    - [Bifrost](#bifrost)
     - [BrowseWiz](#browsewiz)
     - [Canvas MCP Client](#canvas-mcp-client)
     - [CarrotAI](#carrotai)
@@ -348,6 +349,20 @@ The all-in-one AI app you were looking for. Chat with your docs, use AI Agents, 
 ![](./screenshots/anythingllm/anythingllm.png)
 
 </details>
+
+### Bifrost
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/maximhq/bifrost</td></tr>
+<tr><th align="left">Website</th><td>https://docs.getbifrost.ai/overview</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Self-hosted LLM and MCP gateway</td></tr>
+<tr><th align="left">Platforms</th><td>Docker, self-hosted</td></tr>
+<tr><th align="left">Pricing</th><td>Free, open-source</td></tr>
+<tr><th align="left">Programming Languages</th><td>Go</td></tr>
+</table>
+
+Bifrost is an OpenAI-compatible LLM and MCP gateway that lets MCP clients discover and use tools through provider routing, tool filtering, and request-level controls.
 
 ### BrowseWiz
 
