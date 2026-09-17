@@ -69,6 +69,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Klavis AI](#klavis-ai)
     - [Kiro](#kiro)
     - [LibreChat](#librechat)
+    - [localmd](#localmd)
     - [Lutra](#lutra)
     - [mcp-agent](#mcp-agent)
     - [LobeHub](#lobehub)
@@ -1104,6 +1105,20 @@ Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API,
 ![](./screenshots/librechat/librechat.webp)
 
 </details>
+
+### localmd
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/whitefoxx/localmd</td></tr>
+<tr><th align="left">Website</th><td>https://localmd.app</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web (Chrome, Edge)</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Vue</td></tr>
+</table>
+
+**localmd** is a browser-only AI knowledge base: a static web page that opens a folder on your disk through the File System Access API and runs an agent over the Markdown, PDFs and EPUBs inside it. Remote MCP servers are added by URL (Streamable HTTP, with OAuth sign-in); servers that refuse browser CORS can be reached through the optional localmd Connect extension. No backend, no account, bring your own model key.
 
 ### Lutra
 
