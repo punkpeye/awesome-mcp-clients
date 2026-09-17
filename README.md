@@ -68,6 +68,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [LangBot](#LangBot)
     - [Klavis AI](#klavis-ai)
     - [Kiro](#kiro)
+    - [KinetAios](#kinetaios)
     - [LibreChat](#librechat)
     - [Lutra](#lutra)
     - [mcp-agent](#mcp-agent)
@@ -1083,6 +1084,20 @@ Kiro is an AI assistant and IDE built to assist developers. Kiro helps you do yo
 ![MCP Integration](./screenshots/kiro/mcp-integration.png)
 
 </details>
+
+### KinetAios
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/phinn/KinetAios</td></tr>
+<tr><th align="left">Website</th><td>https://phinn.github.io/KinetAios/</td></tr>
+<tr><th align="left">License</th><td>GPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free (BYOK)</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Local-first multi-engine AI agent dashboard that works as an MCP client: auto-discovers MCP servers configured in `~/.claude.json`, `~/.codex/config.toml` and Claude Desktop, connects over stdio with auto-reconnect, and exposes their tools to the agent. Runs Claude Code, Codex and a built-in ReAct engine side-by-side, and also ships a built-in MCP server (HTTP+SSE) so remote machines can invoke your local agent.
 
 ### LibreChat
 
