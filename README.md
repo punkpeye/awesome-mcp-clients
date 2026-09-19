@@ -93,6 +93,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tambo](#tambo)
     - [Taskade](#taskade)
     - [Tester MCP Client](#tester-mcp-client)
+    - [Thursday](#thursday)
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
     - [Vercade](#vercade)
@@ -1685,6 +1686,22 @@ Key features:
 ![](./screenshots/tester-mcp-client/chat-ui.png)
 
 </details>
+
+### Thursday
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/cgoinglove/thursday</td></tr>
+<tr><th align="left">Website</th><td>https://www.npmjs.com/package/thursday-agent</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web app (runs locally)</td></tr>
+<tr><th align="left">Platforms</th><td>macOS (Linux should work)</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Thursday is a voice assistant that runs on your computer. A voice call hands work to background bots, and the bots call the MCP servers you connect: remote or stdio, OAuth sign-in in a popup, tool search across servers, and up to ten tools pinned per bot.
+
+`npx thursday-agent`
 
 ### Tiles Notebook
 
