@@ -35,6 +35,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
     - [Ano](#ano)
+    - [Anselm](#anselm)
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
     - [AnythingLLM](#anythingllm)
@@ -290,6 +291,20 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 </table>
 
 **Ano** is a collaborative chat and workspace for devs that features a native in-app terminal and integrated AI (like Claude Code). It is built as an MCP client, allowing users to run local CLIs, trigger custom automations, and connect to any Model Context Protocol (MCP) server directly from their channels.
+
+### Anselm
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Cookiezisg/Anselm</td></tr>
+<tr><th align="left">Website</th><td>https://anselm.website</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, agentic workflow platform</td></tr>
+<tr><th align="left">Platforms</th><td>macOS, Linux, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Go, Dart</td></tr>
+</table>
+
+**Anselm** is a local-first agentic workflow platform where the AI builds the workflow for you: describe an outcome in chat and it creates the functions, agents, schedule and approval step as editable, versioned entities, then runs them durably on your machine (node results are memoized in SQLite, so a crashed run resumes without repeating side effects). MCP servers are mounted as tools on Agents and as action nodes in workflows. Works with a managed free tier, Ollama, any OpenAI-compatible endpoint, or your own OpenAI / Gemini / DeepSeek / Qwen keys.
 
 ### AstrBot
 <table>
