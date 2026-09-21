@@ -323,7 +323,7 @@ AstrBot is an Easy-to-use multi-platform LLM chatbot and development framework P
 <tr><th align="left">License</th><td>Proprietary</td></tr>
 <tr><th align="left">Type</th><td>Desktop app, CLI</td></tr>
 <tr><th align="left">Platforms</th><td>macOS, Linux, Windows</td></tr>
-<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Pricing</th><td>Free app, paid Atlarix Core</td></tr>
 <tr><th align="left">Programming Languages</th><td>TypeScript, Rust</td></tr>
 </table>
 
