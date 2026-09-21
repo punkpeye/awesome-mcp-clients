@@ -36,6 +36,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [AIaW](#aiaw)
     - [Ano](#ano)
     - [AstrBot](#AstrBot)
+    - [Atlarix](#atlarix)
     - [Autohand Code CLI](#autohand-code-cli)
     - [AnythingLLM](#anythingllm)
     - [BrowseWiz](#browsewiz)
@@ -312,6 +313,28 @@ AstrBot is an Easy-to-use multi-platform LLM chatbot and development framework P
 ![view_tools](./screenshots/astrbot/plugins.png)
 ![webchat_interface](./screenshots/astrbot/chat_example.png)
 ![webchat_example](./screenshots/astrbot/chat_qq_example_without_avatar.png)
+</details>
+
+### Atlarix
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://atlarix.dev</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, CLI</td></tr>
+<tr><th align="left">Platforms</th><td>macOS, Linux, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free app, paid Atlarix Core</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Rust</td></tr>
+</table>
+
+Atlarix is a desktop agent workstation and MCP client for macOS, Linux and Windows. MCP servers are configured per workspace, added by hand or installed in one click from a public marketplace index (with OAuth connectors), and their tools are called on demand or on a schedule through MCP triggers. It runs against managed Atlarix Core models, your own API keys, or local models via Ollama and LM Studio; retrieval is purely lexical with no index or embeddings, and file writes and shell commands wait for approval inside a per-OS write-confining sandbox.
+
+<details>
+<summary>Screenshots</summary>
+
+![Atlarix MCP server configuration](./screenshots/atlarix/mcp-server-configuration.png)
+![Atlarix MCP marketplace](./screenshots/atlarix/mcp-marketplace.png)
+
 </details>
 
 ### Autohand Code CLI
