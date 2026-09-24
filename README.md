@@ -2188,6 +2188,20 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
 
+### MOOGH
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/youlemei2022-web/moogh-desktop-agent</td></tr>
+<tr><th align="left">Website</th><td>https://www.aimoogh.com/</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Paid (pay-per-use, top-ups from 1 USD)</td></tr>
+<tr><th align="left">Programming Languages</th><td>-</td></tr>
+</table>
+
+**MOOGH** is a desktop AI agent (Windows 10/11 x64, MacOS builds published on the official download page) that plans a task, asks for approval before each action, then carries it out on your own machine. It implements MCP 2025-06-18, ships with 22 preconfigured MCP servers, supports both stdio and streamable HTTP transports with OAuth for remote servers, and uses the same `.mcp.json` + `mcpServers` configuration shape as Claude Desktop.
+
 ## Servers
 
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
