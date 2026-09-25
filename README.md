@@ -113,6 +113,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Agent-cli](#agent-cli)
     - [Zin MCP Client](#zin-mcp-client)
     - [Qordinate](#qordinate)
+    - [Podiom](#podiom)
     - [PraisonAI](#praisonai)
   - [Servers](#servers)
 
@@ -2173,6 +2174,20 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 ![example3](./screenshots/qordinate/whatsapp.png)
 
 </details>
+
+### Podiom
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Podiom/Podiom</td></tr>
+<tr><th align="left">Website</th><td>https://github.com/Podiom/Podiom/tree/master/docs</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI, Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Go, TypeScript</td></tr>
+</table>
+
+Podiom is a local-first workspace for running Claude Code and OpenAI Codex as named agents with durable sessions, projects, and scheduled work. It keeps one MCP catalogue for the workspace, merging in the servers each provider is already configured with, and projects the servers assigned to an agent into that agent's Claude or Codex config.
 
 ### PraisonAI
 
