@@ -938,6 +938,20 @@ Glue is a full-featured, thread-first team chat platform with a built-in AI agen
 
 </details>
 
+### Grunz
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://grunzai.com</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux, Web</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>-</td></tr>
+</table>
+
+Chat and coding agent running abliterated open-weight models (Qwen, DeepSeek, GLM, Kimi). Connects MCP servers, edits files across a repository, runs commands and researches the web. Desktop app for MacOS, Windows and Linux plus a browser version, with no account required.
+
 ### HyperChat
 
 <table>
