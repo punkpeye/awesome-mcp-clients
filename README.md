@@ -96,6 +96,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
     - [Vercade](#vercade)
+    - [vixl](#vixl)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
     - [Witsy](#witsy)
@@ -1760,6 +1761,27 @@ LLM discord bot with MCP support, customizable personality and scheduling
 <summary>Screenshots</summary>
 
 ![Vercade Discord assistant](./screenshots/vercade/k2.png)
+
+</details>
+
+### vixl
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/vixl-ai/vixl</td></tr>
+<tr><th align="left">Website</th><td>https://vixl.app/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Vue, Rust</td></tr>
+</table>
+
+vixl is a local-first desktop coding agent. Bring your own keys. MCP over stdio, http, and sse. The workbench has an editor, terminals, and git.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/vixl/app.png)
 
 </details>
 
