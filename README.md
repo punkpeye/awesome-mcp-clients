@@ -81,6 +81,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Memex](#memex)
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
+    - [Moka](#moka)
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
@@ -1378,6 +1379,32 @@ Add MCP Capabilities to Chatgpt, Gemini, Grok, Google AI Studio, DeepSeek, AI St
 <summary>Screenshots</summary>
 
 ![](./screenshots/mcp-superassistant/chatgpt.jpg)
+
+</details>
+
+### Moka
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/mokahq/mokalabs</td></tr>
+<tr><th align="left">Website</th><td>https://mokahq.github.io/mokalabs/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web app (local), CLI, Docker</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+**Moka** is a local playground and inspector for MCP servers and AI agents. Chat with any LLM (OpenAI, Anthropic, Gemini, Azure, Ollama or any OpenAI-compatible endpoint), add MCP servers over stdio, Streamable HTTP or SSE (or paste a Claude Desktop / Cursor config), and see every tool call and raw JSON-RPC message in a live inspector. Supports OAuth sign-in, elicitation, sampling, tool approvals, resources, prompts, MCP Apps and A2UI generative UI, and can also front A2A / AG-UI agents.
+
+`npx @mokalabs/sandbox`
+
+<details>
+<summary>Screenshots</summary>
+
+![Chat with tool calls and the inspector](./screenshots/moka/chat.png)
+![A2UI generative UI](./screenshots/moka/a2ui.png)
+![MCP App](./screenshots/moka/mcp-app.png)
+![MCP server settings](./screenshots/moka/settings-mcp.png)
 
 </details>
 
