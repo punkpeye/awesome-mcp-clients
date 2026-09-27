@@ -84,6 +84,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
+    - [OmniGet](#omniget)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
@@ -1420,6 +1421,27 @@ Session-based AI development assistant with MCP support, 7 LLM providers, and ex
 <summary>Screenshots</summary>
 
 [![asciicast](https://asciinema.org/a/wpZmOSOgFXp8HRzTltncgN7e3.svg)](https://asciinema.org/a/wpZmOSOgFXp8HRzTltncgN7e3)
+
+</details>
+
+### OmniGet
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/tonhowtf/omniget</td></tr>
+<tr><th align="left">Website</th><td>https://getomniget.com</td></tr>
+<tr><th align="left">License</th><td>GPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, TypeScript</td></tr>
+</table>
+
+OmniGet is a desktop downloader that also runs Claude Code, Codex, Gemini CLI and local models (Ollama, LM Studio, llama-server) as agents. Its MCP client connects those agents to the MCP servers you add, and each tool is granted per agent as auto, ask or deny. OmniGet is also an MCP server: other clients can queue and track downloads through it.
+
+<details>
+<summary>Screenshots</summary>
+
+![OmniGet running an agent loop](https://raw.githubusercontent.com/tonhowtf/omniget/main/assets/readme/agents-loop.gif)
 
 </details>
 
