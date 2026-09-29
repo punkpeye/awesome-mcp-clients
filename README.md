@@ -84,6 +84,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
+    - [OpenBot](#openbot)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
@@ -1441,6 +1442,27 @@ Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP suppo
 <summary>Screenshots</summary>
 
 ![](https://github.com/ChatGPTNextWeb/NextChat/blob/main/docs/images/cover.png)
+
+</details>
+
+### OpenBot
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/regnull/openbot</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web app, Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Linux, Web (self-hosted)</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, TypeScript</td></tr>
+</table>
+
+Self-hosted platform for running a team of persistent AI bots. Each bot can use tools from any MCP server (remote or stdio, with OAuth), picked per bot, along with built-in shell, file, and HTTP tools. Bots keep long-term memory, hand work to each other in shared threads, and can pause to ask a human before a sensitive action. Works with OpenRouter, OpenAI, Anthropic, xAI, or a local Ollama server.
+
+<details>
+<summary>Screenshots</summary>
+
+![](https://github.com/regnull/openbot/blob/main/docs/images/openbot-screenshot.png)
 
 </details>
 
