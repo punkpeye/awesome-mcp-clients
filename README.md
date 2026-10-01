@@ -85,6 +85,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
     - [oterm](#oterm)
+    - [oxi](#oxi)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
     - [Superinterface](#superinterface)
@@ -1463,6 +1464,28 @@ A terminal client for Ollama, with support for MCP servers.
 
 ![](./screenshots/oterm/chat.png)
 ![](./screenshots/oterm/mcp.svg)
+
+</details>
+
+### oxi
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/maziluiosif/oxi</td></tr>
+<tr><th align="left">Website</th><td>https://maziluiosif.github.io/oxi/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop App</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust</td></tr>
+</table>
+
+**oxi** is a native, local-first coding-agent desktop app built with Rust and egui (no Electron). It connects to MCP servers and exposes their tools to the agent behind an explicit approval prompt, and works with local GGUF models it downloads and serves via llama-server, Ollama/LM Studio, hosted APIs, or Claude Code/Cursor/Codex over ACP. It also ships a code editor, Git panel and embedded terminal.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/oxi/agent-run.png)
+![](./screenshots/oxi/editor-git.png)
 
 </details>
 
