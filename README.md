@@ -1485,6 +1485,7 @@ A terminal client for Ollama, with support for MCP servers.
 <summary>Screenshots</summary>
 
 ![](./screenshots/oxi/agent-run.png)
+![](./screenshots/oxi/editor-git.png)
 
 </details>
 
