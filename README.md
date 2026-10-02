@@ -34,6 +34,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Agent Bridge](#agent-bridge)
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
+    - [AiRC Orchestration](#airc-orchestration)
     - [Ano](#ano)
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
@@ -276,6 +277,29 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 ![](./screenshots/aiaw/dark.png)
 
 </details>
+
+### AiRC Orchestration
+
+<table>
+<tr><th align="left">GitHub</th><td><a href="https://github.com/AiRC-ai/AiRC-Orchestration">AiRC Orchestration</a></td></tr>
+<tr><th align="left">Website</th><td><a href="https://airc.ai/">AiRC.ai</a></td></tr>
+<tr><th align="left">License</th><td><a href="https://github.com/AiRC-ai/AiRC-Orchestration/blob/main/LICENSE">Proprietary</a></td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Personal evaluation available; other uses require written authorization. Model-provider charges may apply.</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, TypeScript</td></tr>
+</table>
+
+[AiRC Orchestration](https://github.com/AiRC-ai/AiRC-Orchestration) is a desktop AI agent orchestrator and MCP client for coding, research, and automation. A primary agent delegates work to configurable model teams, follows their tool activity, and combines their results within persistent projects, goals, and plans.
+
+Key features:
+
+- Local MCP servers over stdio and remote servers over Streamable HTTP, with tool discovery and execution.
+- Configurable parallel agent swarms using supported local and hosted providers, including local Ollama, remote Ollama servers, Ollama Cloud, and DeepSeek. Multiple workers can use the same model or different models, subject to configured concurrency and provider limits.
+- Scoped worker tasks and tools, visible sub-agent sessions, and optional review by a separate model.
+- Project-aware history, approval controls, and scheduled workflows.
+
+[Downloads and installation](https://github.com/AiRC-ai/AiRC-Orchestration/releases/latest).
 
 ### Ano
 
