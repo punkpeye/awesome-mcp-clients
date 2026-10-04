@@ -90,6 +90,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Simple AI](#simple-ai)
+    - [Syl](#syl)
     - [Tambo](#tambo)
     - [Taskade](#taskade)
     - [Tester MCP Client](#tester-mcp-client)
@@ -1610,6 +1611,20 @@ Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
 Self-hosted multi-agent AI runtime. Acts as both an MCP client and an MCP server: connects agents to MCP servers and exposes its own agents as MCP tools for other clients. Supports 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and inbound connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix.
 
 `npm install -g @swarmclawai/swarmclaw`
+
+### Syl
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://www.usesyl.com</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Web app, Desktop app, Mobile app</td></tr>
+<tr><th align="left">Platforms</th><td>Web, desktop, mobile</td></tr>
+<tr><th align="left">Pricing</th><td>Paid plans from $49/month; see https://www.usesyl.com/pricing</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+[Syl](https://www.usesyl.com) is an app for building a team of AI teammates. Teammates connect to tools through MCP servers, share conversations to hand work to each other, and get an on-demand computer, persistent memory and scheduled routines. Bring your own AI provider or pay as you go.
 
 ### Tambo
 
