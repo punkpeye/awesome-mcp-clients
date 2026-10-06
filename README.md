@@ -83,6 +83,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP SuperAssistant](#mcp-superassistant)
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
+    - [NSE MCP Explorer](#nse-mcp-explorer)
     - [Octomind](#octomind)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
@@ -1443,6 +1444,27 @@ Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP suppo
 ![](https://github.com/ChatGPTNextWeb/NextChat/blob/main/docs/images/cover.png)
 
 </details>
+
+### NSE MCP Explorer
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/imagine154/nse-mcp-explorer</td></tr>
+<tr><th align="left">Website</th><td>https://imagine154.github.io/nse-mcp-explorer/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux (self-hosted, Node.js)</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Interactive MCP client and playground for the official NSE India (National Stock Exchange) MCP servers, which provide live quotes and 5 years of end-of-day market data. It discovers tools with `tools/list`, generates input forms from each tool's JSON Schema, and shows every result as charts/tables alongside the parsed data and the raw JSON-RPC exchange.
+
+Key Features:
+- **Tool explorer** - Run all tools from both NSE servers with schema-validated forms and visual result views
+- **Protocol log** - Inspect every JSON-RPC request/response, session IDs and HTTP status
+- **Guided examples & recipes** - Runnable walkthroughs plus multi-tool compositions with analytics
+- **Optional AI agent** - Claude chooses NSE tools on its own to answer questions
+- **Offline mode** - Built-in mock MCP server replaying recorded responses
 
 ### oterm
 
