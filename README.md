@@ -1406,7 +1406,7 @@ Nerve is an ADK ( Agent Development Kit ) and CLI designed to be a simple yet po
 
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/muvon/octomind</td></tr>
-<tr><th align="left">Website</th><td>https://muvon.io</td></tr>
+<tr><th align="left">Website</th><td>https://octomind.run</td></tr>
 <tr><th align="left">License</th><td>Apache 2.0</td></tr>
 <tr><th align="left">Type</th><td>CLI</td></tr>
 <tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
@@ -1414,7 +1414,7 @@ Nerve is an ADK ( Agent Development Kit ) and CLI designed to be a simple yet po
 <tr><th align="left">Programming Languages</th><td>Rust</td></tr>
 </table>
 
-Session-based AI development assistant with MCP support, 7 LLM providers, and extensible architecture. Features plan-first workflow, semantic code search, and persistent memory.
+Token-efficient, model-agnostic AI agent runtime in one Rust binary. MCP client for stdio and Streamable HTTP servers (OAuth included) that can enable servers mid-session, plus interactive, piped, daemon, WebSocket, and ACP modes. Features adaptive cache-aware context compaction, guardrails as code, and shareable specialist agents (taps).
 
 <details>
 <summary>Screenshots</summary>
