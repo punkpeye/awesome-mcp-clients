@@ -62,6 +62,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [FLUJO](#flujo)
     - [Goose](#goose)
     - [Glue](#glue)
+    - [Golem](#golem)
     - [HyperChat](#hyperchat)
     - [JDBCX](#jdbcx)
     - [kibitz](#kibitz)
@@ -937,6 +938,20 @@ Glue is a full-featured, thread-first team chat platform with a built-in AI agen
 ![Glue Create Issue](./screenshots/glue/glue-create-issue.png)
 
 </details>
+
+### Golem
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/abubakarsiddik31/golem</td></tr>
+<tr><th align="left">Website</th><td>https://abubakarsiddik31.github.io/golem/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>AI Agent Framework</td></tr>
+<tr><th align="left">Platforms</th><td>Cross-platform</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Go</td></tr>
+</table>
+
+Golem is a Go framework for building dependable AI agents with compile-time type safety, zero external dependencies, and native Model Context Protocol (MCP) client support over both stdio and streaming HTTP (SSE).
 
 ### HyperChat
 
