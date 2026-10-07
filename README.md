@@ -38,6 +38,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
     - [AnythingLLM](#anythingllm)
+    - [Bees](#bees)
     - [BrowseWiz](#browsewiz)
     - [Canvas MCP Client](#canvas-mcp-client)
     - [CarrotAI](#carrotai)
@@ -348,6 +349,20 @@ The all-in-one AI app you were looking for. Chat with your docs, use AI Agents, 
 ![](./screenshots/anythingllm/anythingllm.png)
 
 </details>
+
+### Bees
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Bees-bot/bees-desktop</td></tr>
+<tr><th align="left">Website</th><td>https://bees.bot</td></tr>
+<tr><th align="left">License</th><td>MIT or Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>macOS, Windows, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>JavaScript, Rust</td></tr>
+</table>
+
+Bees runs a team of AI agents on your own computer. A goal becomes stages on a shared board, each stage has its own agent, and a separate reviewer checks the work before it moves on. Each agent gets its own MCP servers. Works with local models through bundled llama.cpp or your own OpenAI, Anthropic, OpenRouter or Google keys, and keys and logins stay on your machine.
 
 ### BrowseWiz
 
