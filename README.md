@@ -35,6 +35,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
     - [Ano](#ano)
+    - [apowerb](#apowerb)
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
     - [AnythingLLM](#anythingllm)
@@ -290,6 +291,20 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 </table>
 
 **Ano** is a collaborative chat and workspace for devs that features a native in-app terminal and integrated AI (like Claude Code). It is built as an MCP client, allowing users to run local CLIs, trigger custom automations, and connect to any Model Context Protocol (MCP) server directly from their channels.
+
+### apowerb
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/apowerb/apowerb</td></tr>
+<tr><th align="left">Website</th><td>https://docs.apowerb.com/</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>Self-hosted AI agent platform (web UI and REST API)</td></tr>
+<tr><th align="left">Platforms</th><td>Docker Compose, Kubernetes (Helm)</td></tr>
+<tr><th align="left">Pricing</th><td>Free (open source)</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, JavaScript</td></tr>
+</table>
+
+**apowerb** is an open-source platform to build, run and govern AI agents in production. Any MCP server can be attached to an agent as a tool source over HTTP; the `stdio` transport is opt-in because it runs a command on the host. MCP tools sit alongside built-in business tools, RAG and Text-to-SQL, and agents run from the web UI, the REST API, by email or on a schedule, with token quotas and a per-session audit trail.
 
 ### AstrBot
 <table>
