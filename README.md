@@ -38,6 +38,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
     - [AnythingLLM](#anythingllm)
+    - [Aworkit](#aworkit)
     - [BrowseWiz](#browsewiz)
     - [Canvas MCP Client](#canvas-mcp-client)
     - [CarrotAI](#carrotai)
@@ -346,6 +347,28 @@ The all-in-one AI app you were looking for. Chat with your docs, use AI Agents, 
 <summary>Screenshots</summary>
 
 ![](./screenshots/anythingllm/anythingllm.png)
+
+</details>
+
+### Aworkit
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/fuleshu/Aworkit</td></tr>
+<tr><th align="left">Website</th><td>https://www.klutzgames.com/aworkit/</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Rust</td></tr>
+</table>
+
+**Aworkit** is a free, open-source MCP host for the desktop: it runs the models and executes each chat as one selected agent workflow — a graph of model calls, tools, conditions, loops and approvals that you open and reshape on a drag-and-drop canvas. Model location is irrelevant to it, so a local model, an OpenAI-compatible hosted API or an external coding agent such as Codex are all first-class, and workflows are portable JSON. It connects to MCP servers configured in the app with explicit trust, pinned content hashes and credentials held as named references, and those servers' tools are usable at any step of a workflow alongside the built-in file, shell, Python and web tools. Every model call, tool call, approval and error is recorded and inspectable, with token usage, cache hit rate and the raw data behind each step.
+
+<details>
+<summary>Screenshots</summary>
+
+![Aworkit chat with the Run details panel](./screenshots/aworkit/1.png)
+![Aworkit visual workflow editor](./screenshots/aworkit/2.png)
 
 </details>
 
