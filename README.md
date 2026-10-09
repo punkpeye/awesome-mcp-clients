@@ -32,6 +32,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [eechat](#eechat)
     - [5ire](#5ire)
     - [Agent Bridge](#agent-bridge)
+    - [AgentConnect](#agentconnect)
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
     - [Ano](#ano)
@@ -229,6 +230,22 @@ A deployable web-based agent platform for remote MCP servers featuring human-in-
 ![Tool Configuration](./screenshots/agent-bridge/tool_config.png)
 
 </details>
+
+### AgentConnect
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/agentconnect-md/agentconnect</td></tr>
+<tr><th align="left">Website</th><td>https://agentconnect.md</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web, self-hosted (Docker Compose, Kubernetes)</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Open-source platform for running several AI coding agents alongside a team. Agents run on a self-hosted daemon and are reachable from Slack, Telegram, Discord and Lark, and from issues and pull requests on GitHub, GitLab and Gitea. Each agent is configured separately with its own runtime, model, workspace, tools and permissions.
+
+MCP servers are attached per agent. The daemon acts as an MCP client over Streamable HTTP and operator-configured stdio transports, and the tools a server exposes become available to that agent's sessions under that agent's existing permissions.
 
 ### AgentOne
 
