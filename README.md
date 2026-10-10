@@ -1261,6 +1261,39 @@ Key Features:
 
 </details>
 
+### McDesk
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/For-Chance/mcd-desk-mate</td></tr>
+<tr><th align="left">Website</th><td>https://for-chance.github.io/mcd-desk-mate/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, JavaScript</td></tr>
+</table>
+
+McDesk is a desktop mascot client for McDonald's China's MCP server. Rather than rendering
+tool results in a chat log, it drives an animated character who lives in the corner of your
+desktop: she follows your cursor, blinks, breathes, and dances on double-click, and it turns
+real account data into things you can act on — she flags coupons before they expire, tracks
+a 24-slot prize collection, and quizzes you on real nutrition data.
+
+It also ships a reusable sprite pipeline for turning AI-generated illustrations into
+animation frames: chroma-key cutout with edge decontamination, filling background pockets
+enclosed by hair, watermark removal, and anchor-based frame alignment (cap centroid for
+horizontal, shoe baseline for vertical, alpha silhouette for scale). Worth a look if you
+are building any kind of character-driven MCP client.
+
+<details>
+<summary>Screenshots</summary>
+
+![McDesk](https://raw.githubusercontent.com/For-Chance/mcd-desk-mate/main/docs/banner.png)
+![Dance keyframes](https://raw.githubusercontent.com/For-Chance/mcd-desk-mate/main/docs/dance-frames.png)
+![Game panels](https://raw.githubusercontent.com/For-Chance/mcd-desk-mate/main/docs/play.png)
+
+</details>
+
 ### McPico
 
 
