@@ -1134,6 +1134,22 @@ Save playbooks:
 ![](./screenshots/lutra/create-playbook.gif)
 </details>
 
+### mcd-benefits-butler
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Mercury-vivis/mcd-benefits-butler</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI / Skill</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, macOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+**mcd-benefits-butler** is an MCP client and WorkBuddy skill built on McDonald's official `mcd-mcp-server`. It scans your order history for dining-survey reward opportunities that are still claimable, summarizes point balances with redemption suggestions, and aggregates the month's promotions and draws in one place.
+
+**Note:** McDonald's official app already covers points and promotions; the differentiator here is surfacing survey-reward chances the official channels only prompt once at checkout.
+
 ### mcp-agent
 
 <table>
