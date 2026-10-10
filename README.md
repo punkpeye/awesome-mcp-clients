@@ -87,6 +87,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
+    - [Sage](#sage)
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Simple AI](#simple-ai)
@@ -1518,6 +1519,22 @@ No-code MCP clients for Slack, Microsoft Teams, and Discord with full support fo
 ![](./screenshots/runbear/teams-mcp-client.png)
 
 </details>
+
+### Sage
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/ZHangZHengEric/Sage</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, self-hosted web app, Python library</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, macOS, Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free software; model provider usage fees may apply</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, Dart, TypeScript</td></tr>
+</table>
+
+Sage is an open-source agent platform whose desktop and self-hosted web apps share a Python runtime. Configured MCP connections discover tools for agent workflows alongside built-in tools and reusable Skills. It supports durable session history, human input and approvals, and multi-agent collaboration. Users configure their own model provider and credentials.
+
+[Desktop setup and MCP configuration](https://github.com/ZHangZHengEric/Sage/blob/main/docs/en/applications/DESKTOP.md).
 
 ### Superinterface
 
