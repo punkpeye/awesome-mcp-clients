@@ -93,6 +93,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tambo](#tambo)
     - [Taskade](#taskade)
     - [Tester MCP Client](#tester-mcp-client)
+    - [TheYgent](#theygent)
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
     - [Vercade](#vercade)
@@ -1685,6 +1686,20 @@ Key features:
 ![](./screenshots/tester-mcp-client/chat-ui.png)
 
 </details>
+
+### TheYgent
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/al2m4n/TheYgent</td></tr>
+<tr><th align="left">Website</th><td>https://theygent.ai/</td></tr>
+<tr><th align="left">License</th><td>Sustainable Use License (fair-code, source-available)</td></tr>
+<tr><th align="left">Type</th><td>Web app (self-hosted)</td></tr>
+<tr><th align="left">Platforms</th><td>macOS, Linux (bare metal, Docker Compose, Kubernetes)</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, TypeScript</td></tr>
+</table>
+
+A self-hosted, no-code AI agent builder where MCP servers are nodes on a visual canvas. It connects to MCP servers over stdio, HTTP, and SSE, browses and installs servers from the Official and GitHub MCP registries (or a registry you host), handles OAuth sign-in for remote servers, and turns OpenAPI or GraphQL specs into MCP servers. Agents run on local models through built-in llama.cpp and MLX engines, or on any OpenAI-compatible API.
 
 ### Tiles Notebook
 
