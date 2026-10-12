@@ -34,6 +34,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Agent Bridge](#agent-bridge)
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
+    - [Aleph](#aleph)
     - [Ano](#ano)
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
@@ -276,6 +277,20 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 ![](./screenshots/aiaw/dark.png)
 
 </details>
+
+### Aleph
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/josuecuguy1307/Aleph</td></tr>
+<tr><th align="left">Website</th><td>https://aleph-site-jade.vercel.app/</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0 (Aleph-owned source; third-party components and branding have separate terms)</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>macOS (Apple silicon)</td></tr>
+<tr><th align="left">Pricing</th><td>Free application; external provider and service costs may apply</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, JavaScript, Rust, Swift</td></tr>
+</table>
+
+Aleph is an open-source desktop workspace for composing agents with user-selected models, tools and files. Its source implements local stdio and remote Streamable HTTP MCP client paths, including tool discovery and user-selected tool subsets. API credentials, installed coding CLIs and connector authorizations are configured separately. See the [MCP transport selector](https://github.com/josuecuguy1307/Aleph/blob/main/platform/inspection/transporte.py), [BYO-MCP implementation](https://github.com/josuecuguy1307/Aleph/blob/main/platform/inspection/byo_mcp.py) and [installation guide](https://github.com/josuecuguy1307/Aleph/blob/main/docs/GETTING_STARTED.md) for implementation evidence and prerequisites. Server compatibility depends on configuration; the current macOS release is ad-hoc signed and not notarized.
 
 ### Ano
 
