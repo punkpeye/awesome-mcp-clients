@@ -35,6 +35,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
     - [Ano](#ano)
+    - [Arynwood MCP](#arynwood-mcp)
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
     - [AnythingLLM](#anythingllm)
@@ -290,6 +291,27 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 </table>
 
 **Ano** is a collaborative chat and workspace for devs that features a native in-app terminal and integrated AI (like Claude Code). It is built as an MCP client, allowing users to run local CLIs, trigger custom automations, and connect to any Model Context Protocol (MCP) server directly from their channels.
+
+### Arynwood MCP
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Arynwood-Technology/ArynwoodMCP</td></tr>
+<tr><th align="left">Website</th><td>https://arynwood.com/mcp/</td></tr>
+<tr><th align="left">License</th><td>Source-available</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, TypeScript</td></tr>
+</table>
+
+**Arynwood MCP** is a local-first AI workspace that runs language models on your own machine through Ollama. It connects to MCP servers over HTTP, holds destructive and publishing tool calls for your approval, and adds document search with Qdrant, memory and a design canvas. Packaged as an AppImage, .deb and Windows installer (alpha); a [browser demo](https://arynwood-technology.github.io/ArynwoodMCP/) shows the interface.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/arynwood-mcp/arynwood-mcp.png)
+
+</details>
 
 ### AstrBot
 <table>
