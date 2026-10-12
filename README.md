@@ -84,6 +84,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
+    - [Octuo](#octuo)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
@@ -1443,6 +1444,20 @@ Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP suppo
 ![](https://github.com/ChatGPTNextWeb/NextChat/blob/main/docs/images/cover.png)
 
 </details>
+
+### Octuo
+
+<table>
+<tr><th align="left">GitHub</th><td>N/A</td></tr>
+<tr><th align="left">Website</th><td>https://www.tutuo.ai/en/octuo/</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Paid</td></tr>
+<tr><th align="left">Programming Languages</th><td>N/A</td></tr>
+</table>
+
+**Octuo** is a personal assistant for macOS that connects to MCP servers and delegates to Claude Code, Codex and other tools.
 
 ### oterm
 
