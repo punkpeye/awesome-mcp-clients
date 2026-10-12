@@ -62,6 +62,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [FLUJO](#flujo)
     - [Goose](#goose)
     - [Glue](#glue)
+    - [HiveGate](#hivegate)
     - [HyperChat](#hyperchat)
     - [JDBCX](#jdbcx)
     - [kibitz](#kibitz)
@@ -937,6 +938,27 @@ Glue is a full-featured, thread-first team chat platform with a built-in AI agen
 ![Glue Create Issue](./screenshots/glue/glue-create-issue.png)
 
 </details>
+
+### HiveGate
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/hivegate-ai/hivegate</td></tr>
+<tr><th align="left">Website</th><td>https://hivegate.dev</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Server</td></tr>
+<tr><th align="left">Platforms</th><td>Docker, Kubernetes, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+A self-hosted runtime that serves AI agents over a REST API, built on Agno. Agents connect to MCP servers as toolkits, alongside OAuth-backed Google and Microsoft integrations.
+
+**Key Features:**
+- **MCP toolkits**: agents call tools from any configured MCP server
+- **REST API**: agents, prompts and skills are created and versioned as data, no redeploy
+- **Per-user OAuth**: each user's own Google or Microsoft tokens, refreshed automatically
+- **Human approval**: a risky tool call pauses the run until someone approves or denies it
+- **Self-hosted**: Docker Compose, Kubernetes manifests, and one-click deploys
 
 ### HyperChat
 
