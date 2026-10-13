@@ -81,6 +81,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Memex](#memex)
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
+    - [Nib](#nib)
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
@@ -1380,6 +1381,22 @@ Add MCP Capabilities to Chatgpt, Gemini, Grok, Google AI Studio, DeepSeek, AI St
 ![](./screenshots/mcp-superassistant/chatgpt.jpg)
 
 </details>
+
+### Nib
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/amenski/nib</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Open-source, bring-your-own-key coding agent for the terminal. Works with DeepSeek, OpenAI, OpenRouter, Groq, and local Ollama. MCP servers are added with `nib mcp add` and their tools go through the same explicit allow/ask/deny permission engine as built-in tools. Includes rewindable edit checkpoints, resumable sessions, skills, sub-agents, and a headless `-p` mode. No telemetry.
+
+`npm install -g @amenski/nib`
 
 ### Nerve
 
