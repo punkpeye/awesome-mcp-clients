@@ -79,6 +79,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [McPico](#mcpico)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
     - [Memex](#memex)
+    - [Mimir](#mimir)
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
     - [Nerve](#nerve)
@@ -1336,6 +1337,27 @@ This unique dual capability of creating AND consuming MCP tools makes Memex the 
 ![Memex Interface](https://github.com/user-attachments/assets/6a1b6e76-5d5c-4ba4-87ee-70a31f0bc4ce)
 
 </details>
+
+### Mimir
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/currentbits/mimir</td></tr>
+<tr><th align="left">Website</th><td>https://heymimir.app</td></tr>
+<tr><th align="left">License</th><td>AGPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, Chat bot (Telegram, Slack, Discord, Signal), Self-hosted server</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux, Docker</td></tr>
+<tr><th align="left">Pricing</th><td>Free (uses your own Claude, ChatGPT or Grok subscription, or an API key)</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, TypeScript</td></tr>
+</table>
+
+**Mimir** runs personal AI assistants on the AI subscription you already have. You message them in Telegram, Slack, Discord, Signal or the desktop app; they remember you, run scheduled routines, and ask before they act.
+
+**Key MCP Features:**
+- **Add any MCP server**: paste its command, its URL or the `mcpServers` JSON from its instructions
+- **Local and remote servers**: stdio commands and Streamable HTTP, including hosted servers that need a sign-in
+- **Approvals**: tools a server marks read-only are allowed, everything else asks you first
+- **Per-bot control**: switch each server on or off per bot
+- **Malware check**: packages started with `npx`, `uvx` and similar are checked against OSV.dev's malicious-package list first
 
 ### MCPOmni Connect
 
