@@ -114,6 +114,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zin MCP Client](#zin-mcp-client)
     - [Qordinate](#qordinate)
     - [PraisonAI](#praisonai)
+    - [opencode-rust](#opencode-rust)
   - [Servers](#servers)
 
 ### OpenClaw
@@ -2187,6 +2188,22 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 </table>
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
+
+### opencode-rust
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/vakandi/opencode-rust</td></tr>
+<tr><th align="left">Website</th><td>https://vakandi.github.io/opencode-rust/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI, TUI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust</td></tr>
+</table>
+
+opencode-rust is an open source AI coding agent written in Rust, providing a CLI, a TUI and an HTTP server for running AI coding agents locally, with no container runtime required. It acts as an MCP host: it launches configured MCP servers and exposes their tools to the agent. The command is `opr`, installable with `npm install -g opencode-rust` or `brew install vakandi/tap/opencode-rust`.
+
+Note: an independent Rust implementation of opencode (https://github.com/anomalyco/opencode), not affiliated with the OpenCode team.
 
 ## Servers
 
