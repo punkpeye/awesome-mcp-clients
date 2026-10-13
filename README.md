@@ -109,6 +109,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [BoltAI](#boltai)
     - [Argo-LocalAI](#argo-localai)
     - [MCPCLIHost](#mcpclihost)
+    - [mcptui](#mcptui)
     - [AdaL](#adal)
     - [Agent-cli](#agent-cli)
     - [Zin MCP Client](#zin-mcp-client)
@@ -2187,6 +2188,22 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 </table>
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
+
+### mcptui
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/kimarsen/mcptui</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>TUI, CLI, Developer Tool</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+**mcptui** is an interactive Terminal UI (TUI) playground and inspector for testing, executing, and debugging Model Context Protocol (MCP) servers ("The Postman for MCP").
+
+`uvx --from git+https://github.com/kimarsen/mcptui mcptui demo`
 
 ## Servers
 
