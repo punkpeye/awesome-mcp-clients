@@ -2188,6 +2188,20 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
 
+### JoeBro
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/joexk1/JoeBro</td></tr>
+<tr><th align="left">Website</th><td>https://joexk1.github.io/joebro-field-notes/</td></tr>
+<tr><th align="left">License</th><td>GPLv3</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Swift, Python</td></tr>
+</table>
+
+**JoeBro** is a native macOS AI workspace with a local Python backend. It connects to MCP servers over stdio, loads their tools on demand, and works with local models through Ollama or any API.
+
 ## Servers
 
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
