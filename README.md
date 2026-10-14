@@ -96,6 +96,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
     - [Vercade](#vercade)
+    - [Verdroid](#verdroid)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
     - [Witsy](#witsy)
@@ -1762,6 +1763,25 @@ LLM discord bot with MCP support, customizable personality and scheduling
 ![Vercade Discord assistant](./screenshots/vercade/k2.png)
 
 </details>
+
+### Verdroid
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/chr243/Verdroid</td></tr>
+<tr><th align="left">License</th><td>GPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>Mobile app</td></tr>
+<tr><th align="left">Platforms</th><td>Android</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Kotlin</td></tr>
+</table>
+
+Open-source Android AI agent that runs tool calls on the phone itself, with user-added MCP servers alongside built-in tools. Uses cloud models via OpenRouter or Kilo with your own API key (free models supported).
+
+**Key Features:**
+
+- Connects to remote MCP servers and exposes their tools to the agent
+- Built-in tools: web search/fetch, Termux bash/Python, Shizuku/rish shell, Accessibility screen control, files, PDFs, Git
+- No backend; API keys stored encrypted on device
 
 ### VS Code GitHub Copilot
 
