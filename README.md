@@ -63,6 +63,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Goose](#goose)
     - [Glue](#glue)
     - [HyperChat](#hyperchat)
+    - [Ignite](#ignite)
     - [JDBCX](#jdbcx)
     - [kibitz](#kibitz)
     - [LangBot](#LangBot)
@@ -970,6 +971,20 @@ HyperChat is an open Chat client that can use various LLM APIs to provide the be
 ![](./screenshots/hyperchat/image48.png)
 
 </details>
+
+### Ignite
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/ker0olos/ignite</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Linux, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Ignite is a desktop app built on the pi coding agent that runs several coding agent conversations in parallel, each in its own git worktree with bash in an OS sandbox. MCP servers (stdio and URL/HTTP) are set up in a mcp.json, with one-click presets, import from Claude Code, Cursor, Codex and Claude Desktop, OAuth sign-in for servers that need it, and live server status. It works with Claude and ChatGPT subscriptions or any provider pi supports with an API key.
 
 ### JDBCX
 
