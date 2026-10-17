@@ -68,6 +68,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [LangBot](#LangBot)
     - [Klavis AI](#klavis-ai)
     - [Kiro](#kiro)
+    - [Kryex Code](#kryex-code)
     - [LibreChat](#librechat)
     - [Lutra](#lutra)
     - [mcp-agent](#mcp-agent)
@@ -1083,6 +1084,19 @@ Kiro is an AI assistant and IDE built to assist developers. Kiro helps you do yo
 ![MCP Integration](./screenshots/kiro/mcp-integration.png)
 
 </details>
+
+### Kryex Code
+
+<table>
+<tr><th align="left">Website</th><td>https://www.kryexlabs.com/kryex-code</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, Coding agent</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>All</td></tr>
+</table>
+
+Kryex Code is a desktop AI coding agent with governance built in. It reaches MCP servers through Kryex Server: discovered tools stay quarantined until an admin approves them, access is granted per person and per tool (READ, WRITE or ADMIN), and every call is checked before it runs. Personal connectors such as GitHub, Atlassian (Jira, Confluence), Linear, Sentry and Notion use each person's own sign-in. Free models are included, or bring your own key. Docs: https://www.kryexlabs.com/docs/en/mcp-connectors
 
 ### LibreChat
 
