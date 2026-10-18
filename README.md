@@ -116,6 +116,20 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [PraisonAI](#praisonai)
   - [Servers](#servers)
 
+### NAVIG
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/navig-run/core</td></tr>
+<tr><th align="left">Website</th><td>https://navig.run/clients</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>CLI, desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, TypeScript</td></tr>
+</table>
+
+NAVIG is a local-first AI operator OS: a small open-source kernel that runs an agent over your own machines, files and accounts, with a desktop shell, a CLI and 1,800+ commands. It is an MCP **client** (servers are configured with `navig mcp` and exposed to the agent as tools) and also ships an MCP **server** (`navig mcp serve`, stdio or HTTP). Provider keys stay in a local vault, and `navig serve` exposes them to other clients on loopback.
+
 ### OpenClaw
 
 <table>
