@@ -90,6 +90,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Simple AI](#simple-ai)
+    - [Soro-Boro](#soro-boro)
     - [Tambo](#tambo)
     - [Taskade](#taskade)
     - [Tester MCP Client](#tester-mcp-client)
@@ -1594,6 +1595,23 @@ Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
 ![](./screenshots/simple-ai-chat/fetch.png)
 
 </details>
+
+### Soro-Boro
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/nisaral/Soro-Boro</td></tr>
+<tr><th align="left">Website</th><td>https://pypi.org/project/soro-boro/</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>CLI, Python library, Execution Boundary</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, macOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free, Open Source</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+Single-pass System-One conformal tool router and execution boundary client for MCP servers. Features sub-100ms pointer routing (Soro-Kev), mathematically bounded 0% tool hallucination via pointer heads, duplicate mutation loop prevention under transport faults, and conformal abstention guarantees.
+
+`pip install soro-boro`
+
 
 ### SwarmClaw
 
