@@ -63,6 +63,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Goose](#goose)
     - [Glue](#glue)
     - [HyperChat](#hyperchat)
+    - [Inferpal](#inferpal)
     - [JDBCX](#jdbcx)
     - [kibitz](#kibitz)
     - [LangBot](#LangBot)
@@ -968,6 +969,28 @@ HyperChat is an open Chat client that can use various LLM APIs to provide the be
 ![](./screenshots/hyperchat/image45.png)
 ![](./screenshots/hyperchat/image46.png)
 ![](./screenshots/hyperchat/image48.png)
+
+</details>
+
+### Inferpal
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/EstaxNet/Inferpal</td></tr>
+<tr><th align="left">Website</th><td>https://inferpal.estaxnet.fr</td></tr>
+<tr><th align="left">License</th><td>GPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>Visual Studio extension, VSCode extension, ACP agent</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, Linux, MacOS (Apple Silicon)</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>C#, TypeScript</td></tr>
+</table>
+
+**Inferpal** is a coding agent for Visual Studio 2026/2022 and VS Code that runs on your machine, against Ollama, LM Studio or any OpenAI-compatible server (llama.cpp, vLLM) — no account, no telemetry. Its agent has 30 built-in tools (it reads files, edits them with the diff shown before you approve, builds and runs tests), and its MCP client adds your MCP servers' tools to the same agent loop, over stdio or Streamable HTTP. It also offers ghost-text completions, semantic code search, `/undo-run` to revert a whole run, and `/tdd`, which re-runs a failing .NET test under the real debugger and feeds the exception and locals into the fix. The same agent runs in Zed, JetBrains IDEs, Neovim (CodeCompanion) and Emacs as an ACP agent (`Inferpal.Host --acp`).
+
+<details>
+<summary>Screenshots</summary>
+
+![Inferpal in Visual Studio](./screenshots/inferpal/inferpal-vs.gif)
+![Inferpal in VS Code](./screenshots/inferpal/inferpal-vscode.gif)
 
 </details>
 
