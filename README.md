@@ -114,6 +114,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zin MCP Client](#zin-mcp-client)
     - [Qordinate](#qordinate)
     - [PraisonAI](#praisonai)
+    - [BayesChat](#bayeschat)
   - [Servers](#servers)
 
 ### OpenClaw
@@ -2187,6 +2188,28 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 </table>
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
+
+### BayesChat
+
+<table>
+<tr><th align="left">GitHub</th><td>N/A</td></tr>
+<tr><th align="left">Website</th><td>https://bayeschat.xyz</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Mobile app</td></tr>
+<tr><th align="left">Platforms</th><td>iOS, iPadOS</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>Swift</td></tr>
+</table>
+
+BayesChat is a native iOS and iPadOS chat client that brings your own API key and connects to remote MCP servers over Streamable HTTP, running their tools inside the conversation. It requires no account and keeps credentials in the on-device Keychain.
+
+<details>
+<summary>Screenshots</summary>
+
+![MCP tool calls in a BayesChat conversation](./screenshots/bayeschat/mcp-tool-call.png)
+![Adding a remote MCP server in BayesChat](./screenshots/bayeschat/mcp-add-server.png)
+
+</details>
 
 ## Servers
 
