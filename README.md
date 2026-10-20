@@ -90,6 +90,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Simple AI](#simple-ai)
+    - [Synaplan](#synaplan)
     - [Tambo](#tambo)
     - [Taskade](#taskade)
     - [Tester MCP Client](#tester-mcp-client)
@@ -1610,6 +1611,20 @@ Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
 Self-hosted multi-agent AI runtime. Acts as both an MCP client and an MCP server: connects agents to MCP servers and exposes its own agents as MCP tools for other clients. Supports 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and inbound connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix.
 
 `npm install -g @swarmclawai/swarmclaw`
+
+### Synaplan
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/metadist/synaplan</td></tr>
+<tr><th align="left">Website</th><td>https://synaplan.com</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>Web app, Desktop app, Mobile app</td></tr>
+<tr><th align="left">Platforms</th><td>Web, macOS, Windows, Linux, iOS, Android</td></tr>
+<tr><th align="left">Pricing</th><td>Free (self-hosted) / Freemium (cloud)</td></tr>
+<tr><th align="left">Programming Languages</th><td>PHP, TypeScript, Vue</td></tr>
+</table>
+
+**Synaplan** is an open-source, self-hosted AI workspace with multi-provider chat (OpenAI, Anthropic, Gemini, Groq, Mistral, xAI, Ollama), semantic RAG document search (Qdrant + Apache Tika), long-term memory, and embeddable website chat widgets. It connects to external Streamable HTTP MCP servers for context enrichment and tool execution, and also exposes its own workspace RAG and memory tools as an MCP server.
 
 ### Tambo
 
