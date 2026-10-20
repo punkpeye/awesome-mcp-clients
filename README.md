@@ -51,6 +51,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [console-chat-gpt](#console-chat-gpt)
     - [ContextKit](#contextkit)
     - [Copilot-MCP](#copilot-mcp)
+    - [CoWork OS](#cowork-os)
     - [Cursor](#cursor)
     - [Continue](#continue)
     - [DeepChat](#deepchat)
@@ -649,6 +650,27 @@ VSCode extension that acts as a Model Context Protocol (MCP) client, enabling in
 <summary>Screenshots</summary>
 
 ![](./screenshots/copilot-mcp/preview.png)
+
+</details>
+
+### CoWork OS
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/CoWork-OS/CoWork-OS</td></tr>
+<tr><th align="left">Website</th><td>https://coworkosapp.com</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Windows (CLI and headless daemon on Linux)</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+An open-source desktop AI agent that acts as an MCP client, host and registry browser. Add local (stdio) or remote servers (SSE, WebSocket, streamable HTTP, OAuth), use them with any cloud or local model (Ollama, MLX), and require approval for tool calls through per-task access profiles. It can also expose its own tools as an MCP server.
+
+<details>
+<summary>Screenshots</summary>
+
+![CoWork OS connector catalog](https://coworkosapp.com/images/app/connector-catalog-1600.webp)
 
 </details>
 
