@@ -32,6 +32,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [eechat](#eechat)
     - [5ire](#5ire)
     - [Agent Bridge](#agent-bridge)
+    - [AgenticOS](#agenticos)
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
     - [Ano](#ano)
@@ -230,6 +231,19 @@ A deployable web-based agent platform for remote MCP servers featuring human-in-
 
 </details>
 
+### AgenticOS
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/vstorm-co/agenticos</td></tr>
+<tr><th align="left">Website</th><td>https://vstorm-co.github.io/vstormos-landing/</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>Self-hosted web app (Docker)</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, macOS, Windows (WSL2), Docker</td></tr>
+<tr><th align="left">Pricing</th><td>Free (self-hosted)</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, TypeScript</td></tr>
+</table>
+
+Self-hosted workspace for company AI agents. Agents connect to MCP servers with OAuth, several accounts per server and an approval policy per connection (none, writes or all), and AgenticOS is an MCP server itself.
 ### AgentOne
 
 <table>
