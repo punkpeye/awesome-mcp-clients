@@ -68,6 +68,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [LangBot](#LangBot)
     - [Klavis AI](#klavis-ai)
     - [Kiro](#kiro)
+    - [Layerwise](#layerwise)
     - [LibreChat](#librechat)
     - [Lutra](#lutra)
     - [mcp-agent](#mcp-agent)
@@ -1083,6 +1084,20 @@ Kiro is an AI assistant and IDE built to assist developers. Kiro helps you do yo
 ![MCP Integration](./screenshots/kiro/mcp-integration.png)
 
 </details>
+
+### Layerwise
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/layerwise-app/layerwise (releases only)</td></tr>
+<tr><th align="left">Website</th><td>https://layerwise.app</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>macOS, Windows, Linux (beta)</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+[Layerwise](https://layerwise.app) is a desktop workspace for building, previewing, and publishing full-stack web apps with AI. Its MCP client supports local stdio and remote Streamable HTTP servers, API token and OAuth authentication, connection testing, tool calls in conversations, and interactive elicitation. Servers can be configured for a project or across projects, with credentials stored encrypted on the device. See the [MCP setup documentation](https://layerwise.app/docs/build-your-app/skills-and-mcp).
 
 ### LibreChat
 
