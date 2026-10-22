@@ -62,6 +62,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [FLUJO](#flujo)
     - [Goose](#goose)
     - [Glue](#glue)
+    - [Godmode Bot](#godmode-bot)
     - [HyperChat](#hyperchat)
     - [JDBCX](#jdbcx)
     - [kibitz](#kibitz)
@@ -935,6 +936,28 @@ Glue is a full-featured, thread-first team chat platform with a built-in AI agen
 
 ![Glue MCP Hero](./screenshots/glue/glue-mcp-hero.jpg)
 ![Glue Create Issue](./screenshots/glue/glue-create-issue.png)
+
+</details>
+
+### Godmode Bot
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/codextde/godmode-bot</td></tr>
+<tr><th align="left">Website</th><td>https://usegodmode.com</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, AI Agent</td></tr>
+<tr><th align="left">Platforms</th><td>macOS, Windows, Linux, Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free (build from source), Pro $39/month</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Rust</td></tr>
+</table>
+
+**Godmode Bot** is a desktop app that turns your Claude subscription into a team of persistent agents that do computer work end to end in their own browser with your logins. As an MCP client, its agents use custom MCP servers and Composio toolkits, set globally, per workspace or per agent. It is also an MCP server, so Claude Code, Cursor or Claude Desktop can create and manage Godmode agents, automations and tasks. A local vault fills passwords and 2FA codes into pages without the AI seeing them.
+
+<details>
+<summary>Screenshots</summary>
+
+![Godmode Bot chat with live browser](https://raw.githubusercontent.com/codextde/godmode-bot/main/docs/screenshots/chat.png)
+![Godmode Bot MCP servers and integrations](https://raw.githubusercontent.com/codextde/godmode-bot/main/docs/screenshots/integrations.png)
 
 </details>
 
