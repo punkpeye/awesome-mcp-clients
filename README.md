@@ -83,6 +83,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP SuperAssistant](#mcp-superassistant)
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
+    - [OpenCanvas](#opencanvas)
     - [Octomind](#octomind)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
@@ -1443,6 +1444,20 @@ Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP suppo
 ![](https://github.com/ChatGPTNextWeb/NextChat/blob/main/docs/images/cover.png)
 
 </details>
+
+### OpenCanvas
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/ashark-ai-05/opencanvas</td></tr>
+<tr><th align="left">Website</th><td>https://github.com/ashark-ai-05/opencanvas</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux, Web (self-hosted)</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Infinite canvas where an LLM places typed widgets (charts, kanbans, code, live timers, sandboxed HTML) instead of markdown. Connects to any MCP server (stdio and HTTP) from Settings and works with Anthropic, OpenAI, Gemini, Groq, OpenRouter and local Ollama models.
 
 ### oterm
 
