@@ -81,6 +81,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Memex](#memex)
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
+    - [Nakata](#nakata)
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
@@ -1380,6 +1381,20 @@ Add MCP Capabilities to Chatgpt, Gemini, Grok, Google AI Studio, DeepSeek, AI St
 ![](./screenshots/mcp-superassistant/chatgpt.jpg)
 
 </details>
+
+### Nakata
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/nakata-app/nakata</td></tr>
+<tr><th align="left">Website</th><td>https://nakata.app/nakata-cli</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>CLI, ACP agent for editors</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Linux, Windows (x64)</td></tr>
+<tr><th align="left">Pricing</th><td>Free for 90 days, then $10/month (bring your own model key)</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Nakata is a terminal coding agent that runs on your own model key (OpenRouter, DeepSeek, Anthropic, Gemini, Ollama or any OpenAI-compatible endpoint) and connects to MCP servers for external tools. A director agent checks evidence from parallel workers before an edit lands. It also runs headless for CI and as an ACP agent inside editors.
 
 ### Nerve
 
