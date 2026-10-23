@@ -57,6 +57,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Dexto](#dexto)
     - [DocsGPT](#docsgpt)
     - [Dolphin-MCP](#dolphin-mcp)
+    - [Draggy](#draggy)
     - [Fastchat MCP](#fastchat-mcp)
     - [Enola.dev](#enola)
     - [FLUJO](#flujo)
@@ -777,6 +778,20 @@ DocsGPT is a privacy-focused, open-source AI platform designed to create intelli
 ![](./screenshots/dolphin-mcp/dolphin-mcp.png)
 
 </details>
+
+### Draggy
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Lucki74/draggy</td></tr>
+<tr><th align="left">Website</th><td>https://draggy.org</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Rust</td></tr>
+</table>
+
+Draggy is a desktop AI assistant and coding agent for Windows that runs local models or connects to cloud providers. It ships with a catalogue of MCP servers you turn on from Settings, and connects to remote MCP servers over HTTP with OAuth. In Code mode it edits files in a project folder, shows each change as a diff you can undo, and runs tools under one of four permission modes.
 
 ### Fastchat MCP
 
