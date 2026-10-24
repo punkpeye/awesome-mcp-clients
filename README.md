@@ -38,6 +38,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
     - [AnythingLLM](#anythingllm)
+    - [Borg](#borg)
     - [BrowseWiz](#browsewiz)
     - [Canvas MCP Client](#canvas-mcp-client)
     - [CarrotAI](#carrotai)
@@ -348,6 +349,20 @@ The all-in-one AI app you were looking for. Chat with your docs, use AI Agents, 
 ![](./screenshots/anythingllm/anythingllm.png)
 
 </details>
+
+### Borg
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/adelphidata/borg</td></tr>
+<tr><th align="left">Website</th><td>N/A</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Self-hosted AI Agent, CLI, Desktop</td></tr>
+<tr><th align="left">Platforms</th><td>macOS, Linux, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, TypeScript</td></tr>
+</table>
+
+Borg is a security-first personal AI assistant written in Rust, built to run unattended. Borg connects to MCP servers over stdio, streamable HTTP, and legacy SSE, and keeps them safe to use: remote servers must use HTTPS, stdio servers get only an allowlisted environment, secrets arrive through `${SECRET:NAME}` references, and MCP tools stay blocked in read-only Plan mode. Reach Borg from the terminal UI, the desktop app, or Telegram, Slack, Discord, Teams, Signal, WhatsApp, and iMessage.
 
 ### BrowseWiz
 
