@@ -85,7 +85,8 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
     - [oterm](#oterm)
-    - [Slack MCP Client](#slack-mcp-client)
+        - [ShibaClaw](#shibaclaw)
+- [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
@@ -1465,6 +1466,21 @@ A terminal client for Ollama, with support for MCP servers.
 ![](./screenshots/oterm/mcp.svg)
 
 </details>
+
+
+### ShibaClaw
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/RikyZ90/ShibaClaw</td></tr>
+<tr><th align="left">Website</th><td>https://rikyz90.github.io/ShibaClaw/</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Self-hosted AI agent, WebUI, Windows desktop</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, Linux, macOS, Docker</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+ShibaClaw is an open-source self-hosted personal AI agent whose WebUI manages MCP server connections and exposes their tools to the agent runtime. It supports stdio, SSE, and Streamable HTTP MCP transports alongside persistent memory, sub-agent delegation, scheduled automations, and local or cloud model providers. See the [MCP integration docs](https://github.com/RikyZ90/ShibaClaw#mcp--integrations).
 
 ### Slack MCP Client
 
