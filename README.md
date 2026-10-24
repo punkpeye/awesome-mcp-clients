@@ -84,6 +84,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
+    - [OMK](#omk)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
@@ -1443,6 +1444,20 @@ Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP suppo
 ![](https://github.com/ChatGPTNextWeb/NextChat/blob/main/docs/images/cover.png)
 
 </details>
+
+### OMK
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/dmae97/omk</td></tr>
+<tr><th align="left">Website</th><td>https://www.npmjs.com/package/open-multi-agent-kit</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+**OMK** is an open-source TypeScript coding agent for the terminal. It acts as an MCP client: it starts the MCP servers configured in `mcp.json`, lists their tools, and exposes them to the model next to its built-in tools. Project-level MCP configs require explicit trust. It can switch models mid-session and finishes a goal only when its acceptance test passes. Install with `npm install -g open-multi-agent-kit`.
 
 ### oterm
 
