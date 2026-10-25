@@ -62,6 +62,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [FLUJO](#flujo)
     - [Goose](#goose)
     - [Glue](#glue)
+    - [Gostman](#gostman)
     - [HyperChat](#hyperchat)
     - [JDBCX](#jdbcx)
     - [kibitz](#kibitz)
@@ -937,6 +938,20 @@ Glue is a full-featured, thread-first team chat platform with a built-in AI agen
 ![Glue Create Issue](./screenshots/glue/glue-create-issue.png)
 
 </details>
+
+### Gostman
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/kunalgoesbyken/gostman</td></tr>
+<tr><th align="left">Website</th><td>https://gostman.com</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, Web app, CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux, Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Go, JavaScript</td></tr>
+</table>
+
+Gostman is an API client for REST, GraphQL, gRPC and WebSocket that also tests MCP servers. It connects over Streamable HTTP or a local stdio command, lists tools, resources and prompts, calls them with saved arguments and variables, and signs in with OAuth discovery for servers that need it.
 
 ### HyperChat
 
