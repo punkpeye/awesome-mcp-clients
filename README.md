@@ -95,6 +95,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tester MCP Client](#tester-mcp-client)
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
+    - [TunnelGPT](#tunnelgpt)
     - [Vercade](#vercade)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
@@ -1734,6 +1735,20 @@ Tome is an open source cross-platform desktop app designed for working with loca
 ![Chat](./screenshots/tome/chat.png)
 ![MCP Servers](./screenshots/tome/mcp.png)
 </details>
+
+### TunnelGPT
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/carlosrodera/tunnelgpt-mcp-core</td></tr>
+<tr><th align="left">Website</th><td>https://www.tunnelgpt.com</td></tr>
+<tr><th align="left">License</th><td>Proprietary (MIT core)</td></tr>
+<tr><th align="left">Type</th><td>Desktop App</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS (Apple Silicon)</td></tr>
+<tr><th align="left">Pricing</th><td>$27 USD one-time (Version 1 Perpetual License), 3-day free trial</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Rust</td></tr>
+</table>
+
+Connects ChatGPT to one local project folder and to MCP servers already running on your Mac through OpenAI's Secure MCP Tunnel, without a VPS or a public URL. Project files start read-only, writes are previewed and confirmed, the file service runs in a container with no network access, and you approve each local MCP tool before ChatGPT can use it. Requires Docker 24+ and a ChatGPT account with access to custom connectors.
 
 ### Vercade
 
