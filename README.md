@@ -82,6 +82,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
     - [Nerve](#nerve)
+    - [Neuron](#neuron)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
     - [oterm](#oterm)
@@ -1401,6 +1402,20 @@ Nerve is an ADK ( Agent Development Kit ) and CLI designed to be a simple yet po
 [![asciicast](https://asciinema.org/a/710433.svg)](https://asciinema.org/a/710433)
 
 </details>
+
+### Neuron
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/RAHUL-DevelopeRR/neuron-v2</td></tr>
+<tr><th align="left">Website</th><td>https://zero-x.live/neuron-cli</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust</td></tr>
+</table>
+
+Neuron is an open-source AI coding agent for the terminal that connects to MCP servers for extra tools such as a browser, a database or an issue tracker, and can hand focused jobs to subagents.
 
 ### Octomind
 
