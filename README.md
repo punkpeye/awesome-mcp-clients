@@ -68,6 +68,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [LangBot](#LangBot)
     - [Klavis AI](#klavis-ai)
     - [Kiro](#kiro)
+    - [Knovum](#knovum)
     - [LibreChat](#librechat)
     - [Lutra](#lutra)
     - [mcp-agent](#mcp-agent)
@@ -1083,6 +1084,19 @@ Kiro is an AI assistant and IDE built to assist developers. Kiro helps you do yo
 ![MCP Integration](./screenshots/kiro/mcp-integration.png)
 
 </details>
+
+### Knovum
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/madebyzan/knovum</td></tr>
+<tr><th align="left">License</th><td>Source-available (Free for personal use)</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, TypeScript, Vue</td></tr>
+</table>
+
+Local-first desktop visual AI knowledge workspace on an infinite canvas, featuring local RAG (LanceDB/SQLite) and Model Context Protocol (MCP) tool integration.
 
 ### LibreChat
 
