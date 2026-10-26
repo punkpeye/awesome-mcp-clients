@@ -81,6 +81,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Memex](#memex)
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
+    - [Mercury CLI](#mercury-cli)
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
@@ -1380,6 +1381,20 @@ Add MCP Capabilities to Chatgpt, Gemini, Grok, Google AI Studio, DeepSeek, AI St
 ![](./screenshots/mcp-superassistant/chatgpt.jpg)
 
 </details>
+
+### Mercury CLI
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Whq02/MercuryCLI</td></tr>
+<tr><th align="left">Website</th><td>https://mercury-cli.ai</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Linux, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Mercury CLI is an open-source terminal coding agent for macOS, Linux and Windows with a built-in MCP client (`/mcp`), parallel sessions on one screen, crewmates in isolated git worktrees with file leases, 22 model providers plus local and rented GPU weights (`/localsetup` and `/llmhost`), project memory across sessions, LSP, a DAP debugger, and built-in browser and computer use.
 
 ### Nerve
 
