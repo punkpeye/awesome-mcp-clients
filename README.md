@@ -90,6 +90,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Simple AI](#simple-ai)
+    - [Talavine Code](#talavine-code)
     - [Tambo](#tambo)
     - [Taskade](#taskade)
     - [Tester MCP Client](#tester-mcp-client)
@@ -1610,6 +1611,20 @@ Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
 Self-hosted multi-agent AI runtime. Acts as both an MCP client and an MCP server: connects agents to MCP servers and exposes its own agents as MCP tools for other clients. Supports 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and inbound connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix.
 
 `npm install -g @swarmclawai/swarmclaw`
+
+### Talavine Code
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/scrossen/talavine-code</td></tr>
+<tr><th align="left">Website</th><td>https://talavine.com/talavine-code</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, macOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free; model and CLI provider costs apply</td></tr>
+<tr><th align="left">Programming Languages</th><td>C#</td></tr>
+</table>
+
+[Talavine Code](https://github.com/scrossen/talavine-code) is a desktop and CLI coding harness that connects to supported MCP tool servers and works with native coding CLIs or model APIs.
 
 ### Tambo
 
