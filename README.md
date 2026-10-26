@@ -2027,6 +2027,26 @@ Key features:
 ![CleanShot 2025-04-15 at 22 45 30@2x](https://github.com/user-attachments/assets/a9b3a128-0558-4f3b-8f5e-a2fa0759f2b7)
 </details>
 
+### Sahkarmi
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/ganguydhrubo/sahakarmi</td></tr>
+<tr><th align="left">Website</th><td>https://sahkarmi.site</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Sahkarmi is an open-source desktop team workspace where autonomous AI coworkers run locally on your computer with built-in human verification checkpoints for Model Context Protocol (MCP) tool execution including terminal shell, local filesystem, and embedded browser navigation.
+
+Key features:
+- Human-in-the-loop interactive approval cards for sensitive MCP actions
+- Multi-agent collaboration tabs and persistent local memory
+- Embedded Chromium browser pane beside agent threads
+- Works with local Ollama models or cloud LLM APIs (Gemini, Claude, GPT)
+
 ### Argo-LocalAI
 
 <table>
