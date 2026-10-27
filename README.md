@@ -101,6 +101,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Witsy](#witsy)
     - [Enconvo](#enconvo)
     - [y-cli](#y-cli)
+    - [Yardlet](#yardlet)
     - [Yume](#yume)
     - [Zed](#zed)
     - [MindPal](#mindpal)
@@ -1871,6 +1872,27 @@ A tiny command-line interface chat application that brings AI conversations to y
 ![Interactive Chat](./screenshots/y-cli/interactive-chat.png)
 ![MCP Server Configurations](./screenshots/y-cli/multi-mcp-server.png)
 ![MCP Demo](./screenshots/y-cli/mcp.gif)
+
+</details>
+
+### Yardlet
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/zzunkie/yardlet</td></tr>
+<tr><th align="left">Website</th><td>https://yardlet.app</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Swift</td></tr>
+</table>
+
+Native macOS app for running Codex, Claude Code and other coding agent CLIs side by side in one window. It connects to remote MCP servers (OAuth, access tokens or API keys) and local stdio servers, keeps their sign-ins in the macOS Keychain, and offers the same connectors, such as Gmail, GitHub and Slack, to the agents it runs through its own MCP server. Each agent keeps its own CLI, sign-in and session history.
+
+<details>
+<summary>Screenshots</summary>
+
+![](https://raw.githubusercontent.com/zzunkie/yardlet/main/docs/images/main-light.png)
 
 </details>
 
