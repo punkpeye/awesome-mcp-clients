@@ -104,6 +104,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Yume](#yume)
     - [Zed](#zed)
     - [MindPal](#mindpal)
+    - [MOOGH](#moogh)
     - [WhatsMCP](#whatsmcp)
     - [Runbear](#runbear)
     - [BoltAI](#boltai)
@@ -1909,6 +1910,19 @@ https://github.com/user-attachments/assets/95624731-5469-4b58-a21f-bbb31d9838fa
 
 </details>
 
+### MOOGH
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/youlemei2022-web/moogh-desktop-agent</td></tr>
+<tr><th align="left">Website</th><td>https://www.aimoogh.com</td></tr>
+<tr><th align="left">License</th><td>Proprietary (free to download)</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free tier, paid plans</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Electron</td></tr>
+</table>
+
+MOOGH is a Windows desktop agent that drives real applications - Excel, browsers, file dialogs - through the Windows accessibility layer rather than a headless browser, and connects to MCP servers for tool use. Every action runs inside the task you hand it, with approval gates for writes outside the scoped folder.
 ### MindPal
 
 <table>
