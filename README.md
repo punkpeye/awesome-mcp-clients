@@ -83,6 +83,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [MCP SuperAssistant](#mcp-superassistant)
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
+    - [nodecode](#nodecode)
     - [Octomind](#octomind)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
@@ -1443,6 +1444,20 @@ Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP suppo
 ![](https://github.com/ChatGPTNextWeb/NextChat/blob/main/docs/images/cover.png)
 
 </details>
+
+### nodecode
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/nodecode-ai/nodecode</td></tr>
+<tr><th align="left">Website</th><td>https://nodecode.ai</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>AI Agent</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, MacOS, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Common Lisp</td></tr>
+</table>
+
+A living agent organism in Lisp. It becomes yours and evolves over time.
 
 ### oterm
 
