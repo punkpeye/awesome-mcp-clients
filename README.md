@@ -97,6 +97,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tome](#tome)
     - [Vercade](#vercade)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
+    - [Wavefunction](#wavefunction)
     - [Windsurf](#windsurf)
     - [Witsy](#witsy)
     - [Enconvo](#enconvo)
@@ -1784,6 +1785,20 @@ VS Code integrates MCP with GitHub Copilot through [agent mode](https://code.vis
 - Easy server debugging with restart commands and output logging
 - Tool calls with editable inputs and always-allow toggle
 - Integration with existing VS Code extension system to register MCP servers from extensions
+
+### Wavefunction
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/stoyan-stoyanov/wavefunction</td></tr>
+<tr><th align="left">Website</th><td>https://www.wavefunction.si/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>macOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, TypeScript, Rust</td></tr>
+</table>
+
+Wavefunction is an open-source desktop coding agent for macOS that works with local models, your own API keys or a ChatGPT sign-in. It connects to any MCP server you add and includes 70+ ready-made connectors.
 
 ### Windsurf
 
