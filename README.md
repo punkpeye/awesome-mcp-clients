@@ -114,6 +114,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zin MCP Client](#zin-mcp-client)
     - [Qordinate](#qordinate)
     - [PraisonAI](#praisonai)
+    - [Uno](#uno)
   - [Servers](#servers)
 
 ### OpenClaw
@@ -2187,6 +2188,20 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 </table>
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
+
+### Uno
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Motiontic/unocode-releases (releases only)</td></tr>
+<tr><th align="left">Website</th><td>https://unocode.motiontic.com/</td></tr>
+<tr><th align="left">License</th><td>Proprietary, free to use</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free (bring your own API key)</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust</td></tr>
+</table>
+
+Uno is a small coding agent for the terminal that works with Anthropic, OpenAI and any OpenAI-compatible model. It connects to stdio and HTTP MCP servers declared in the same `mcpServers` shape as Claude Code, with browser sign-in for servers that use OAuth (`uno mcp login`). However many servers are configured, the model sees just two small tools, one to find an MCP tool and one to call it, so adding servers costs almost no context, and no server starts until it is first used. Every MCP call goes through Uno's permission prompt, and API keys are never passed to servers. [MCP docs](https://unocode.motiontic.com/#mcp).
 
 ## Servers
 
