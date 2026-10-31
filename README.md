@@ -28,6 +28,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
   - [What is MCP?](#what-is-mcp)
   - [Community](#community)
   - [Clients](#clients)
+    - [MCP Studio](#mcp-studio)
     - [askit-mcp](#askit-mcp)
     - [eechat](#eechat)
     - [5ire](#5ire)
@@ -2187,6 +2188,19 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 </table>
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
+
+### MCP Studio
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Yaromir-Anokhin/mcp-studio</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web app, DevTools, CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux, Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free (Open Source)</td></tr>
+<tr><th align="left">Programming Languages</th><td>JavaScript, React, Node.js</td></tr>
+</table>
+
+**MCP Studio** is an open-source visual DevTools and Postman-style workbench for Anthropic's Model Context Protocol (MCP). It features an interactive tool runner with live latency tracking, remote SSE & stdio transports, persistent test suites with assertions and GitHub Actions CI/CD export, a real-time JSON-RPC inspector, and 1-click config sync with Claude Desktop and Cursor.
 
 ## Servers
 
