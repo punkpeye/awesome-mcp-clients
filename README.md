@@ -114,6 +114,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zin MCP Client](#zin-mcp-client)
     - [Qordinate](#qordinate)
     - [PraisonAI](#praisonai)
+    - [Piomio](#piomio)
   - [Servers](#servers)
 
 ### OpenClaw
@@ -2187,6 +2188,20 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 </table>
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
+
+### Piomio
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/legostin/piomio</td></tr>
+<tr><th align="left">Website</th><td>https://piomio.io</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Self-hosted AI Agent, Desktop App</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Windows, Docker</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Rust, Go</td></tr>
+</table>
+
+**Piomio** is an open-source team of personal AI agents that runs on your own computer and uses your existing Claude Code or Codex subscription or an API key (Anthropic, OpenAI, OpenRouter, DeepSeek, Kimi, GLM). It connects to any service that has an MCP server, asks for approval before any outgoing action, and keeps secrets in an encrypted vault so the model only sees vault:// references.
 
 ## Servers
 
