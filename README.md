@@ -34,6 +34,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Agent Bridge](#agent-bridge)
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
+    - [Alysis Code](#alysis-code)
     - [Ano](#ano)
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
@@ -276,6 +277,20 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 ![](./screenshots/aiaw/dark.png)
 
 </details>
+
+### Alysis Code
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/AlysisAi/AlysisCode</td></tr>
+<tr><th align="left">Website</th><td>https://alysiscode.com</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>CLI + Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>macOS (Apple Silicon), Windows; CLI via PyPI</td></tr>
+<tr><th align="left">Pricing</th><td>Free (BYOK); paid plans from €1</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, TypeScript</td></tr>
+</table>
+
+Alysis Code is an open-source AI agent for coding and everyday computer work, available as a CLI and a desktop app. It supports MCP servers, cloud model providers, and local models through Ollama or LM Studio.
 
 ### Ano
 
