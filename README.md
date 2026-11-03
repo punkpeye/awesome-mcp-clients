@@ -87,6 +87,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
+    - [Sugabots](#sugabots)
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Simple AI](#simple-ai)
@@ -1516,6 +1517,28 @@ No-code MCP clients for Slack, Microsoft Teams, and Discord with full support fo
 
 ![](./screenshots/runbear/slack-mcp-client.png)
 ![](./screenshots/runbear/teams-mcp-client.png)
+
+</details>
+
+### Sugabots
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/nitrictech/sugabots</td></tr>
+<tr><th align="left">Website</th><td>https://sugabots.ai</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web (self-hosted with Docker)</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Self-hosted workspace where people and AI agents work together. Connect a remote MCP server once for a pod, sign in with OAuth if it needs it, and choose which of its tools run straight away, which wait for someone to approve them, and which are off. Bots share chats with the team, ask each other for help, and can run on a schedule or from a webhook.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/sugabots/mcp-connections.webp)
+![](./screenshots/sugabots/thread.webp)
 
 </details>
 
