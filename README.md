@@ -2174,6 +2174,20 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 
 </details>
 
+### Kortix
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/kortix-ai/suna</td></tr>
+<tr><th align="left">Website</th><td>https://kortix.com</td></tr>
+<tr><th align="left">License</th><td>Elastic License 2.0</td></tr>
+<tr><th align="left">Type</th><td>Self-hosted, Docker, Cloud-hosted</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Docker, Cloud</td></tr>
+<tr><th align="left">Pricing</th><td>Free to self-host, paid cloud</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Python</td></tr>
+</table>
+
+Kortix is an open-source CompanyOS whose agents reach MCP servers as governed connectors. Each connector is declared in the project's `kortix.yaml`, credentials stay on the Kortix server instead of the agent's computer, and every tool call can be set to allow, ask or block, with the call recorded in the audit log. Runs self-hosted or on Kortix Cloud.
+
 ### PraisonAI
 
 <table>
