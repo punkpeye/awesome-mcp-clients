@@ -114,6 +114,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zin MCP Client](#zin-mcp-client)
     - [Qordinate](#qordinate)
     - [PraisonAI](#praisonai)
+    - [Mel – the agentic terminal](#mel--the-agentic-terminal)
   - [Servers](#servers)
 
 ### OpenClaw
@@ -2187,6 +2188,20 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 </table>
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
+
+### Mel – the agentic terminal
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/openmeldev</td></tr>
+<tr><th align="left">Website</th><td>https://www.openmel.dev</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, CLI, VS Code extension</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Paid (free with your own API key)</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust</td></tr>
+</table>
+
+Mel is a multi-agent, multi-model agentic terminal for Mac, Windows, Linux and VS Code. It runs MCP servers over stdio and Streamable HTTP, each off until you turn it on, and every MCP tool call stops for your approval. Mel also runs as an MCP server (`mel mcp serve`) for Claude, Cursor, Windsurf and VS Code. MCP docs: https://www.openmel.dev/docs/customize/mcp-servers
 
 ## Servers
 
