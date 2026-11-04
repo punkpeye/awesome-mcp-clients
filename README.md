@@ -32,6 +32,8 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [eechat](#eechat)
     - [5ire](#5ire)
     - [Agent Bridge](#agent-bridge)
+
+    - [AGNT](#agnt)
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
     - [Ano](#ano)
@@ -253,6 +255,20 @@ Learn more on the [website](https://www.agent-one.dev), [docs](https://docs.agen
 ![Screenshot of AgentOne settings page on account tab](./screenshots/agent-one/2.png)
 
 </details>
+
+### AGNT
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/agnt-gg/agnt</td></tr>
+<tr><th align="left">Website</th><td>https://agnt.gg</td></tr>
+<tr><th align="left">License</th><td>AGNT Community Core License (source-available)</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, Docker</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free app, paid cloud plans</td></tr>
+<tr><th align="left">Programming Languages</th><td>JavaScript</td></tr>
+</table>
+
+AGNT is a local-first desktop platform for building and running AI agents and visual workflows. Agents connect to MCP servers alongside built-in integrations and plugins, work with cloud API keys, existing AI subscriptions or local models through Ollama and LM Studio, and keep credentials in a local vault.
 
 ### AIaW
 
