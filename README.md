@@ -2203,6 +2203,13 @@ PraisonAI is a production-ready Multi-AI Agents framework with native MCP integr
 
 Open-source, self-hosted AI workspace (keinsaas Navigator Community Edition) with MCP servers over HTTP and stdio, OAuth, agents, workflows and a one-click Vercel deploy.
 
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/better-chatbot/login.png)
+
+</details>
+
 ## Servers
 
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
