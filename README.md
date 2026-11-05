@@ -93,6 +93,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tambo](#tambo)
     - [Taskade](#taskade)
     - [Tester MCP Client](#tester-mcp-client)
+    - [Theia IDE](#theia-ide)
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
     - [Vercade](#vercade)
@@ -1683,6 +1684,36 @@ Key features:
 
 ![](./screenshots/tester-mcp-client/setup.png)
 ![](./screenshots/tester-mcp-client/chat-ui.png)
+
+</details>
+
+### Theia IDE
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/eclipse-theia/theia-ide</td></tr>
+<tr><th align="left">Website</th><td>https://theia-ide.org/</td></tr>
+<tr><th align="left">License</th><td>MIT (Theia IDE), EPL-2.0 or GPL-2.0 with Classpath Exception (Theia Platform)</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux, Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+The [Theia IDE](https://theia-ide.org/) is an open-source, vendor-neutral, AI-native IDE for desktop and browser and an Eclipse Foundation project. Bring your own key for any LLM, including local models. It is built on [Theia AI](https://theia-ide.org/theia-ai/), an open-source AI harness platform for building custom AI-native tools and IDEs, so products built on Theia AI get the same MCP support.
+
+**Key Features:**
+
+- Local (stdio) and remote MCP servers, with OAuth 2.1 for remote servers
+- Install MCP servers and Agent Skills from the AI Registry directly in the Extensions view
+- MCP apps rendered inline in the chat, in a sandboxed iframe with network access blocked
+- Reference MCP tools in chat messages and agent prompts, including custom agents
+- Supports Agent Skills and VS Code extensions
+
+<details>
+<summary>Screenshots</summary>
+
+![MCP app rendered in the chat](./screenshots/theia-ide/mcp-apps.png)
+![MCP servers and skills from the registry in the Extensions view](./screenshots/theia-ide/registry.png)
 
 </details>
 
