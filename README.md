@@ -114,6 +114,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zin MCP Client](#zin-mcp-client)
     - [Qordinate](#qordinate)
     - [PraisonAI](#praisonai)
+    - [better-chatbot](#better-chatbot)
   - [Servers](#servers)
 
 ### OpenClaw
@@ -2187,6 +2188,20 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 </table>
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
+
+### better-chatbot
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/keinsaasforever/better-chatbot</td></tr>
+<tr><th align="left">Website</th><td>https://app.keinsaas.com/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web app (self-hosted)</td></tr>
+<tr><th align="left">Platforms</th><td>Web, Docker, Vercel</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Open-source, self-hosted AI workspace (keinsaas Navigator Community Edition) with MCP servers over HTTP and stdio, OAuth, agents, workflows and a one-click Vercel deploy.
 
 ## Servers
 
