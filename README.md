@@ -96,6 +96,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
     - [Vercade](#vercade)
+    - [Voxos](#voxos)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
     - [Witsy](#witsy)
@@ -1762,6 +1763,21 @@ LLM discord bot with MCP support, customizable personality and scheduling
 ![Vercade Discord assistant](./screenshots/vercade/k2.png)
 
 </details>
+
+### Voxos
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/s-block/voxos</td></tr>
+<tr><th align="left">Website</th><td>https://openvoxos.com</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Self-hosted AI Agent</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS, Docker</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, TypeScript, Dart</td></tr>
+</table>
+
+**Voxos** is a self-hosted AI agent you can talk to, call, text and message on WhatsApp. It connects to remote MCP servers over Streamable HTTP or SSE, handles OAuth and API keys, and only gives an agent the tools you allow. It runs with Docker and uses a Firebase project for sign-in.
+
 
 ### VS Code GitHub Copilot
 
