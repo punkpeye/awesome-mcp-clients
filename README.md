@@ -85,6 +85,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
     - [oterm](#oterm)
+    - [Qwen Local AI Workbench](#qwen-local-ai-workbench)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
     - [Superinterface](#superinterface)
@@ -1465,6 +1466,20 @@ A terminal client for Ollama, with support for MCP servers.
 ![](./screenshots/oterm/mcp.svg)
 
 </details>
+
+### Qwen Local AI Workbench
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/SukritJaAIproject/Qwen-Local-AI-Workbench</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app (local web UI)</td></tr>
+<tr><th align="left">Platforms</th><td>Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, JavaScript, PowerShell</td></tr>
+</table>
+
+Qwen Local AI Workbench is a local-first chat workbench for Windows built on the llama.cpp server and Qwen models, with a Thai/English UI. It connects to MCP servers over HTTP with a bearer token and ships two of its own: guarded local tools (files, shell, Python, Office, OCR) that need a two-step confirmation and write an audit log, and web search with an SSRF guard. Skills are served as MCP prompts.
 
 ### Slack MCP Client
 
