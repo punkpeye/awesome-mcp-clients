@@ -59,6 +59,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Dolphin-MCP](#dolphin-mcp)
     - [Fastchat MCP](#fastchat-mcp)
     - [Enola.dev](#enola)
+    - [Extremely Autonomous Agents](#extremely-autonomous-agents)
     - [FLUJO](#flujo)
     - [Goose](#goose)
     - [Glue](#glue)
