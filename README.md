@@ -34,6 +34,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Agent Bridge](#agent-bridge)
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
+    - [Akmatori](#akmatori)
     - [Ano](#ano)
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
@@ -276,6 +277,26 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 ![](./screenshots/aiaw/dark.png)
 
 </details>
+
+### Akmatori
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/akmatori/akmatori</td></tr>
+<tr><th align="left">Website</th><td>https://akmatori.com</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>Web app (self-hosted)</td></tr>
+<tr><th align="left">Platforms</th><td>Web, Docker Compose</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Go, TypeScript</td></tr>
+</table>
+
+Akmatori is a self-hosted AIOps platform for SRE teams. When an alert arrives from Alertmanager, PagerDuty, Grafana, Datadog, Zabbix or a Slack channel, an LLM agent investigates it with the tools you connect and proposes remediation that a human approves in the web UI or Slack before it runs. Remote MCP servers are added on the Connectors page by URL (Streamable HTTP) with a bearer token, an API key header or OAuth sign-in; their tools get a namespace prefix, single tools can be disabled, and the agent uses them next to the built-in SSH, Kubernetes and monitoring tools.
+
+**Key Features:**
+- **Remote MCP servers**: Streamable HTTP, with bearer token, API key header or OAuth authentication
+- **Alert-driven agent runs**: Alertmanager, PagerDuty, Grafana, Datadog and Zabbix webhooks, Slack channels, cron schedules
+- **Approval gates**: risky actions wait for human approval in the UI or Slack
+- **Multi-LLM**: OpenAI, Anthropic, Google, OpenRouter and OpenAI-compatible on-prem endpoints
 
 ### Ano
 
