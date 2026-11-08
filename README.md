@@ -59,6 +59,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Dolphin-MCP](#dolphin-mcp)
     - [Fastchat MCP](#fastchat-mcp)
     - [Enola.dev](#enola)
+    - [Extremely Autonomous Agents](#extremely-autonomous-agents)
     - [FLUJO](#flujo)
     - [Goose](#goose)
     - [Glue](#glue)
@@ -846,6 +847,20 @@ It can also [simply invoke (call) any MCP server's tools directly](https://docs.
 ![MCP Tools](https://docs.enola.dev/use/mcp/script.svg)
 
 </details>
+
+### Extremely Autonomous Agents
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/maxkxd/extremely-autonomous-agents</td></tr>
+<tr><th align="left">Website</th><td>https://extremely.agency</td></tr>
+<tr><th align="left">License</th><td>AGPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>-</td></tr>
+</table>
+
+**Extremely Autonomous Agents** is a free, open-source AI agency that runs on your own computer. Agents for sales, marketing, support and more work around the clock, build the tools they're missing and only ask you when you choose. Bring your own Claude, ChatGPT or local models.
 
 ### FLUJO
 
