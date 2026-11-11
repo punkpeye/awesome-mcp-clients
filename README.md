@@ -62,6 +62,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [FLUJO](#flujo)
     - [Goose](#goose)
     - [Glue](#glue)
+    - [Goatfied](#goatfied)
     - [HyperChat](#hyperchat)
     - [JDBCX](#jdbcx)
     - [kibitz](#kibitz)
@@ -937,6 +938,19 @@ Glue is a full-featured, thread-first team chat platform with a built-in AI agen
 ![Glue Create Issue](./screenshots/glue/glue-create-issue.png)
 
 </details>
+
+### Goatfied
+
+<table>
+<tr><th align="left">Website</th><td>https://goatfied.com</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, web app, mobile app</td></tr>
+<tr><th align="left">Platforms</th><td>macOS, Windows, Linux, Web, iOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free plan; paid plans available</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Python</td></tr>
+</table>
+
+Goatfied is a workspace that combines an AI code editor with AI agents for business tasks. It is an MCP client: you connect servers from a curated catalog (OAuth is handled for you), admins allow or block servers for the whole workspace, and you choose which MCP tools a cloud agent may use for each run. The integration catalog is at https://goatfied.com/integrations.
 
 ### HyperChat
 
