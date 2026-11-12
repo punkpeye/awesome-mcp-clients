@@ -63,6 +63,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Goose](#goose)
     - [Glue](#glue)
     - [HyperChat](#hyperchat)
+    - [Jaspers Terminal](#jaspers-terminal)
     - [JDBCX](#jdbcx)
     - [kibitz](#kibitz)
     - [LangBot](#LangBot)
@@ -970,6 +971,20 @@ HyperChat is an open Chat client that can use various LLM APIs to provide the be
 ![](./screenshots/hyperchat/image48.png)
 
 </details>
+
+### Jaspers Terminal
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/JaspersAI/terminal</td></tr>
+<tr><th align="left">Website</th><td>https://jsprai.com/terminal</td></tr>
+<tr><th align="left">License</th><td>BSL-1.1 (converts to MIT after 4 years)</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>macOS, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, React</td></tr>
+</table>
+
+Jaspers Terminal is an open-source desktop workspace for public-market research and quantitative workflows. It connects local and remote MCP servers to a multi-tile spreadsheet grid, stores fetched market and filing data in a local SQLite database on the user's machine, and renders custom sandboxed UI views built with `@jaspers-ai/sdk`.
 
 ### JDBCX
 
