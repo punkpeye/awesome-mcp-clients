@@ -33,6 +33,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [5ire](#5ire)
     - [Agent Bridge](#agent-bridge)
     - [AgentOne](#agentone)
+    - [AGNT](#agnt)
     - [AIaW](#aiaw)
     - [Ano](#ano)
     - [AstrBot](#AstrBot)
@@ -253,6 +254,22 @@ Learn more on the [website](https://www.agent-one.dev), [docs](https://docs.agen
 ![Screenshot of AgentOne settings page on account tab](./screenshots/agent-one/2.png)
 
 </details>
+
+### AGNT
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/agnt-gg/agnt</td></tr>
+<tr><th align="left">Website</th><td>https://agnt.gg</td></tr>
+<tr><th align="left">License</th><td>Source available (AGNT Community Core License)</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>JavaScript, TypeScript, Vue</td></tr>
+</table>
+
+AGNT is a local-first agent operating system. It connects to MCP servers over stdio, HTTP and streamable HTTP, including servers that use OAuth, and makes their tools available to persistent agents, visual workflows and autonomous goals that run on your own machine. It works with 20+ model providers and local models through Ollama or LM Studio, puts approval gates in front of consequential tool calls, and keeps a receipt of every call a run makes.
+
+Learn more on the [website](https://agnt.gg) or in the [docs](https://agnt.gg/docs/).
 
 ### AIaW
 
