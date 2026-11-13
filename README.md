@@ -114,6 +114,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zin MCP Client](#zin-mcp-client)
     - [Qordinate](#qordinate)
     - [PraisonAI](#praisonai)
+    - [TeamBot](#teambot)
   - [Servers](#servers)
 
 ### OpenClaw
@@ -2187,6 +2188,20 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 </table>
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
+
+### TeamBot
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/milronski-cmd/teambot</td></tr>
+<tr><th align="left">Website</th><td>https://teambot-beta.vercel.app/en/</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, self-hosted server</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Docker</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+TeamBot runs a team of AI bots on your own computer. A main bot hands work to the other bots; each bot has its own role, memory and permissions. MCP servers are added as connectors and can be given to one bot or to a whole team, and bots that run on Claude Code or Codex get TeamBot's own tools through MCP.
 
 ## Servers
 
