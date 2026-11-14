@@ -93,6 +93,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tambo](#tambo)
     - [Taskade](#taskade)
     - [Tester MCP Client](#tester-mcp-client)
+    - [The One](#the-one)
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
     - [Vercade](#vercade)
@@ -1683,6 +1684,30 @@ Key features:
 
 ![](./screenshots/tester-mcp-client/setup.png)
 ![](./screenshots/tester-mcp-client/chat-ui.png)
+
+</details>
+
+### The One
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://the-zeroth.com</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Windows, Linux (headless server)</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Python</td></tr>
+</table>
+
+The One is a desktop app where a main assistant hands bigger work to working groups of AI agents that run on your own computer. Each role in a group can be given MCP servers (STDIO or Streamable HTTP, with OAuth 2.1 sign-in), alongside built-in tools for files, commands and the web. The One is also an MCP server itself: Claude Code, Codex and other MCP clients on the same computer can list its teams, give one a task, answer its questions and collect the delivery (`list_teams`, `run_team`, `check_task`, `reply_to_task`). Models come from any provider, chosen per agent: OpenAI, Anthropic and Gemini API keys, a ChatGPT sign-in, or OpenAI-compatible endpoints such as Ollama. It is free to use with your own keys.
+
+Learn more on the [website](https://the-zeroth.com) or in the docs on [External tools (MCP)](https://the-zeroth.com/en/docs/the-one-app/capabilities/mcp) and [calling The One from Claude Code or Codex](https://the-zeroth.com/en/docs/the-one-app/remote).
+
+<details>
+<summary>Screenshots</summary>
+
+![A matter's board in The One, with a working group's delivery waiting for a verdict](./screenshots/the-one/matter-board.png)
+![The External tools (MCP) list in The One](./screenshots/the-one/mcp-servers.png)
 
 </details>
 
