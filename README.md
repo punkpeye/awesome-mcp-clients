@@ -60,6 +60,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Fastchat MCP](#fastchat-mcp)
     - [Enola.dev](#enola)
     - [FLUJO](#flujo)
+    - [ForgeMind](#forgemind)
     - [Goose](#goose)
     - [Glue](#glue)
     - [HyperChat](#hyperchat)
@@ -890,6 +891,24 @@ Think n8n + ChatGPT. **FLUJO** is a desktop application that integrates with MCP
 ![image](https://github.com/user-attachments/assets/91cd4525-9b13-4a5a-8f88-72efc11a913d)
 
 </details>
+
+### ForgeMind
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/DIIIUA/ForgeMind</td></tr>
+<tr><th align="left">License</th><td>GPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>Mobile app</td></tr>
+<tr><th align="left">Platforms</th><td>Android</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Kotlin</td></tr>
+</table>
+
+**ForgeMind** is an open-source Android app (Kotlin, Jetpack Compose) that turns a phone into an autonomous AI engineering workstation.
+
+* MCP client for `Streamable HTTP`, `HTTP+SSE` and `SSH stdio` servers (stdio servers are launched on a remote host or in Termux over SSH), with Bearer / Basic / API-key / custom headers, `initialize.instructions` injection and image results forwarded to the chat.
+* Built-in MCP host server (`127.0.0.1:8765`, Bearer auth) that exposes the phone's own tools to other agents.
+* Works with cloud APIs (OpenAI, Anthropic, Gemini, OpenRouter, DeepSeek and others), any custom OpenAI-compatible gateway, and self-hosted Ollama / LM Studio / llama.cpp / vLLM.
+* Built-in tools: files across app sandbox, phone storage, SAF and SFTP; persistent shell and SSH (including Cloudflare Access); multi-tab agent browser; reading and operating the screen of other Android apps via the Accessibility API.
 
 ### Goose
 
