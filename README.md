@@ -88,6 +88,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
     - [Superinterface](#superinterface)
+    - [Senrelay](#senrelay)
     - [SeekChat](#seekchat)
     - [Simple AI](#simple-ai)
     - [Tambo](#tambo)
@@ -1549,6 +1550,21 @@ Key features:
 ![](./screenshots/superinterface/setup-3.png)
 
 </details>
+
+### Senrelay
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/qingsongcui/ContextCore</td></tr>
+<tr><th align="left">Website</th><td>https://senrelay.com/en/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop App, Web UI, CLI</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, JavaScript/TypeScript, Swift</td></tr>
+</table>
+
+Senrelay (续境 / ContextCore) is a local-first macOS workbench and MCP configuration manager for AI coding agents. It provides one-click MCP server, skill, and provider synchronization with rollback snapshots across 15 hosts (including Claude Code, Codex, Cursor, Antigravity, OMP, and OpenCode), source-linked dual-tier persistent memory, and cross-agent `/contextcore` conversation relay.
+
 
 ### SeekChat
 
