@@ -95,6 +95,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tester MCP Client](#tester-mcp-client)
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
+    - [Varin](#varin)
     - [Vercade](#vercade)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
@@ -1734,6 +1735,20 @@ Tome is an open source cross-platform desktop app designed for working with loca
 ![Chat](./screenshots/tome/chat.png)
 ![MCP Servers](./screenshots/tome/mcp.png)
 </details>
+
+### Varin
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Astrmira/Varin</td></tr>
+<tr><th align="left">Website</th><td>https://varin.dev</td></tr>
+<tr><th align="left">License</th><td>AGPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, self-hosted web app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, macOS, Linux, Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free and open source; model and external service costs depend on the user's configuration</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Rust</td></tr>
+</table>
+
+Varin is an open-source personal AI agent that works with your files, browser, and connected computers, and brings in other agents when needed. It connects to local and remote MCP servers, making their tools available in direct conversations and delegated tasks. Available as a desktop application or a self-hosted web app, with the models you choose.
 
 ### Vercade
 
