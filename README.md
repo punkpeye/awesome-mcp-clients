@@ -21,6 +21,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
+* [No Stairs Please MCP](https://nostairsplease.com/mcp) - Public MCP server for 1,700+ US and Canadian live-music venues
 
 ## Clients
 
