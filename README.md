@@ -114,6 +114,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Zin MCP Client](#zin-mcp-client)
     - [Qordinate](#qordinate)
     - [PraisonAI](#praisonai)
+    - [Rolltop](#rolltop)
   - [Servers](#servers)
 
 ### OpenClaw
@@ -2187,6 +2188,29 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 </table>
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
+
+### Rolltop
+
+<table>
+<tr><th align="left">GitHub</th><td>N/A</td></tr>
+<tr><th align="left">Website</th><td>https://rolltop.ai</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free download with starting credits, paid credits after</td></tr>
+<tr><th align="left">Programming Languages</th><td>Go, TypeScript</td></tr>
+</table>
+
+Rolltop is a desktop AI app that puts Claude, GPT, Gemini, Grok and local Ollama models in one place and turns them into finished work saved as files: documents, slide decks, researched reports and images. It is an MCP client for local and hosted servers.
+
+Key features:
+- Local MCP servers added by pasting one command line, with per-server enable, per-project visibility and log files
+- Hosted MCP servers over Streamable HTTP from a URL; OAuth 2.1 with discovery, dynamic client registration and PKCE is detected and handled
+- Implements the 2025-11-25 MCP specification: cancellation, progress, elicitation forms, structured content, tool annotations
+- Smart MCP Selection: conversations start with few tools and the AI asks before adding more
+- Bundled servers for documents, presentations, charts and web fetching
+- Your own JavaScript scripts can be exposed as MCP servers
+- No provider API keys to manage
 
 ## Servers
 
