@@ -96,6 +96,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
     - [Vercade](#vercade)
+    - [Vesper](#vesper)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
     - [Witsy](#witsy)
@@ -1762,6 +1763,26 @@ LLM discord bot with MCP support, customizable personality and scheduling
 ![Vercade Discord assistant](./screenshots/vercade/k2.png)
 
 </details>
+
+### Vesper
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Kernel-Hunter/vesper</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI, desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, TypeScript</td></tr>
+</table>
+
+Coding agent for the terminal and a desktop app that share one SQLite session store.
+
+**Key Features:**
+
+- Reads `~/.vesper/mcp.json` and a project's `.mcp.json`; stdio and Streamable HTTP servers
+- Project servers need your approval before they start, and tools that change things ask first
+- Uses `mcp_find` and `mcp_call` instead of dozens of tool schemas when a server offers many tools
+- Works with 17 model providers, or offline with Ollama
 
 ### VS Code GitHub Copilot
 
