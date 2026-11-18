@@ -84,6 +84,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
+    - [OpenAgentd](#openagentd)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
@@ -1443,6 +1444,20 @@ Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP suppo
 ![](https://github.com/ChatGPTNextWeb/NextChat/blob/main/docs/images/cover.png)
 
 </details>
+
+### OpenAgentd
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/lthoangg/openagentd</td></tr>
+<tr><th align="left">Website</th><td>https://openagentd.dev/</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, CLI</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Windows, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, TypeScript</td></tr>
+</table>
+
+OpenAgentd is an open-source desktop app and CLI for running a coding agent on your own machine. It connects to MCP servers over stdio or HTTP (with OAuth sign-in), added from a connector gallery, in Settings, or in `mcp.json`. The agent finds a server's tools by search and then calls them, and every call is shown with its arguments.
 
 ### oterm
 
