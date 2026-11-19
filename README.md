@@ -35,6 +35,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
     - [Ano](#ano)
+    - [APX](#apx)
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
     - [AnythingLLM](#anythingllm)
@@ -290,6 +291,20 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 </table>
 
 **Ano** is a collaborative chat and workspace for devs that features a native in-app terminal and integrated AI (like Claude Code). It is built as an MCP client, allowing users to run local CLIs, trigger custom automations, and connect to any Model Context Protocol (MCP) server directly from their channels.
+
+### APX
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/agentprojectcontext/apx</td></tr>
+<tr><th align="left">Website</th><td>https://apxagent.app/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, CLI, self-hosted</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, macOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free; model providers and connected services may have separate costs</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+APX is an open-source workspace for project-based teams of AI agents. It connects agents to global or project-scoped MCP servers and provides permissions for tools. [MCP documentation](https://apxagent.app/docs/extend/mcp/).
 
 ### AstrBot
 <table>
