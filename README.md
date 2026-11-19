@@ -72,6 +72,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Lutra](#lutra)
     - [mcp-agent](#mcp-agent)
     - [LobeHub](#lobehub)
+    - [MacAgent OS](#macagent-os)
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
     - [MCPHost](#mcphost)
@@ -1180,6 +1181,20 @@ Modern AI chat framework with multi-model support: Features OpenAI, Anthropic Cl
 ![](./screenshots/lobehub/settings.png)
 
 </details>
+
+### MacAgent OS
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/zakos95/MacAgentOS</td></tr>
+<tr><th align="left">Website</th><td>https://github.com/zakos95/MacAgentOS/releases</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>macOS (Apple Silicon beta)</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Swift, Python</td></tr>
+</table>
+
+MacAgent OS is a native macOS AI assistant with Ollama support and an MCP client for stdio, HTTP and SSE servers. Its open beta supports MCP tools, resources and prompts, with explicit Claude Desktop or project configuration import. Interactive MCP OAuth is not yet supported.
 
 ### MCP Chatbot
 
