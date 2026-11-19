@@ -51,6 +51,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [console-chat-gpt](#console-chat-gpt)
     - [ContextKit](#contextkit)
     - [Copilot-MCP](#copilot-mcp)
+    - [Cowork](#cowork)
     - [Cursor](#cursor)
     - [Continue](#continue)
     - [DeepChat](#deepchat)
@@ -651,6 +652,14 @@ VSCode extension that acts as a Model Context Protocol (MCP) client, enabling in
 ![](./screenshots/copilot-mcp/preview.png)
 
 </details>
+
+### Cowork
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/slashman413/cowork</td></tr>
+</table>
+
+Local-first multi-agent task orchestration runtime with a native Streamable HTTP & stdio MCP server, deterministic filesystem-backed task queue, and resilient LLM fallback chains.
 
 ### Cursor
 
