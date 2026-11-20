@@ -38,6 +38,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
     - [AnythingLLM](#anythingllm)
+    - [Burrak AI](#burrak-ai)
     - [BrowseWiz](#browsewiz)
     - [Canvas MCP Client](#canvas-mcp-client)
     - [CarrotAI](#carrotai)
@@ -348,6 +349,22 @@ The all-in-one AI app you were looking for. Chat with your docs, use AI Agents, 
 ![](./screenshots/anythingllm/anythingllm.png)
 
 </details>
+
+### Burrak AI
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Burrak-AI</td></tr>
+<tr><th align="left">Website</th><td>https://burrakai.com</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Web, desktop and mobile app</td></tr>
+<tr><th align="left">Platforms</th><td>Web, macOS, Windows, iOS, Android</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Python, Rust</td></tr>
+</table>
+
+Burrak AI is an autonomous agent app: you give an agent a goal in plain language, it plans the steps, uses MCP tools to do the work and reports back when it is finished. Agents run in the cloud or on your own computer, on demand or on a schedule, and connect to 96 apps over MCP with standard OAuth sign-in, including Gmail, Outlook, Google Calendar, Notion, GitHub and HubSpot. You choose the model for each task from Claude, GPT and Gemini models.
+
+Learn more on the [website](https://burrakai.com) and in the [docs](https://burrakai.com/docs).
 
 ### BrowseWiz
 
