@@ -95,6 +95,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tester MCP Client](#tester-mcp-client)
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
+    - [Turnloom](#turnloom)
     - [Vercade](#vercade)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
@@ -1734,6 +1735,20 @@ Tome is an open source cross-platform desktop app designed for working with loca
 ![Chat](./screenshots/tome/chat.png)
 ![MCP Servers](./screenshots/tome/mcp.png)
 </details>
+
+### Turnloom
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/bhaskargurram-ai/turnloom</td></tr>
+<tr><th align="left">Website</th><td>https://pypi.org/project/turnloom/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI, local web app</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+Turnloom is a small coding agent for the terminal, with a local web UI called Studio. As an MCP client it connects to stdio and streamable HTTP servers, lets the model search their tools and call them, and puts every MCP call through the same approval as commands and edits. It works with any OpenAI-compatible model, including local ones through Ollama, and can also run as an MCP server itself.
 
 ### Vercade
 
