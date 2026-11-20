@@ -92,6 +92,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Simple AI](#simple-ai)
     - [Tambo](#tambo)
     - [Taskade](#taskade)
+    - [Tesseract](#tesseract)
     - [Tester MCP Client](#tester-mcp-client)
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
@@ -1654,6 +1655,20 @@ Key features:
 - 8 workspace views (list, board, table, mind map, org chart, calendar, gallery, action)
 - Real-time multiplayer collaboration across all platforms
 - Cross-platform: Web, Desktop (Mac/Windows/Linux), Mobile (iOS/Android), Browser Extensions (Chrome/Firefox/Edge)
+
+### Tesseract
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://tesseract.dev</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>macOS, Windows, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+**Tesseract** is a desktop app that runs 14 AI coding agent frameworks (Claude Code, Codex, Gemini CLI, OpenCode, Qwen Code and others) in one window, a different one in each conversation, with a code editor, terminal and live preview. It connects to any MCP server over stdio, HTTP or SSE, and installs servers from the official MCP Registry.
 
 ### Tester MCP Client
 
