@@ -32,6 +32,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [eechat](#eechat)
     - [5ire](#5ire)
     - [Agent Bridge](#agent-bridge)
+    - [AgentForge](#agentforge)
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
     - [Ano](#ano)
@@ -229,6 +230,20 @@ A deployable web-based agent platform for remote MCP servers featuring human-in-
 ![Tool Configuration](./screenshots/agent-bridge/tool_config.png)
 
 </details>
+
+### AgentForge
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/MohitGoyal09/AgentForge</td></tr>
+<tr><th align="left">Website</th><td>https://pypi.org/project/agentforge-harness/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+Terminal coding agent with an MCP client. Servers are set in `config.toml` and their tools register as `server__tool` next to the built-in tools.
 
 ### AgentOne
 
