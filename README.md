@@ -96,6 +96,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
     - [Vercade](#vercade)
+    - [VersoWork](#versowork)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
     - [Witsy](#witsy)
@@ -1760,6 +1761,35 @@ LLM discord bot with MCP support, customizable personality and scheduling
 <summary>Screenshots</summary>
 
 ![Vercade Discord assistant](./screenshots/vercade/k2.png)
+
+</details>
+
+### VersoWork
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/mlubbad/versowork</td></tr>
+<tr><th align="left">Website</th><td>https://github.com/mlubbad/versowork/releases</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, Rust, TypeScript</td></tr>
+</table>
+
+VersoWork is an open-source, model-agnostic (BYOK and local-LLM) native desktop workspace built with Tauri v2 and FastAPI, featuring MCP tool integration, live sandboxed artifacts, and a jailed local coding harness.
+
+**Key Features:**
+
+- Supports stdio and Streamable HTTP MCP transports, OAuth 2.0 + PKCE flows, and one-click `.mcpb` bundles with a bundled Node runtime
+- 15+ built-in cloud and zero-key local providers (Anthropic, Gemini, Vertex AI, OpenAI, DeepSeek, Ollama, vLLM, LM Studio, `llama.cpp`) with keys stored in the OS keychain
+- Symlink-safe workspace coding harness with file checkpoints/rewind, `.claude/settings.json` rule compatibility, and 5-event lifecycle hooks
+- Interactive HTML, React, Mermaid, and SVG artifact previews in isolated `sandbox="allow-scripts"` iframes
+
+<details>
+<summary>Screenshots</summary>
+
+![VersoWork Desktop Workspace](./screenshots/versowork/workspace.png)
+![VersoWork Models and Keychain Settings](./screenshots/versowork/providers.png)
 
 </details>
 
