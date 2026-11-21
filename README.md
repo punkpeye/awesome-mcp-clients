@@ -85,6 +85,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
     - [oterm](#oterm)
+    - [OmniHarness](#omniharness)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
     - [Superinterface](#superinterface)
@@ -1465,6 +1466,21 @@ A terminal client for Ollama, with support for MCP servers.
 ![](./screenshots/oterm/mcp.svg)
 
 </details>
+
+### OmniHarness
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/wasrecordrecorder/omni-harness</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop Application</td></tr>
+<tr><th align="left">Platforms</th><td>Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, Svelte, TypeScript</td></tr>
+</table>
+
+**OmniHarness** is a native autonomous AI-agent desktop harness for Windows 11 built with Tauri 2, Rust, and Svelte 5. It features full Model Context Protocol (MCP) and skills integration, phantom computer use on isolated Win32 desktops, ConPTY process isolation, and a Telegram remote bridge.
+
 
 ### Slack MCP Client
 
