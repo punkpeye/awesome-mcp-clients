@@ -84,6 +84,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
+    - [Olympus Coder](#olympus-coder)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
@@ -1422,6 +1423,20 @@ Session-based AI development assistant with MCP support, 7 LLM providers, and ex
 [![asciicast](https://asciinema.org/a/wpZmOSOgFXp8HRzTltncgN7e3.svg)](https://asciinema.org/a/wpZmOSOgFXp8HRzTltncgN7e3)
 
 </details>
+
+### Olympus Coder
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/martianacademy/olympus-coder</td></tr>
+<tr><th align="left">Website</th><td>https://github.com/martianacademy/olympus-coder/releases/latest</td></tr>
+<tr><th align="left">License</th><td>Apache 2.0</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, Headless server (Web UI)</td></tr>
+<tr><th align="left">Platforms</th><td>macOS, Windows, Linux, Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+**Olympus Coder** is an open-source multi-agent coding workbench and zero-Electron headless VPS server that runs Claude Code, Codex, Antigravity, Ollama, and 18+ ACP coding agents with shared project memory, parallel sub-session orchestration, isolated Git worktrees, embedded terminals, MCP server support, and phone/browser access over local LAN (HTTP) or an E2E-encrypted relay.
 
 ### NextChat
 
