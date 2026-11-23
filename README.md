@@ -35,6 +35,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
     - [Ano](#ano)
+    - [ApeMind (ApeRAG)](#apemind-aperag)
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
     - [AnythingLLM](#anythingllm)
@@ -290,6 +291,20 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 </table>
 
 **Ano** is a collaborative chat and workspace for devs that features a native in-app terminal and integrated AI (like Claude Code). It is built as an MCP client, allowing users to run local CLIs, trigger custom automations, and connect to any Model Context Protocol (MCP) server directly from their channels.
+
+### ApeMind (ApeRAG)
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/apecloud/ApeRAG</td></tr>
+<tr><th align="left">Website</th><td>https://apemind.ai/</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0 (open-source core)</td></tr>
+<tr><th align="left">Type</th><td>Web, Desktop, Docker, Kubernetes</td></tr>
+<tr><th align="left">Platforms</th><td>Web, macOS, Windows, Linux, Docker, Kubernetes</td></tr>
+<tr><th align="left">Pricing</th><td>Open-source self-hosted / Cloud</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, TypeScript</td></tr>
+</table>
+
+**ApeMind (ApeRAG)** is a GraphRAG and hybrid-retrieval knowledge base and AI agent platform that connects to remote Streamable HTTP MCP servers via workspace-managed Connections (`mcp/probe` and `operations/discover`), mounting discovered MCP tools onto agents with credential isolation, per-operation approval policies, and audit logs. It also exposes a built-in Streamable HTTP MCP server (`/mcp/`).
 
 ### AstrBot
 <table>
