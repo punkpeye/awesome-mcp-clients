@@ -57,6 +57,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Dexto](#dexto)
     - [DocsGPT](#docsgpt)
     - [Dolphin-MCP](#dolphin-mcp)
+    - [EchoOS](#echoos)
     - [Fastchat MCP](#fastchat-mcp)
     - [Enola.dev](#enola)
     - [FLUJO](#flujo)
@@ -775,6 +776,27 @@ DocsGPT is a privacy-focused, open-source AI platform designed to create intelli
 <summary>Screenshots</summary>
 
 ![](./screenshots/dolphin-mcp/dolphin-mcp.png)
+
+</details>
+
+### EchoOS
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/justDance-everybody/EchoOS</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web, Self-hosted</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, macOS, Windows, Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python, HTML/JavaScript</td></tr>
+</table>
+
+**EchoOS** is an open-source (<1,000 LOC Python) voice-native MCP client and action runtime that connects realtime speech-to-speech models (Qwen-Omni-Realtime and OpenAI Realtime) to remote Streamable HTTP MCP servers via an explicit `tools.yaml` whitelist. Read tools execute immediately with ~1 s barge-in support; write tools (`confirm: true`) lock arguments server-side and require a subsequent spoken user turn before execution, preventing self-confirmation or parameter tampering.
+
+<details>
+<summary>Demo</summary>
+
+<https://github.com/user-attachments/assets/94b0e690-7623-4e80-a879-0a2d85c9ea1e>
 
 </details>
 
