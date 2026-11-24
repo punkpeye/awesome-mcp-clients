@@ -41,6 +41,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [BrowseWiz](#browsewiz)
     - [Canvas MCP Client](#canvas-mcp-client)
     - [CarrotAI](#carrotai)
+    - [Cerea](#cerea)
     - [Chainlit](#chainlit)
     - [ChatMCP](#chatmcp)
     - [Cherry Studio](#cherry-studio)
@@ -433,6 +434,27 @@ CarrotAI is an advanced AI agent application that enables real-time streaming ch
 ![app market](./screenshots/carrotai/carrotai_shop.png)
 ![install app](./screenshots/carrotai/carrotai_env.png)
 ![app installed](./screenshots/carrotai/carrotai_myapps.png)
+
+</details>
+
+### Cerea
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/paoloviviani/Cerea</td></tr>
+<tr><th align="left">Website</th><td>https://paoloviviani.github.io/Cerea/</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web, Docker</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Go</td></tr>
+</table>
+
+Self-hosted chat and coding agents for teams (a fork of Hugging Face chat-ui). Remote MCP servers are connectors shared by the chat and by coding agents running on users' own computers, with per-user approval of tool calls; local MCP servers on those computers work too. Knowledge bases, artifacts, Office files and Python in the browser; with its companion gateway, per-user spend, quotas and privacy rules.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/cerea/cerea.webp)
 
 </details>
 
