@@ -84,6 +84,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
+    - [OnBuzz](#onbuzz)
     - [oterm](#oterm)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
@@ -1443,6 +1444,26 @@ Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP suppo
 ![](https://github.com/ChatGPTNextWeb/NextChat/blob/main/docs/images/cover.png)
 
 </details>
+
+### OnBuzz
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://onbuzz.loxia.ai</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app, Web app, CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, macOS, Linux, Web</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>JavaScript, TypeScript</td></tr>
+</table>
+
+A harness for running a small team of AI agents, each with its own role, tools and model (local models included). Agents can call tools from remote MCP servers, hand off tasks to each other, and run on schedules or triggers.
+
+**Key Features:**
+- **Remote MCP servers**: connect HTTP MCP servers and call their tools from any agent
+- **Multi-agent**: agents with separate roles and models message each other and hand off work
+- **Human-in-the-loop**: an ungranted tool call is blocked until you choose allow once, always or deny
+- **Runs anywhere**: browser workspace with no install, desktop app, or `npm install -g onbuzz`
 
 ### oterm
 
