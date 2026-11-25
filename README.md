@@ -992,6 +992,20 @@ JDBCX extends JDBC by providing enhanced support for data formats and compressio
 ![JDBC Client - DBeaver](./screenshots/jdbcx/dbeaver.png)
 </details>
 
+### Jiva
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/KarmaloopAI/Jiva</td></tr>
+<tr><th align="left">Website</th><td>https://github.com/KarmaloopAI/Jiva</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI and cloud autonomous agent</td></tr>
+<tr><th align="left">Platforms</th><td>Terminal, Cloud</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Node.js</td></tr>
+</table>
+
+Jiva is an open-source autonomous agent for the terminal and cloud. It connects to MCP servers (stdio or HTTP) from its config file or with `--mcp`, in both its general-purpose mode and its code mode, and works with any OpenAI-compatible model provider.
+
 ### kibitz
 
 <table>
