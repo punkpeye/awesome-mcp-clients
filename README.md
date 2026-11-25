@@ -51,6 +51,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [console-chat-gpt](#console-chat-gpt)
     - [ContextKit](#contextkit)
     - [Copilot-MCP](#copilot-mcp)
+    - [Cunning Claw](#cunning-claw)
     - [Cursor](#cursor)
     - [Continue](#continue)
     - [DeepChat](#deepchat)
@@ -651,6 +652,20 @@ VSCode extension that acts as a Model Context Protocol (MCP) client, enabling in
 ![](./screenshots/copilot-mcp/preview.png)
 
 </details>
+
+### Cunning Claw
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Dragon-Forge-master/cunning-claw</td></tr>
+<tr><th align="left">Website</th><td>https://cunningclaw.com</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+A local AI agent that connects to MCP servers (stdio and remote, with OAuth) alongside its own shell, browser and email tools, and asks for approval before anything that sends, spends or deletes.
 
 ### Cursor
 
