@@ -92,6 +92,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Simple AI](#simple-ai)
     - [Tambo](#tambo)
     - [Taskade](#taskade)
+    - [Teamski](#teamski)
     - [Tester MCP Client](#tester-mcp-client)
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
@@ -1654,6 +1655,29 @@ Key features:
 - 8 workspace views (list, board, table, mind map, org chart, calendar, gallery, action)
 - Real-time multiplayer collaboration across all platforms
 - Cross-platform: Web, Desktop (Mac/Windows/Linux), Mobile (iOS/Android), Browser Extensions (Chrome/Firefox/Edge)
+
+### Teamski
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/janakrathi/Teamski</td></tr>
+<tr><th align="left">Website</th><td>https://teamski.in</td></tr>
+<tr><th align="left">License</th><td>AGPL-3.0</td></tr>
+<tr><th align="left">Type</th><td>Web app, Docker, Cloud-hosted</td></tr>
+<tr><th align="left">Platforms</th><td>Web, Docker, Self-hosted</td></tr>
+<tr><th align="left">Pricing</th><td>Free to self-host, freemium hosted plans</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+[Teamski](https://teamski.in) is a team chat where every channel has its own AI agent that the whole team shares. The agent connects to any remote MCP server with OAuth and asks a person to approve anything that would change a connected app.
+
+Key features:
+
+- One-click connections to remote MCP servers such as Notion, Linear, Jira and Confluence, Asana, Sentry, Stripe and DeepWiki, plus any custom MCP server URL
+- Human approval before any tool call that changes a connected app
+- Shared memory per channel and per project, stored with pgvector and encrypted at rest
+- Background tasks that keep running after you close the tab and post results to the channel
+- Built-in GPT-OSS 120B, local models through Ollama, or your own Claude, OpenAI, Gemini or Grok keys
+- Self-host with Docker and Supabase, or use the hosted version at teamski.in
 
 ### Tester MCP Client
 
