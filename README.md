@@ -60,6 +60,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Fastchat MCP](#fastchat-mcp)
     - [Enola.dev](#enola)
     - [FLUJO](#flujo)
+    - [Friday](#friday)
     - [Goose](#goose)
     - [Glue](#glue)
     - [HyperChat](#hyperchat)
@@ -888,6 +889,33 @@ Think n8n + ChatGPT. **FLUJO** is a desktop application that integrates with MCP
 ![image](https://github.com/user-attachments/assets/076a5d0c-bb35-4765-a2dc-8423d103eeb0)
 
 ![image](https://github.com/user-attachments/assets/91cd4525-9b13-4a5a-8f88-72efc11a913d)
+
+</details>
+
+### Friday
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/splashxmoon/friday-code</td></tr>
+<tr><th align="left">Website</th><td>www.tryfridaywork.com</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, macOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+**Friday** is a desktop app that runs Claude Code, Codex, Cursor and 15 more coding agents on your own computer, side by side or as a team that splits a job on a shared task board, messages each other and reviews each other's work. As an MCP client, it keeps your MCP servers in one place and connects them to every coding tool it runs, with sign-in handled for servers that need it. It also ships its own MCP server, so another agent can start Friday sessions and hand them work.
+
+- MCP servers set up once, for every coding tool
+- Shared task board and agent-to-agent messages
+- Review of each finished task by another agent
+- Runs on the coding tools' own plans, no account
+
+<details>
+
+<summary>Screenshots</summary>
+
+![image](https://raw.githubusercontent.com/splashxmoon/friday-code/main/docs/assets/site/hero.png)
 
 </details>
 
