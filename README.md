@@ -39,6 +39,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Autohand Code CLI](#autohand-code-cli)
     - [AnythingLLM](#anythingllm)
     - [BrowseWiz](#browsewiz)
+    - [Calyban](#calyban)
     - [Canvas MCP Client](#canvas-mcp-client)
     - [CarrotAI](#carrotai)
     - [Chainlit](#chainlit)
@@ -378,6 +379,24 @@ It is a flexible tool that can help automate *your* workflows.
 ![](./screenshots/browsewiz/mcp.png)
 
 </details>
+
+### Calyban
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/nemesisLLC/calyban-releases (installers only)</td></tr>
+<tr><th align="left">Website</th><td>https://calyban.com</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Calyban manages the MCP servers your other clients use. It isn't a chat client itself: it installs, updates and removes MCP servers in Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI and Claude Desktop, writing each one's config in its own format (`cmd /c` for `npx` on Windows included). It handles skills and plugins the same way.
+
+- Checks each server before installing: its launch command, the package against the OpenSSF malicious-packages list, and lookalike package names.
+- Undo puts the client's config file back byte for byte.
+- Ships its own read-only MCP server, so an agent can search the catalog for a tool while it works.
 
 ### Canvas MCP Client
 
