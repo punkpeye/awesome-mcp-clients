@@ -62,6 +62,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [FLUJO](#flujo)
     - [Goose](#goose)
     - [Glue](#glue)
+    - [hassō](#hassō)
     - [HyperChat](#hyperchat)
     - [JDBCX](#jdbcx)
     - [kibitz](#kibitz)
@@ -937,6 +938,20 @@ Glue is a full-featured, thread-first team chat platform with a built-in AI agen
 ![Glue Create Issue](./screenshots/glue/glue-create-issue.png)
 
 </details>
+
+### hassō
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://hasso.studio/?v=amc</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Free (optional paid models)</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+hassō is a free AI helper for Mac and Windows, made for people who have never used a chatbot. It runs an AI model on your own computer (or free online models if the computer is too small) and works on your files, documents and browser. It connects to MCP servers over stdio, Streamable HTTP and SSE, with OAuth sign-in for remote servers; Notion and GitHub are offered first. You choose which helpers use each server and which of its tools are on, and every tool call asks first unless you allow that tool.
 
 ### HyperChat
 
