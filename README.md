@@ -677,6 +677,10 @@ Cursor is an AI-first code editor fork of VS Code that helps you code faster wit
 
 </details>
 
+### Cowork MCP
+
+[Cowork MCP](https://github.com/slashman413/cowork) (v1.0.3, MIT) is a self-hosted, local-first multi-agent task queue and Streamable HTTP MCP control plane (`/mcp`) that orchestrates Claude Code, Codex, Gemini CLI, and Hermes with filesystem-backed state, rate-limit fallback chains, and isolated git worktrees.
+
 ### Continue
 
 <table>
