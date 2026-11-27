@@ -31,6 +31,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [askit-mcp](#askit-mcp)
     - [eechat](#eechat)
     - [5ire](#5ire)
+    - [Agent Alliance](#agent-alliance)
     - [Agent Bridge](#agent-bridge)
     - [AgentOne](#agentone)
     - [AIaW](#aiaw)
@@ -198,6 +199,20 @@ An open-source, cross-platform desktop application that seamlessly connects with
 https://github.com/user-attachments/assets/a27494c5-437d-481c-a25f-74cfa5a2bc45
 
 </details>
+
+### Agent Alliance
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/slientwind/agent-alliance</td></tr>
+<tr><th align="left">Website</th><td>https://slientwind.github.io/agent-alliance/</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>Web app (Self-hosted Docker Compose)</td></tr>
+<tr><th align="left">Platforms</th><td>Linux, macOS, Windows</td></tr>
+<tr><th align="left">Pricing</th><td>Free &amp; Open Source</td></tr>
+<tr><th align="left">Programming Languages</th><td>Go, TypeScript</td></tr>
+</table>
+
+Agent Alliance is an open-source, self-hosted enterprise Personal Agent and Team Space workspace featuring a built-in MCP Client Hub (Streamable HTTP &amp; SSE transport, AES-GCM Vault credential injection, L0 read-only vs L2 human-approval write risk tiers, and scheduled upstream MCP registry scanning). It pairs MCP tools with Personal/Team Space isolation, ACL-aware Hybrid RAG, ERP/CRM OBO connectors, air-gapped Docker sandboxes, and a 6-tier internal LLM Gateway.
 
 ### Agent Bridge
 
