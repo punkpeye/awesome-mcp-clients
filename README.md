@@ -85,6 +85,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
     - [oterm](#oterm)
+    - [Saturday](#saturday)
     - [Slack MCP Client](#slack-mcp-client)
     - [Runbear](#runbear)
     - [Superinterface](#superinterface)
@@ -1465,6 +1466,20 @@ A terminal client for Ollama, with support for MCP servers.
 ![](./screenshots/oterm/mcp.svg)
 
 </details>
+
+### Saturday
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://saturday.mershlab.com</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>-</td></tr>
+</table>
+
+**Saturday** is a desktop AI agent that works with MCP in both directions: it is an MCP client that can use servers you already run, and an MCP server (`saturday mcp serve`) so Claude Desktop, Cursor, Codex and other clients can call its tools. It runs on Windows, macOS and Linux, brings your own model (an existing Claude or ChatGPT subscription, an API key from 19 providers, or a local Ollama/vLLM/llama.cpp runtime), asks before risky actions, and keeps a hash-chained audit log. Free during beta; the application source is not public yet.
 
 ### Slack MCP Client
 
