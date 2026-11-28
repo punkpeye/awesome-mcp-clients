@@ -81,6 +81,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Memex](#memex)
     - [MCPOmni Connect](#mcpomni-connect)
     - [MCP SuperAssistant](#mcp-superassistant)
+    - [MindPal](#mindpal)
     - [Nerve](#nerve)
     - [NextChat](#nextchat)
     - [Octomind](#octomind)
@@ -103,7 +104,6 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [y-cli](#y-cli)
     - [Yume](#yume)
     - [Zed](#zed)
-    - [MindPal](#mindpal)
     - [WhatsMCP](#whatsmcp)
     - [Runbear](#runbear)
     - [BoltAI](#boltai)
@@ -1381,6 +1381,35 @@ Add MCP Capabilities to Chatgpt, Gemini, Grok, Google AI Studio, DeepSeek, AI St
 
 </details>
 
+### MindPal
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://mindpal.space</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+MindPal is where coaches, consultants, agencies and educators turn their expertise into AI tools, chatbots and workflows for their clients, team and audience, without code. Agents are grounded in your own documents and methods, combined into multi-step workflows, and published on a link, an embed or your own domain. As an MCP client, a MindPal agent can use any MCP server you add to the workspace, such as Zapier's or Make's, as tools, alongside web search, image generation and connected apps. MindPal also runs a remote MCP server (`https://mcp.mindpal.space/mcp`, OAuth 2.1) so Claude, ChatGPT and other assistants can build and run MindPal agents and workflows ([docs](https://docs.mindpal.space/mcp)).
+
+Key features:
+- No-code AI agent builder grounded in your own knowledge
+- Multi-agent workflows
+- Choice of models (GPT, Claude, Gemini and others)
+- MCP servers as agent tools
+- Publish agents as chatbots and workflows as forms, with white-label branding
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/mindpal/agent-config.jpg)
+![](./screenshots/mindpal/mcp-integration.jpg)
+
+</details>
+
 ### Nerve
 
 <table>
@@ -1906,36 +1935,6 @@ Zed is a high-performance, multiplayer code editor from the creators of Atom and
 <summary>Screenshots</summary>
 
 https://github.com/user-attachments/assets/95624731-5469-4b58-a21f-bbb31d9838fa
-
-</details>
-
-### MindPal
-
-<table>
-<tr><th align="left">GitHub</th><td>https://github.com/mindpal-ai/mindpal</td></tr>
-<tr><th align="left">Website</th><td>https://mindpal.io</td></tr>
-<tr><th align="left">License</th><td>Proprietary</td></tr>
-<tr><th align="left">Type</th><td>Web app</td></tr>
-<tr><th align="left">Platforms</th><td>Web</td></tr>
-<tr><th align="left">Pricing</th><td>Freemium</td></tr>
-<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
-</table>
-
-MindPal is a no-code platform for building and deploying AI agents and multi-agent workflows. It enables anyone without technical skills to create powerful AI automation solutions by connecting any AI model with any tool. Build complex workflows where multiple AI agents work together to accomplish tasks, with built-in support for MCP servers and tools.
-
-Key features:
-- No-code AI agent builder
-- Multi-agent workflow orchestration
-- Support for any AI model provider
-- MCP server integration
-- Visual workflow designer
-- Built-in tool marketplace
-
-<details>
-<summary>Screenshots</summary>
-
-![](./screenshots/mindpal/agent-config.jpg)
-![](./screenshots/mindpal/mcp-integration.jpg)
 
 </details>
 
