@@ -92,6 +92,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Simple AI](#simple-ai)
     - [Tambo](#tambo)
     - [Taskade](#taskade)
+    - [Termexo Fleet](#termexo-fleet)
     - [Tester MCP Client](#tester-mcp-client)
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
@@ -1654,6 +1655,28 @@ Key features:
 - 8 workspace views (list, board, table, mind map, org chart, calendar, gallery, action)
 - Real-time multiplayer collaboration across all platforms
 - Cross-platform: Web, Desktop (Mac/Windows/Linux), Mobile (iOS/Android), Browser Extensions (Chrome/Firefox/Edge)
+
+### Termexo Fleet
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/gemron/Termexo-Fleet</td></tr>
+<tr><th align="left">Website</th><td>https://www.termexo.com/#fleet</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Rust, TypeScript</td></tr>
+</table>
+
+[Termexo Fleet](https://github.com/gemron/Termexo-Fleet) is a local-first AI coding fleet commander built with Rust, Tauri 2, and Angular 22. It connects via Streamable HTTP MCP to one or more [Termexo](https://github.com/gemron/Termexo) desktops across local, LAN, or Tailscale nodes to orchestrate Claude Code, Codex CLI, OpenCode, and other coding agents with full live PTY visibility.
+
+Key features:
+
+- Bidirectional Streamable HTTP MCP orchestration (forward MCP client + local reverse MCP server for autonomous sub-agent DAGs)
+- L1–L4 difficulty-aware routing with cross-family L4 security reviews and automatic `429/402` failover
+- Git Worktree isolation with recursion depth, concurrency, and budget guardrails for spawned sub-agents
+- Zero black-box slide-over terminal drawer to inspect raw PTY output and approve prompts directly
+- Local SQLite cost-savings ledger and OS Keyring credential storage
 
 ### Tester MCP Client
 
